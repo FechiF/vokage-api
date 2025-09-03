@@ -264,28 +264,10 @@
       "answer": "to hate"
     },
     {
-      "word": "abominate",
-      "question": "What does 'abominate' mean?",
-      "choices": ["to loathe", "to decorate", "to preserve", "to mend"],
-      "answer": "to loathe"
-    },
-    {
-      "word": "aborigine",
-      "question": "What does 'aborigine' mean?",
-      "choices": ["native inhabitant", "outsider", "explorer", "leader"],
-      "answer": "native inhabitant"
-    },
-    {
       "word": "absolve",
       "question": "What does 'absolve' mean?",
       "choices": ["to forgive", "to imprison", "to confuse", "to test"],
       "answer": "to forgive"
-    },
-    {
-      "word": "accentuated",
-      "question": "What does 'accentuated' mean?",
-      "choices": ["emphasized", "ignored", "erased", "softened"],
-      "answer": "emphasized"
     },
     {
       "word": "accolade",
@@ -304,12 +286,6 @@
       "question": "What does 'adroit' mean?",
       "choices": ["skillful", "clumsy", "angry", "weak"],
       "answer": "skillful"
-    },
-    {
-      "word": "adulation",
-      "question": "What does 'adulation' mean?",
-      "choices": ["excessive praise", "criticism", "argument", "jealousy"],
-      "answer": "excessive praise"
     },
     {
       "word": "adverse",
@@ -353,50 +329,10 @@
       "answer": "one unsure of belief in God"
     },
     {
-      "word": "agrarian",
-      "question": "What does 'agrarian' mean?",
-      "choices": [
-        "related to farming",
-        "related to trade",
-        "related to law",
-        "related to war"
-      ],
-      "answer": "related to farming"
-    },
-    {
-      "word": "alimentary",
-      "question": "What does 'alimentary' mean?",
-      "choices": [
-        "related to food",
-        "related to sound",
-        "related to light",
-        "related to air"
-      ],
-      "answer": "related to food"
-    },
-    {
-      "word": "allay",
-      "question": "What does 'allay' mean?",
-      "choices": ["to calm", "to excite", "to grow", "to steal"],
-      "answer": "to calm"
-    },
-    {
-      "word": "allegory",
-      "question": "What does 'allegory' mean?",
-      "choices": ["symbolic story", "short poem", "debate", "ritual"],
-      "answer": "symbolic story"
-    },
-    {
       "word": "allocate",
       "question": "What does 'allocate' mean?",
       "choices": ["to assign", "to remove", "to oppose", "to waste"],
       "answer": "to assign"
-    },
-    {
-      "word": "allude",
-      "question": "What does 'allude' mean?",
-      "choices": ["to hint", "to declare", "to avoid", "to deny"],
-      "answer": "to hint"
     },
     {
       "word": "altercation",
@@ -435,34 +371,10 @@
       "answer": "hostility"
     },
     {
-      "word": "annals",
-      "question": "What does 'annals' mean?",
-      "choices": ["historical records", "gossip", "myths", "instructions"],
-      "answer": "historical records"
-    },
-    {
-      "word": "anomaly",
-      "question": "What does 'anomaly' mean?",
-      "choices": ["irregularity", "rule", "standard", "law"],
-      "answer": "irregularity"
-    },
-    {
-      "word": "anthology",
-      "question": "What does 'anthology' mean?",
-      "choices": ["collection", "analysis", "argument", "tradition"],
-      "answer": "collection"
-    },
-    {
       "word": "antipathy",
       "question": "What does 'antipathy' mean?",
       "choices": ["dislike", "sympathy", "respect", "habit"],
       "answer": "dislike"
-    },
-    {
-      "word": "antithesis",
-      "question": "What does 'antithesis' mean?",
-      "choices": ["opposite", "agreement", "repetition", "cause"],
-      "answer": "opposite"
     },
     {
       "word": "apathy",
@@ -471,22 +383,10 @@
       "answer": "lack of interest"
     },
     {
-      "word": "aplomb",
-      "question": "What does 'aplomb' mean?",
-      "choices": ["self-confidence", "confusion", "fear", "anger"],
-      "answer": "self-confidence"
-    },
-    {
       "word": "archaic",
       "question": "What does 'archaic' mean?",
       "choices": ["old-fashioned", "modern", "useful", "temporary"],
       "answer": "old-fashioned"
-    },
-    {
-      "word": "archives",
-      "question": "What does 'archives' mean?",
-      "choices": ["records", "weapons", "jewels", "laws"],
-      "answer": "records"
     },
     {
       "word": "arduous",
@@ -495,33 +395,10 @@
       "answer": "difficult"
     },
     {
-      "word": "arrears",
-      "question": "What does 'arrears' mean?",
-      "choices": ["debt", "profit", "investment", "saving"],
-      "answer": "debt"
-    },
-    {
       "word": "ascendant",
       "question": "What does 'ascendant' mean?",
       "choices": ["rising", "falling", "equal", "hidden"],
       "answer": "rising"
-    },
-    {
-      "word": "assay",
-      "question": "What does 'assay' mean?",
-      "choices": ["to test", "to avoid", "to complain", "to collect"],
-      "answer": "to test"
-    },
-    {
-      "word": "astral",
-      "question": "What does 'astral' mean?",
-      "choices": [
-        "related to stars",
-        "related to oceans",
-        "related to history",
-        "related to music"
-      ],
-      "answer": "related to stars"
     },
     {
       "word": "astute",
@@ -534,17 +411,6 @@
       "question": "What does 'atheist' mean?",
       "choices": ["nonbeliever in God", "devout person", "scholar", "preacher"],
       "answer": "nonbeliever in God"
-    },
-    {
-      "word": "atoll",
-      "question": "What does 'atoll' mean?",
-      "choices": [
-        "ring-shaped coral island",
-        "mountain peak",
-        "desert dune",
-        "river bend"
-      ],
-      "answer": "ring-shaped coral island"
     },
     {
       "word": "atrophy",
@@ -571,18 +437,6 @@
       "answer": "to increase"
     },
     {
-      "word": "augur",
-      "question": "What does 'augur' mean?",
-      "choices": ["to predict", "to hide", "to confuse", "to decorate"],
-      "answer": "to predict"
-    },
-    {
-      "word": "auspices",
-      "question": "What does 'auspices' mean?",
-      "choices": ["support", "threat", "doubt", "attack"],
-      "answer": "support"
-    },
-    {
       "word": "auspicious",
       "question": "What does 'auspicious' mean?",
       "choices": ["favorable", "dangerous", "neutral", "dull"],
@@ -599,12 +453,6 @@
       "question": "What does 'authoritative' mean?",
       "choices": ["commanding", "weak", "unclear", "playful"],
       "answer": "commanding"
-    },
-    {
-      "word": "autocratic",
-      "question": "What does 'autocratic' mean?",
-      "choices": ["dictatorial", "free", "equal", "uncertain"],
-      "answer": "dictatorial"
     },
     {
       "word": "autonomy",
@@ -631,35 +479,6 @@
       "answer": "to refuse"
     },
     {
-      "word": "bane",
-      "question": "What does 'bane' mean?",
-      "choices": [
-        "cause of harm",
-        "source of joy",
-        "act of kindness",
-        "promise"
-      ],
-      "answer": "cause of harm"
-    },
-    {
-      "word": "beatitude",
-      "question": "What does 'beatitude' mean?",
-      "choices": ["blessedness", "sadness", "hostility", "emptiness"],
-      "answer": "blessedness"
-    },
-    {
-      "word": "beguile",
-      "question": "What does 'beguile' mean?",
-      "choices": ["to charm", "to injure", "to hide", "to trade"],
-      "answer": "to charm"
-    },
-    {
-      "word": "benediction",
-      "question": "What does 'benediction' mean?",
-      "choices": ["blessing", "curse", "argument", "speech"],
-      "answer": "blessing"
-    },
-    {
       "word": "benign",
       "question": "What does 'benign' mean?",
       "choices": ["harmless", "toxic", "dangerous", "hostile"],
@@ -670,17 +489,6 @@
       "question": "What does 'beset' mean?",
       "choices": ["to trouble", "to heal", "to praise", "to repair"],
       "answer": "to trouble"
-    },
-    {
-      "word": "biennial",
-      "question": "What does 'biennial' mean?",
-      "choices": [
-        "every two years",
-        "once a year",
-        "every month",
-        "every decade"
-      ],
-      "answer": "every two years"
     },
     {
       "word": "blatant",
@@ -707,12 +515,6 @@
       "answer": "middle-class"
     },
     {
-      "word": "bovine",
-      "question": "What does 'bovine' mean?",
-      "choices": ["cow-like", "cat-like", "fast", "bird-like"],
-      "answer": "cow-like"
-    },
-    {
       "word": "brusque",
       "question": "What does 'brusque' mean?",
       "choices": ["abrupt", "gentle", "quiet", "wordy"],
@@ -723,12 +525,6 @@
       "question": "What does 'bureaucracy' mean?",
       "choices": ["administration", "rebellion", "chaos", "wealth"],
       "answer": "administration"
-    },
-    {
-      "word": "canvass",
-      "question": "What does 'canvass' mean?",
-      "choices": ["to solicit", "to ignore", "to punish", "to relax"],
-      "answer": "to solicit"
     },
     {
       "word": "carnage",
@@ -743,28 +539,6 @@
       "answer": "to complain"
     },
     {
-      "word": "carrion",
-      "question": "What does 'carrion' most nearly mean?",
-      "choices": [
-        "decaying flesh",
-        "valuable cargo",
-        "tree bark",
-        "hunting tool"
-      ],
-      "answer": "decaying flesh"
-    },
-    {
-      "word": "castigate",
-      "question": "What does 'castigate' most nearly mean?",
-      "choices": [
-        "to punish harshly",
-        "to decorate",
-        "to liberate",
-        "to persuade"
-      ],
-      "answer": "to punish harshly"
-    },
-    {
       "word": "censure",
       "question": "What does 'censure' most nearly mean?",
       "choices": [
@@ -774,17 +548,6 @@
         "quiet approval"
       ],
       "answer": "strong criticism"
-    },
-    {
-      "word": "chaff",
-      "question": "What does 'chaff' most nearly mean?",
-      "choices": [
-        "worthless matter",
-        "rough cloth",
-        "friendly talk",
-        "small coin"
-      ],
-      "answer": "worthless matter"
     },
     {
       "word": "chagrin",
@@ -849,22 +612,10 @@
       "answer": "informal speech"
     },
     {
-      "word": "commensurate",
-      "question": "What does 'commensurate' most nearly mean?",
-      "choices": ["proportional", "excessive", "insufficient", "temporary"],
-      "answer": "proportional"
-    },
-    {
       "word": "complacent",
       "question": "What does 'complacent' most nearly mean?",
       "choices": ["self-satisfied", "hardworking", "restless", "generous"],
       "answer": "self-satisfied"
-    },
-    {
-      "word": "concomitant",
-      "question": "What does 'concomitant' most nearly mean?",
-      "choices": ["accompanying", "opposing", "occasional", "delayed"],
-      "answer": "accompanying"
     },
     {
       "word": "condolence",
@@ -882,29 +633,6 @@
       "question": "What does 'configuration' most nearly mean?",
       "choices": ["arrangement", "prediction", "movement", "decoration"],
       "answer": "arrangement"
-    },
-    {
-      "word": "congenital",
-      "question": "What does 'congenital' most nearly mean?",
-      "choices": [
-        "present at birth",
-        "rarely seen",
-        "developed later",
-        "naturally cured"
-      ],
-      "answer": "present at birth"
-    },
-    {
-      "word": "coniferous",
-      "question": "What does 'coniferous' most nearly mean?",
-      "choices": ["cone-bearing", "leafy", "decayed", "poisonous"],
-      "answer": "cone-bearing"
-    },
-    {
-      "word": "connote",
-      "question": "What does 'connote' most nearly mean?",
-      "choices": ["to imply", "to measure", "to ignore", "to reveal"],
-      "answer": "to imply"
     },
     {
       "word": "consternation",
@@ -929,17 +657,6 @@
       "question": "What does 'contingent' most nearly mean?",
       "choices": ["dependent", "certain", "fixed", "independent"],
       "answer": "dependent"
-    },
-    {
-      "word": "convolution",
-      "question": "What does 'convolution' most nearly mean?",
-      "choices": [
-        "complex twist",
-        "clear path",
-        "simple plan",
-        "straight line"
-      ],
-      "answer": "complex twist"
     },
     {
       "word": "corpulent",
@@ -977,27 +694,10 @@
       "answer": "believable"
     },
     {
-      "word": "credulity",
-      "question": "What does 'credulity' most nearly mean?",
-      "choices": ["gullibility", "wisdom", "curiosity", "fear"],
-      "answer": "gullibility"
-    },
-    {
       "word": "culpable",
       "question": "What does 'culpable' most nearly mean?",
       "choices": ["guilty", "innocent", "careless", "confused"],
       "answer": "guilty"
-    },
-    {
-      "word": "cult",
-      "question": "What does 'cult' most nearly mean?",
-      "choices": [
-        "extreme group",
-        "small garden",
-        "popular trend",
-        "strict rule"
-      ],
-      "answer": "extreme group"
     },
     {
       "word": "daunt",
@@ -1010,12 +710,6 @@
       "question": "What does 'dearth' most nearly mean?",
       "choices": ["scarcity", "plenty", "confusion", "failure"],
       "answer": "scarcity"
-    },
-    {
-      "word": "decant",
-      "question": "What does 'decant' most nearly mean?",
-      "choices": ["to pour off", "to decorate", "to clean", "to seal"],
-      "answer": "to pour off"
     },
     {
       "word": "decrepit",
@@ -1036,12 +730,6 @@
       "answer": "respect"
     },
     {
-      "word": "definitive",
-      "question": "What does 'definitive' most nearly mean?",
-      "choices": ["conclusive", "uncertain", "minor", "approximate"],
-      "answer": "conclusive"
-    },
-    {
       "word": "deleterious",
       "question": "What does 'deleterious' most nearly mean?",
       "choices": ["harmful", "useful", "fragile", "rare"],
@@ -1052,17 +740,6 @@
       "question": "What does 'delineate' most nearly mean?",
       "choices": ["to describe", "to erase", "to hide", "to simplify"],
       "answer": "to describe"
-    },
-    {
-      "word": "delta",
-      "question": "What does 'delta' most nearly mean?",
-      "choices": [
-        "river mouth",
-        "desert area",
-        "mountain pass",
-        "island chain"
-      ],
-      "answer": "river mouth"
     },
     {
       "word": "demeanor",
@@ -1094,12 +771,6 @@
       "answer": "to violate something sacred"
     },
     {
-      "word": "desiccate",
-      "question": "What does 'desiccate' most nearly mean?",
-      "choices": ["to dry out", "to moisten", "to bury", "to melt"],
-      "answer": "to dry out"
-    },
-    {
       "word": "desist",
       "question": "What does 'desist' most nearly mean?",
       "choices": ["to stop", "to insist", "to move", "to begin"],
@@ -1112,38 +783,10 @@
       "answer": "lacking"
     },
     {
-      "word": "dichotomy",
-      "question": "What does 'dichotomy' most nearly mean?",
-      "choices": [
-        "division into two parts",
-        "agreement",
-        "multiplication",
-        "confusion"
-      ],
-      "answer": "division into two parts"
-    },
-    {
       "word": "diffident",
       "question": "What does 'diffident' most nearly mean?",
       "choices": ["shy", "confident", "angry", "lazy"],
       "answer": "shy"
-    },
-    {
-      "word": "dilate",
-      "question": "What does 'dilate' most nearly mean?",
-      "choices": ["to widen", "to shorten", "to close", "to weaken"],
-      "answer": "to widen"
-    },
-    {
-      "word": "disconsolate",
-      "question": "What does 'disconsolate' most nearly mean?",
-      "choices": [
-        "without comfort",
-        "full of joy",
-        "very hopeful",
-        "easily pleased"
-      ],
-      "answer": "without comfort"
     },
     {
       "word": "discordant",
@@ -1182,24 +825,6 @@
       "answer": "to scatter"
     },
     {
-      "word": "dissonant",
-      "question": "What does 'dissonant' most nearly mean?",
-      "choices": ["clashing", "pleasant", "steady", "smooth"],
-      "answer": "clashing"
-    },
-    {
-      "word": "diurnal",
-      "question": "What does 'diurnal' most nearly mean?",
-      "choices": ["daily", "nightly", "seasonal", "rare"],
-      "answer": "daily"
-    },
-    {
-      "word": "diverge",
-      "question": "What does 'diverge' most nearly mean?",
-      "choices": ["to separate", "to unite", "to follow", "to bend"],
-      "answer": "to separate"
-    },
-    {
       "word": "docile",
       "question": "What does 'docile' most nearly mean?",
       "choices": ["obedient", "wild", "energetic", "clever"],
@@ -1210,30 +835,6 @@
       "question": "What does 'dogmatic' most nearly mean?",
       "choices": ["opinionated", "uncertain", "flexible", "doubtful"],
       "answer": "opinionated"
-    },
-    {
-      "word": "dolorous",
-      "question": "What does 'dolorous' most nearly mean?",
-      "choices": ["sorrowful", "joyful", "quiet", "strange"],
-      "answer": "sorrowful"
-    },
-    {
-      "word": "dregs",
-      "question": "What does 'dregs' most nearly mean?",
-      "choices": ["remnants", "treasures", "clothing", "weapons"],
-      "answer": "remnants"
-    },
-    {
-      "word": "ductile",
-      "question": "What does 'ductile' most nearly mean?",
-      "choices": ["malleable", "fragile", "soft", "rigid"],
-      "answer": "malleable"
-    },
-    {
-      "word": "effigy",
-      "question": "What does 'effigy' most nearly mean?",
-      "choices": ["likeness", "building", "jewel", "weapon"],
-      "answer": "likeness"
     },
     {
       "word": "elicit",
@@ -1297,12 +898,6 @@
       "question": "What does 'enigma' mean?",
       "choices": ["a mystery", "a weapon", "a tool", "a type of art"],
       "answer": "a mystery"
-    },
-    {
-      "word": "enjoin",
-      "question": "What does 'enjoin' mean?",
-      "choices": ["to order", "to avoid", "to allow", "to decorate"],
-      "answer": "to order"
     },
     {
       "word": "ephemeral",
@@ -1424,12 +1019,6 @@
       "answer": "to praise highly"
     },
     {
-      "word": "extraneous",
-      "question": "What does 'extraneous' mean?",
-      "choices": ["irrelevant", "important", "internal", "essential"],
-      "answer": "irrelevant"
-    },
-    {
       "word": "extricate",
       "question": "What does 'extricate' mean?",
       "choices": [
@@ -1439,12 +1028,6 @@
         "to twist"
       ],
       "answer": "to free from difficulty"
-    },
-    {
-      "word": "extrinsic",
-      "question": "What does 'extrinsic' mean?",
-      "choices": ["external", "internal", "necessary", "hidden"],
-      "answer": "external"
     },
     {
       "word": "falter",
@@ -1471,12 +1054,6 @@
       "answer": "possible"
     },
     {
-      "word": "fecund",
-      "question": "What does 'fecund' mean?",
-      "choices": ["fruitful", "barren", "sterile", "lazy"],
-      "answer": "fruitful"
-    },
-    {
       "word": "feign",
       "question": "What does 'feign' mean?",
       "choices": ["to pretend", "to reveal", "to tell the truth", "to confess"],
@@ -1489,33 +1066,10 @@
       "answer": "happiness"
     },
     {
-      "word": "ferret",
-      "question": "What does 'ferret' mean?",
-      "choices": ["to search out", "to hide", "to ignore", "to decorate"],
-      "answer": "to search out"
-    },
-    {
       "word": "fervent",
       "question": "What does 'fervent' mean?",
       "choices": ["passionate", "calm", "indifferent", "cold"],
       "answer": "passionate"
-    },
-    {
-      "word": "fetish",
-      "question": "What does 'fetish' mean?",
-      "choices": [
-        "obsessive object of devotion",
-        "a tool",
-        "a charm",
-        "a belief"
-      ],
-      "answer": "obsessive object of devotion"
-    },
-    {
-      "word": "flaccid",
-      "question": "What does 'flaccid' mean?",
-      "choices": ["soft", "firm", "hard", "muscular"],
-      "answer": "soft"
     },
     {
       "word": "flagrant",
@@ -1534,23 +1088,6 @@
       "question": "What does 'flaunt' mean?",
       "choices": ["to show off", "to hide", "to damage", "to repair"],
       "answer": "to show off"
-    },
-    {
-      "word": "fledge",
-      "question": "What does 'fledge' mean?",
-      "choices": ["to grow feathers", "to fly high", "to fall", "to run"],
-      "answer": "to grow feathers"
-    },
-    {
-      "word": "forensic",
-      "question": "What does 'forensic' mean?",
-      "choices": [
-        "related to legal evidence",
-        "related to farming",
-        "related to history",
-        "related to art"
-      ],
-      "answer": "related to legal evidence"
     },
     {
       "word": "forte",
@@ -1613,28 +1150,1001 @@
       "answer": "smooth-talking"
     },
     {
-      "word": "gradient",
-      "question": "What does 'gradient' mean?",
-      "choices": ["slope", "speed", "color", "direction"],
-      "answer": "slope"
-    },
-    {
       "word": "gregarious",
       "question": "What does 'gregarious' mean?",
       "choices": ["sociable", "shy", "silent", "angry"],
       "answer": "sociable"
     },
     {
-      "word": "guild",
-      "question": "What does 'guild' mean?",
-      "choices": ["association of craftsmen", "church", "army", "family"],
-      "answer": "association of craftsmen"
-    },
-    {
       "word": "hapless",
       "question": "What does 'hapless' mean?",
       "choices": ["unlucky", "happy", "fortunate", "carefree"],
       "answer": "unlucky"
+    },
+    {
+      "word": "sultry",
+      "question": "Which of the following best defines 'sultry'?",
+      "choices": [
+        "Hot and humid",
+        "Calm and peaceful",
+        "Cold and harsh",
+        "Silent and distant"
+      ],
+      "answer": "Hot and humid"
+    },
+    {
+      "word": "taboo",
+      "question": "A 'taboo' is something that is:",
+      "choices": [
+        "Forbidden by social custom",
+        "Required by law",
+        "Easily accepted",
+        "Encouraged strongly"
+      ],
+      "answer": "Forbidden by social custom"
+    },
+    {
+      "word": "taciturn",
+      "question": "A 'taciturn' person is:",
+      "choices": [
+        "Quiet and reserved",
+        "Talkative and cheerful",
+        "Angry and loud",
+        "Thoughtful and kind"
+      ],
+      "answer": "Quiet and reserved"
+    },
+    {
+      "word": "tactile",
+      "question": "The word 'tactile' is most closely related to:",
+      "choices": ["Touch", "Sight", "Hearing", "Taste"],
+      "answer": "Touch"
+    },
+    {
+      "word": "tantalize",
+      "question": "To 'tantalize' someone is to:",
+      "choices": [
+        "Tease with something desired but out of reach",
+        "Criticize harshly",
+        "Comfort gently",
+        "Convince strongly"
+      ],
+      "answer": "Tease with something desired but out of reach"
+    },
+    {
+      "word": "temerity",
+      "question": "Which best describes 'temerity'?",
+      "choices": [
+        "Foolish boldness",
+        "Careful planning",
+        "Quiet respect",
+        "Emotional restraint"
+      ],
+      "answer": "Foolish boldness"
+    },
+    {
+      "word": "tenacious",
+      "question": "A 'tenacious' person is:",
+      "choices": [
+        "Determined and persistent",
+        "Easily discouraged",
+        "Carefree and lazy",
+        "Weak and fragile"
+      ],
+      "answer": "Determined and persistent"
+    },
+    {
+      "word": "terse",
+      "question": "If someone gives a 'terse' reply, it is:",
+      "choices": [
+        "Brief and to the point",
+        "Polite and detailed",
+        "Confusing and vague",
+        "Exaggerated and emotional"
+      ],
+      "answer": "Brief and to the point"
+    },
+    {
+      "word": "thwart",
+      "question": "To 'thwart' someone is to:",
+      "choices": [
+        "Prevent their plans",
+        "Support their ideas",
+        "Encourage their actions",
+        "Ignore their behavior"
+      ],
+      "answer": "Prevent their plans"
+    },
+    {
+      "word": "tirade",
+      "question": "A 'tirade' is a:",
+      "choices": [
+        "Long, angry speech",
+        "Peaceful agreement",
+        "Short compliment",
+        "Formal debate"
+      ],
+      "answer": "Long, angry speech"
+    },
+    {
+      "word": "transcend",
+      "question": "To 'transcend' is to:",
+      "choices": [
+        "Go beyond limits",
+        "Stay within rules",
+        "Fall behind",
+        "Go unnoticed"
+      ],
+      "answer": "Go beyond limits"
+    },
+    {
+      "word": "transcribe",
+      "question": "To 'transcribe' is to:",
+      "choices": [
+        "Write down spoken words",
+        "Erase permanently",
+        "Change meaning",
+        "Memorize quickly"
+      ],
+      "answer": "Write down spoken words"
+    },
+    {
+      "word": "transient",
+      "question": "Something 'transient' is:",
+      "choices": ["Short-lived", "Permanent", "Strong", "Hidden"],
+      "answer": "Short-lived"
+    },
+    {
+      "word": "transmute",
+      "question": "To 'transmute' something is to:",
+      "choices": [
+        "Change its form or nature",
+        "Destroy completely",
+        "Protect strongly",
+        "Explain clearly"
+      ],
+      "answer": "Change its form or nature"
+    },
+    {
+      "word": "travail",
+      "question": "The word 'travail' means:",
+      "choices": [
+        "Hard work or suffering",
+        "Peaceful rest",
+        "Quick success",
+        "Friendly talk"
+      ],
+      "answer": "Hard work or suffering"
+    },
+    {
+      "word": "trite",
+      "question": "A 'trite' remark is:",
+      "choices": [
+        "Overused and unoriginal",
+        "Deep and insightful",
+        "Confusing and vague",
+        "Funny and clever"
+      ],
+      "answer": "Overused and unoriginal"
+    },
+    {
+      "word": "ubiquitous",
+      "question": "Something 'ubiquitous' is:",
+      "choices": [
+        "Found everywhere",
+        "Rarely seen",
+        "Highly valuable",
+        "Hidden"
+      ],
+      "answer": "Found everywhere"
+    },
+    {
+      "word": "uncouth",
+      "question": "An 'uncouth' person is:",
+      "choices": [
+        "Rude and lacking manners",
+        "Polite and graceful",
+        "Shy and quiet",
+        "Educated and refined"
+      ],
+      "answer": "Rude and lacking manners"
+    },
+    {
+      "word": "undulate",
+      "question": "To 'undulate' is to:",
+      "choices": [
+        "Move in a wave-like motion",
+        "Fall suddenly",
+        "Stand firmly",
+        "Rise sharply"
+      ],
+      "answer": "Move in a wave-like motion"
+    },
+    {
+      "word": "unequivocal",
+      "question": "An 'unequivocal' statement is:",
+      "choices": [
+        "Clear and unambiguous",
+        "Confusing and vague",
+        "Indirect and subtle",
+        "Harsh and critical"
+      ],
+      "answer": "Clear and unambiguous"
+    },
+    {
+      "word": "untenable",
+      "question": "An 'untenable' position is one that is:",
+      "choices": [
+        "Impossible to defend",
+        "Easily supported",
+        "Morally strong",
+        "Widely accepted"
+      ],
+      "answer": "Impossible to defend"
+    },
+    {
+      "word": "urbane",
+      "question": "An 'urbane' person is:",
+      "choices": [
+        "Sophisticated and polished",
+        "Simple and rustic",
+        "Rude and harsh",
+        "Quiet and timid"
+      ],
+      "answer": "Sophisticated and polished"
+    },
+    {
+      "word": "vacillation",
+      "question": "What does 'vacillation' mean?",
+      "choices": [
+        "Wavering between choices",
+        "Decisive action",
+        "Calm agreement",
+        "Steady progress"
+      ],
+      "answer": "Wavering between choices"
+    },
+    {
+      "word": "validate",
+      "question": "To 'validate' something is to:",
+      "choices": ["Confirm its truth", "Reject it", "Hide it", "Question it"],
+      "answer": "Confirm its truth"
+    },
+    {
+      "word": "vanguard",
+      "question": "The 'vanguard' is:",
+      "choices": [
+        "The leading position in a movement",
+        "The weakest group",
+        "The middle section",
+        "The hidden part"
+      ],
+      "answer": "The leading position in a movement"
+    },
+    {
+      "word": "vantage",
+      "question": "A 'vantage' point is a:",
+      "choices": [
+        "Position giving a good view",
+        "Weak position",
+        "Hidden place",
+        "Dangerous spot"
+      ],
+      "answer": "Position giving a good view"
+    },
+    {
+      "word": "vapid",
+      "question": "Something 'vapid' is:",
+      "choices": ["Dull and uninteresting", "Exciting", "Complex", "Colorful"],
+      "answer": "Dull and uninteresting"
+    },
+    {
+      "word": "vehement",
+      "question": "A 'vehement' argument is:",
+      "choices": [
+        "Intensely forceful",
+        "Casual and light",
+        "Vague and weak",
+        "Polite and calm"
+      ],
+      "answer": "Intensely forceful"
+    },
+    {
+      "word": "venial",
+      "question": "A 'venial' sin is:",
+      "choices": [
+        "Minor and forgivable",
+        "Serious and unforgivable",
+        "Intentional",
+        "Hidden"
+      ],
+      "answer": "Minor and forgivable"
+    },
+    {
+      "word": "verbose",
+      "question": "A 'verbose' person uses:",
+      "choices": [
+        "Too many words",
+        "Too few words",
+        "Precise language",
+        "Polite speech"
+      ],
+      "answer": "Too many words"
+    },
+    {
+      "word": "verdant",
+      "question": "A 'verdant' landscape is:",
+      "choices": [
+        "Green with vegetation",
+        "Dry and barren",
+        "Dark and gloomy",
+        "Covered with snow"
+      ],
+      "answer": "Green with vegetation"
+    },
+    {
+      "word": "vertigo",
+      "question": "Vertigo is:",
+      "choices": [
+        "A sensation of dizziness",
+        "An emotional outburst",
+        "A sudden illness",
+        "A strong desire"
+      ],
+      "answer": "A sensation of dizziness"
+    },
+    {
+      "word": "vestige",
+      "question": "A 'vestige' is:",
+      "choices": [
+        "A small remaining trace",
+        "A large part",
+        "A hidden treasure",
+        "A beginning"
+      ],
+      "answer": "A small remaining trace"
+    },
+    {
+      "word": "vicarious",
+      "question": "A 'vicarious' experience is:",
+      "choices": [
+        "Experienced through another",
+        "Lived directly",
+        "Completely avoided",
+        "Imagined but impossible"
+      ],
+      "answer": "Experienced through another"
+    },
+    {
+      "word": "vigilance",
+      "question": "Vigilance means:",
+      "choices": [
+        "Careful watchfulness",
+        "Careless behavior",
+        "Excessive rest",
+        "Peaceful state"
+      ],
+      "answer": "Careful watchfulness"
+    },
+    {
+      "word": "vindicate",
+      "question": "To 'vindicate' someone is to:",
+      "choices": [
+        "Clear them of blame",
+        "Accuse them",
+        "Punish them",
+        "Doubt them"
+      ],
+      "answer": "Clear them of blame"
+    },
+    {
+      "word": "virile",
+      "question": "A 'virile' man is:",
+      "choices": [
+        "Strong and masculine",
+        "Old and weak",
+        "Gentle and quiet",
+        "Shy and modest"
+      ],
+      "answer": "Strong and masculine"
+    },
+    {
+      "word": "virtuoso",
+      "question": "A 'virtuoso' is:",
+      "choices": [
+        "A highly skilled performer",
+        "A beginner",
+        "An ordinary worker",
+        "A critic"
+      ],
+      "answer": "A highly skilled performer"
+    },
+    {
+      "word": "virulent",
+      "question": "A 'virulent' disease is:",
+      "choices": [
+        "Highly infectious and dangerous",
+        "Easily curable",
+        "Harmless",
+        "Rarely seen"
+      ],
+      "answer": "Highly infectious and dangerous"
+    },
+    {
+      "word": "viscous",
+      "question": "A 'viscous' liquid is:",
+      "choices": [
+        "Thick and sticky",
+        "Thin and watery",
+        "Bubbly and light",
+        "Invisible"
+      ],
+      "answer": "Thick and sticky"
+    },
+    {
+      "word": "vitality",
+      "question": "Vitality means:",
+      "choices": ["Energy and liveliness", "Weakness", "Sadness", "Calmness"],
+      "answer": "Energy and liveliness"
+    },
+    {
+      "word": "vivacious",
+      "question": "A 'vivacious' person is:",
+      "choices": [
+        "Lively and spirited",
+        "Quiet and shy",
+        "Angry and rude",
+        "Tired and slow"
+      ],
+      "answer": "Lively and spirited"
+    },
+    {
+      "word": "volatile",
+      "question": "A 'volatile' situation is:",
+      "choices": [
+        "Unstable and likely to change",
+        "Safe and steady",
+        "Predictable",
+        "Calm and peaceful"
+      ],
+      "answer": "Unstable and likely to change"
+    },
+    {
+      "word": "voluble",
+      "question": "A 'voluble' speaker is:",
+      "choices": ["Talkative and fluent", "Silent", "Confused", "Reserved"],
+      "answer": "Talkative and fluent"
+    },
+    {
+      "word": "voracious",
+      "question": "A 'voracious' reader is:",
+      "choices": ["Eager and insatiable", "Careless", "Lazy", "Occasional"],
+      "answer": "Eager and insatiable"
+    },
+    {
+      "word": "warp",
+      "question": "To 'warp' something is to:",
+      "choices": ["Distort it", "Strengthen it", "Clean it", "Hide it"],
+      "answer": "Distort it"
+    },
+    {
+      "word": "winsome",
+      "question": "A 'winsome' smile is:",
+      "choices": [
+        "Charming and attractive",
+        "Sad and pitiful",
+        "Fake",
+        "Scary"
+      ],
+      "answer": "Charming and attractive"
+    },
+    {
+      "word": "wreak",
+      "question": "To 'wreak' havoc means to:",
+      "choices": [
+        "Cause destruction",
+        "Prevent disaster",
+        "Calm a situation",
+        "Repair damage"
+      ],
+      "answer": "Cause destruction"
+    },
+    {
+      "word": "wrest",
+      "question": "To 'wrest' something is to:",
+      "choices": [
+        "Take it by force",
+        "Give it away",
+        "Hide it carefully",
+        "Ignore it"
+      ],
+      "answer": "Take it by force"
+    },
+    {
+      "word": "zenith",
+      "question": "The 'zenith' of someone's career is:",
+      "choices": [
+        "The highest point",
+        "The lowest point",
+        "The beginning",
+        "The end"
+      ],
+      "answer": "The highest point"
+    },
+    {
+      "word": "abominate",
+      "question": "What does 'abominate' mean?",
+      "choices": ["to loathe", "to decorate", "to preserve", "to mend"],
+      "answer": "to loathe"
+    },
+    {
+      "word": "aborigine",
+      "question": "What does 'aborigine' mean?",
+      "choices": ["native inhabitant", "outsider", "explorer", "leader"],
+      "answer": "native inhabitant"
+    },
+    {
+      "word": "accentuated",
+      "question": "What does 'accentuated' mean?",
+      "choices": ["emphasized", "ignored", "erased", "softened"],
+      "answer": "emphasized"
+    },
+    {
+      "word": "adulation",
+      "question": "What does 'adulation' mean?",
+      "choices": ["excessive praise", "criticism", "argument", "jealousy"],
+      "answer": "excessive praise"
+    },
+    {
+      "word": "agrarian",
+      "question": "What does 'agrarian' mean?",
+      "choices": [
+        "related to farming",
+        "related to trade",
+        "related to law",
+        "related to war"
+      ],
+      "answer": "related to farming"
+    },
+    {
+      "word": "alimentary",
+      "question": "What does 'alimentary' mean?",
+      "choices": [
+        "related to food",
+        "related to sound",
+        "related to light",
+        "related to air"
+      ],
+      "answer": "related to food"
+    },
+    {
+      "word": "allay",
+      "question": "What does 'allay' mean?",
+      "choices": ["to calm", "to excite", "to grow", "to steal"],
+      "answer": "to calm"
+    },
+    {
+      "word": "allegory",
+      "question": "What does 'allegory' mean?",
+      "choices": ["symbolic story", "short poem", "debate", "ritual"],
+      "answer": "symbolic story"
+    },
+    {
+      "word": "allude",
+      "question": "What does 'allude' mean?",
+      "choices": ["to hint", "to declare", "to avoid", "to deny"],
+      "answer": "to hint"
+    },
+    {
+      "word": "annals",
+      "question": "What does 'annals' mean?",
+      "choices": ["historical records", "gossip", "myths", "instructions"],
+      "answer": "historical records"
+    },
+    {
+      "word": "anomaly",
+      "question": "What does 'anomaly' mean?",
+      "choices": ["irregularity", "rule", "standard", "law"],
+      "answer": "irregularity"
+    },
+    {
+      "word": "anthology",
+      "question": "What does 'anthology' mean?",
+      "choices": ["collection", "analysis", "argument", "tradition"],
+      "answer": "collection"
+    },
+    {
+      "word": "antithesis",
+      "question": "What does 'antithesis' mean?",
+      "choices": ["opposite", "agreement", "repetition", "cause"],
+      "answer": "opposite"
+    },
+    {
+      "word": "aplomb",
+      "question": "What does 'aplomb' mean?",
+      "choices": ["self-confidence", "confusion", "fear", "anger"],
+      "answer": "self-confidence"
+    },
+    {
+      "word": "archives",
+      "question": "What does 'archives' mean?",
+      "choices": ["records", "weapons", "jewels", "laws"],
+      "answer": "records"
+    },
+    {
+      "word": "arrears",
+      "question": "What does 'arrears' mean?",
+      "choices": ["debt", "profit", "investment", "saving"],
+      "answer": "debt"
+    },
+    {
+      "word": "assay",
+      "question": "What does 'assay' mean?",
+      "choices": ["to test", "to avoid", "to complain", "to collect"],
+      "answer": "to test"
+    },
+    {
+      "word": "astral",
+      "question": "What does 'astral' mean?",
+      "choices": [
+        "related to stars",
+        "related to oceans",
+        "related to history",
+        "related to music"
+      ],
+      "answer": "related to stars"
+    },
+    {
+      "word": "atoll",
+      "question": "What does 'atoll' mean?",
+      "choices": [
+        "ring-shaped coral island",
+        "mountain peak",
+        "desert dune",
+        "river bend"
+      ],
+      "answer": "ring-shaped coral island"
+    },
+    {
+      "word": "augur",
+      "question": "What does 'augur' mean?",
+      "choices": ["to predict", "to hide", "to confuse", "to decorate"],
+      "answer": "to predict"
+    },
+    {
+      "word": "auspices",
+      "question": "What does 'auspices' mean?",
+      "choices": ["support", "threat", "doubt", "attack"],
+      "answer": "support"
+    },
+    {
+      "word": "autocratic",
+      "question": "What does 'autocratic' mean?",
+      "choices": ["dictatorial", "free", "equal", "uncertain"],
+      "answer": "dictatorial"
+    },
+    {
+      "word": "bane",
+      "question": "What does 'bane' mean?",
+      "choices": [
+        "cause of harm",
+        "source of joy",
+        "act of kindness",
+        "promise"
+      ],
+      "answer": "cause of harm"
+    },
+    {
+      "word": "beatitude",
+      "question": "What does 'beatitude' mean?",
+      "choices": ["blessedness", "sadness", "hostility", "emptiness"],
+      "answer": "blessedness"
+    },
+    {
+      "word": "beguile",
+      "question": "What does 'beguile' mean?",
+      "choices": ["to charm", "to injure", "to hide", "to trade"],
+      "answer": "to charm"
+    },
+    {
+      "word": "benediction",
+      "question": "What does 'benediction' mean?",
+      "choices": ["blessing", "curse", "argument", "speech"],
+      "answer": "blessing"
+    },
+    {
+      "word": "biennial",
+      "question": "What does 'biennial' mean?",
+      "choices": [
+        "every two years",
+        "once a year",
+        "every month",
+        "every decade"
+      ],
+      "answer": "every two years"
+    },
+    {
+      "word": "bovine",
+      "question": "What does 'bovine' mean?",
+      "choices": ["cow-like", "cat-like", "fast", "bird-like"],
+      "answer": "cow-like"
+    },
+    {
+      "word": "canvass",
+      "question": "What does 'canvass' mean?",
+      "choices": ["to solicit", "to ignore", "to punish", "to relax"],
+      "answer": "to solicit"
+    },
+    {
+      "word": "carrion",
+      "question": "What does 'carrion' most nearly mean?",
+      "choices": [
+        "decaying flesh",
+        "valuable cargo",
+        "tree bark",
+        "hunting tool"
+      ],
+      "answer": "decaying flesh"
+    },
+    {
+      "word": "castigate",
+      "question": "What does 'castigate' most nearly mean?",
+      "choices": [
+        "to punish harshly",
+        "to decorate",
+        "to liberate",
+        "to persuade"
+      ],
+      "answer": "to punish harshly"
+    },
+    {
+      "word": "chaff",
+      "question": "What does 'chaff' most nearly mean?",
+      "choices": [
+        "worthless matter",
+        "rough cloth",
+        "friendly talk",
+        "small coin"
+      ],
+      "answer": "worthless matter"
+    },
+    {
+      "word": "commensurate",
+      "question": "What does 'commensurate' most nearly mean?",
+      "choices": ["proportional", "excessive", "insufficient", "temporary"],
+      "answer": "proportional"
+    },
+    {
+      "word": "concomitant",
+      "question": "What does 'concomitant' most nearly mean?",
+      "choices": ["accompanying", "opposing", "occasional", "delayed"],
+      "answer": "accompanying"
+    },
+    {
+      "word": "congenital",
+      "question": "What does 'congenital' most nearly mean?",
+      "choices": [
+        "present at birth",
+        "rarely seen",
+        "developed later",
+        "naturally cured"
+      ],
+      "answer": "present at birth"
+    },
+    {
+      "word": "coniferous",
+      "question": "What does 'coniferous' most nearly mean?",
+      "choices": ["cone-bearing", "leafy", "decayed", "poisonous"],
+      "answer": "cone-bearing"
+    },
+    {
+      "word": "connote",
+      "question": "What does 'connote' most nearly mean?",
+      "choices": ["to imply", "to measure", "to ignore", "to reveal"],
+      "answer": "to imply"
+    },
+    {
+      "word": "convolution",
+      "question": "What does 'convolution' most nearly mean?",
+      "choices": [
+        "complex twist",
+        "clear path",
+        "simple plan",
+        "straight line"
+      ],
+      "answer": "complex twist"
+    },
+    {
+      "word": "credulity",
+      "question": "What does 'credulity' most nearly mean?",
+      "choices": ["gullibility", "wisdom", "curiosity", "fear"],
+      "answer": "gullibility"
+    },
+    {
+      "word": "cult",
+      "question": "What does 'cult' most nearly mean?",
+      "choices": [
+        "extreme group",
+        "small garden",
+        "popular trend",
+        "strict rule"
+      ],
+      "answer": "extreme group"
+    },
+    {
+      "word": "decant",
+      "question": "What does 'decant' most nearly mean?",
+      "choices": ["to pour off", "to decorate", "to clean", "to seal"],
+      "answer": "to pour off"
+    },
+    {
+      "word": "definitive",
+      "question": "What does 'definitive' most nearly mean?",
+      "choices": ["conclusive", "uncertain", "minor", "approximate"],
+      "answer": "conclusive"
+    },
+    {
+      "word": "delta",
+      "question": "What does 'delta' most nearly mean?",
+      "choices": [
+        "river mouth",
+        "desert area",
+        "mountain pass",
+        "island chain"
+      ],
+      "answer": "river mouth"
+    },
+    {
+      "word": "desiccate",
+      "question": "What does 'desiccate' most nearly mean?",
+      "choices": ["to dry out", "to moisten", "to bury", "to melt"],
+      "answer": "to dry out"
+    },
+    {
+      "word": "dichotomy",
+      "question": "What does 'dichotomy' most nearly mean?",
+      "choices": [
+        "division into two parts",
+        "agreement",
+        "multiplication",
+        "confusion"
+      ],
+      "answer": "division into two parts"
+    },
+    {
+      "word": "dilate",
+      "question": "What does 'dilate' most nearly mean?",
+      "choices": ["to widen", "to shorten", "to close", "to weaken"],
+      "answer": "to widen"
+    },
+    {
+      "word": "disconsolate",
+      "question": "What does 'disconsolate' most nearly mean?",
+      "choices": [
+        "without comfort",
+        "full of joy",
+        "very hopeful",
+        "easily pleased"
+      ],
+      "answer": "without comfort"
+    },
+    {
+      "word": "dissonant",
+      "question": "What does 'dissonant' most nearly mean?",
+      "choices": ["clashing", "pleasant", "steady", "smooth"],
+      "answer": "clashing"
+    },
+    {
+      "word": "diurnal",
+      "question": "What does 'diurnal' most nearly mean?",
+      "choices": ["daily", "nightly", "seasonal", "rare"],
+      "answer": "daily"
+    },
+    {
+      "word": "diverge",
+      "question": "What does 'diverge' most nearly mean?",
+      "choices": ["to separate", "to unite", "to follow", "to bend"],
+      "answer": "to separate"
+    },
+    {
+      "word": "dolorous",
+      "question": "What does 'dolorous' most nearly mean?",
+      "choices": ["sorrowful", "joyful", "quiet", "strange"],
+      "answer": "sorrowful"
+    },
+    {
+      "word": "dregs",
+      "question": "What does 'dregs' most nearly mean?",
+      "choices": ["remnants", "treasures", "clothing", "weapons"],
+      "answer": "remnants"
+    },
+    {
+      "word": "ductile",
+      "question": "What does 'ductile' most nearly mean?",
+      "choices": ["malleable", "fragile", "soft", "rigid"],
+      "answer": "malleable"
+    },
+    {
+      "word": "effigy",
+      "question": "What does 'effigy' most nearly mean?",
+      "choices": ["likeness", "building", "jewel", "weapon"],
+      "answer": "likeness"
+    },
+    {
+      "word": "enjoin",
+      "question": "What does 'enjoin' mean?",
+      "choices": ["to order", "to avoid", "to allow", "to decorate"],
+      "answer": "to order"
+    },
+    {
+      "word": "extraneous",
+      "question": "What does 'extraneous' mean?",
+      "choices": ["irrelevant", "important", "internal", "essential"],
+      "answer": "irrelevant"
+    },
+    {
+      "word": "extrinsic",
+      "question": "What does 'extrinsic' mean?",
+      "choices": ["external", "internal", "necessary", "hidden"],
+      "answer": "external"
+    },
+    {
+      "word": "fecund",
+      "question": "What does 'fecund' mean?",
+      "choices": ["fruitful", "barren", "sterile", "lazy"],
+      "answer": "fruitful"
+    },
+    {
+      "word": "ferret",
+      "question": "What does 'ferret' mean?",
+      "choices": ["to search out", "to hide", "to ignore", "to decorate"],
+      "answer": "to search out"
+    },
+    {
+      "word": "fetish",
+      "question": "What does 'fetish' mean?",
+      "choices": [
+        "obsessive object of devotion",
+        "a tool",
+        "a charm",
+        "a belief"
+      ],
+      "answer": "obsessive object of devotion"
+    },
+    {
+      "word": "flaccid",
+      "question": "What does 'flaccid' mean?",
+      "choices": ["soft", "firm", "hard", "muscular"],
+      "answer": "soft"
+    },
+    {
+      "word": "fledge",
+      "question": "What does 'fledge' mean?",
+      "choices": ["to grow feathers", "to fly high", "to fall", "to run"],
+      "answer": "to grow feathers"
+    },
+    {
+      "word": "forensic",
+      "question": "What does 'forensic' mean?",
+      "choices": [
+        "related to legal evidence",
+        "related to farming",
+        "related to history",
+        "related to art"
+      ],
+      "answer": "related to legal evidence"
+    },
+    {
+      "word": "gradient",
+      "question": "What does 'gradient' mean?",
+      "choices": ["slope", "speed", "color", "direction"],
+      "answer": "slope"
+    },
+    {
+      "word": "guild",
+      "question": "What does 'guild' mean?",
+      "choices": ["association of craftsmen", "church", "army", "family"],
+      "answer": "association of craftsmen"
     },
     {
       "question": "What does 'heinous' mean?",
@@ -2607,17 +3117,6 @@
       "answer": "Brief"
     },
     {
-      "word": "sultry",
-      "question": "Which of the following best defines 'sultry'?",
-      "choices": [
-        "Hot and humid",
-        "Calm and peaceful",
-        "Cold and harsh",
-        "Silent and distant"
-      ],
-      "answer": "Hot and humid"
-    },
-    {
       "word": "sweltered",
       "question": "What does it mean if someone 'sweltered'?",
       "choices": [
@@ -2627,161 +3126,6 @@
         "Felt nervous"
       ],
       "answer": "Suffered from oppressive heat"
-    },
-    {
-      "word": "taboo",
-      "question": "A 'taboo' is something that is:",
-      "choices": [
-        "Forbidden by social custom",
-        "Required by law",
-        "Easily accepted",
-        "Encouraged strongly"
-      ],
-      "answer": "Forbidden by social custom"
-    },
-    {
-      "word": "taciturn",
-      "question": "A 'taciturn' person is:",
-      "choices": [
-        "Quiet and reserved",
-        "Talkative and cheerful",
-        "Angry and loud",
-        "Thoughtful and kind"
-      ],
-      "answer": "Quiet and reserved"
-    },
-    {
-      "word": "tactile",
-      "question": "The word 'tactile' is most closely related to:",
-      "choices": ["Touch", "Sight", "Hearing", "Taste"],
-      "answer": "Touch"
-    },
-    {
-      "word": "tantalize",
-      "question": "To 'tantalize' someone is to:",
-      "choices": [
-        "Tease with something desired but out of reach",
-        "Criticize harshly",
-        "Comfort gently",
-        "Convince strongly"
-      ],
-      "answer": "Tease with something desired but out of reach"
-    },
-    {
-      "word": "temerity",
-      "question": "Which best describes 'temerity'?",
-      "choices": [
-        "Foolish boldness",
-        "Careful planning",
-        "Quiet respect",
-        "Emotional restraint"
-      ],
-      "answer": "Foolish boldness"
-    },
-    {
-      "word": "tenacious",
-      "question": "A 'tenacious' person is:",
-      "choices": [
-        "Determined and persistent",
-        "Easily discouraged",
-        "Carefree and lazy",
-        "Weak and fragile"
-      ],
-      "answer": "Determined and persistent"
-    },
-    {
-      "word": "terse",
-      "question": "If someone gives a 'terse' reply, it is:",
-      "choices": [
-        "Brief and to the point",
-        "Polite and detailed",
-        "Confusing and vague",
-        "Exaggerated and emotional"
-      ],
-      "answer": "Brief and to the point"
-    },
-    {
-      "word": "thwart",
-      "question": "To 'thwart' someone is to:",
-      "choices": [
-        "Prevent their plans",
-        "Support their ideas",
-        "Encourage their actions",
-        "Ignore their behavior"
-      ],
-      "answer": "Prevent their plans"
-    },
-    {
-      "word": "tirade",
-      "question": "A 'tirade' is a:",
-      "choices": [
-        "Long, angry speech",
-        "Peaceful agreement",
-        "Short compliment",
-        "Formal debate"
-      ],
-      "answer": "Long, angry speech"
-    },
-    {
-      "word": "transcend",
-      "question": "To 'transcend' is to:",
-      "choices": [
-        "Go beyond limits",
-        "Stay within rules",
-        "Fall behind",
-        "Go unnoticed"
-      ],
-      "answer": "Go beyond limits"
-    },
-    {
-      "word": "transcribe",
-      "question": "To 'transcribe' is to:",
-      "choices": [
-        "Write down spoken words",
-        "Erase permanently",
-        "Change meaning",
-        "Memorize quickly"
-      ],
-      "answer": "Write down spoken words"
-    },
-    {
-      "word": "transient",
-      "question": "Something 'transient' is:",
-      "choices": ["Short-lived", "Permanent", "Strong", "Hidden"],
-      "answer": "Short-lived"
-    },
-    {
-      "word": "transmute",
-      "question": "To 'transmute' something is to:",
-      "choices": [
-        "Change its form or nature",
-        "Destroy completely",
-        "Protect strongly",
-        "Explain clearly"
-      ],
-      "answer": "Change its form or nature"
-    },
-    {
-      "word": "travail",
-      "question": "The word 'travail' means:",
-      "choices": [
-        "Hard work or suffering",
-        "Peaceful rest",
-        "Quick success",
-        "Friendly talk"
-      ],
-      "answer": "Hard work or suffering"
-    },
-    {
-      "word": "trite",
-      "question": "A 'trite' remark is:",
-      "choices": [
-        "Overused and unoriginal",
-        "Deep and insightful",
-        "Confusing and vague",
-        "Funny and clever"
-      ],
-      "answer": "Overused and unoriginal"
     },
     {
       "word": "turgid",
@@ -2795,117 +3139,6 @@
       "answer": "Complex and inflated"
     },
     {
-      "word": "ubiquitous",
-      "question": "Something 'ubiquitous' is:",
-      "choices": [
-        "Found everywhere",
-        "Rarely seen",
-        "Highly valuable",
-        "Hidden"
-      ],
-      "answer": "Found everywhere"
-    },
-    {
-      "word": "uncouth",
-      "question": "An 'uncouth' person is:",
-      "choices": [
-        "Rude and lacking manners",
-        "Polite and graceful",
-        "Shy and quiet",
-        "Educated and refined"
-      ],
-      "answer": "Rude and lacking manners"
-    },
-    {
-      "word": "undulate",
-      "question": "To 'undulate' is to:",
-      "choices": [
-        "Move in a wave-like motion",
-        "Fall suddenly",
-        "Stand firmly",
-        "Rise sharply"
-      ],
-      "answer": "Move in a wave-like motion"
-    },
-    {
-      "word": "unequivocal",
-      "question": "An 'unequivocal' statement is:",
-      "choices": [
-        "Clear and unambiguous",
-        "Confusing and vague",
-        "Indirect and subtle",
-        "Harsh and critical"
-      ],
-      "answer": "Clear and unambiguous"
-    },
-    {
-      "word": "untenable",
-      "question": "An 'untenable' position is one that is:",
-      "choices": [
-        "Impossible to defend",
-        "Easily supported",
-        "Morally strong",
-        "Widely accepted"
-      ],
-      "answer": "Impossible to defend"
-    },
-    {
-      "word": "urbane",
-      "question": "An 'urbane' person is:",
-      "choices": [
-        "Sophisticated and polished",
-        "Simple and rustic",
-        "Rude and harsh",
-        "Quiet and timid"
-      ],
-      "answer": "Sophisticated and polished"
-    },
-    {
-      "word": "vacillation",
-      "question": "What does 'vacillation' mean?",
-      "choices": [
-        "Wavering between choices",
-        "Decisive action",
-        "Calm agreement",
-        "Steady progress"
-      ],
-      "answer": "Wavering between choices"
-    },
-    {
-      "word": "validate",
-      "question": "To 'validate' something is to:",
-      "choices": ["Confirm its truth", "Reject it", "Hide it", "Question it"],
-      "answer": "Confirm its truth"
-    },
-    {
-      "word": "vanguard",
-      "question": "The 'vanguard' is:",
-      "choices": [
-        "The leading position in a movement",
-        "The weakest group",
-        "The middle section",
-        "The hidden part"
-      ],
-      "answer": "The leading position in a movement"
-    },
-    {
-      "word": "vantage",
-      "question": "A 'vantage' point is a:",
-      "choices": [
-        "Position giving a good view",
-        "Weak position",
-        "Hidden place",
-        "Dangerous spot"
-      ],
-      "answer": "Position giving a good view"
-    },
-    {
-      "word": "vapid",
-      "question": "Something 'vapid' is:",
-      "choices": ["Dull and uninteresting", "Exciting", "Complex", "Colorful"],
-      "answer": "Dull and uninteresting"
-    },
-    {
       "word": "variegated",
       "question": "A 'variegated' pattern is:",
       "choices": [
@@ -2915,239 +3148,6 @@
         "Damaged"
       ],
       "answer": "Marked with different colors"
-    },
-    {
-      "word": "vehement",
-      "question": "A 'vehement' argument is:",
-      "choices": [
-        "Intensely forceful",
-        "Casual and light",
-        "Vague and weak",
-        "Polite and calm"
-      ],
-      "answer": "Intensely forceful"
-    },
-    {
-      "word": "venial",
-      "question": "A 'venial' sin is:",
-      "choices": [
-        "Minor and forgivable",
-        "Serious and unforgivable",
-        "Intentional",
-        "Hidden"
-      ],
-      "answer": "Minor and forgivable"
-    },
-    {
-      "word": "verbose",
-      "question": "A 'verbose' person uses:",
-      "choices": [
-        "Too many words",
-        "Too few words",
-        "Precise language",
-        "Polite speech"
-      ],
-      "answer": "Too many words"
-    },
-    {
-      "word": "verdant",
-      "question": "A 'verdant' landscape is:",
-      "choices": [
-        "Green with vegetation",
-        "Dry and barren",
-        "Dark and gloomy",
-        "Covered with snow"
-      ],
-      "answer": "Green with vegetation"
-    },
-    {
-      "word": "vertigo",
-      "question": "Vertigo is:",
-      "choices": [
-        "A sensation of dizziness",
-        "An emotional outburst",
-        "A sudden illness",
-        "A strong desire"
-      ],
-      "answer": "A sensation of dizziness"
-    },
-    {
-      "word": "vestige",
-      "question": "A 'vestige' is:",
-      "choices": [
-        "A small remaining trace",
-        "A large part",
-        "A hidden treasure",
-        "A beginning"
-      ],
-      "answer": "A small remaining trace"
-    },
-    {
-      "word": "vicarious",
-      "question": "A 'vicarious' experience is:",
-      "choices": [
-        "Experienced through another",
-        "Lived directly",
-        "Completely avoided",
-        "Imagined but impossible"
-      ],
-      "answer": "Experienced through another"
-    },
-    {
-      "word": "vigilance",
-      "question": "Vigilance means:",
-      "choices": [
-        "Careful watchfulness",
-        "Careless behavior",
-        "Excessive rest",
-        "Peaceful state"
-      ],
-      "answer": "Careful watchfulness"
-    },
-    {
-      "word": "vindicate",
-      "question": "To 'vindicate' someone is to:",
-      "choices": [
-        "Clear them of blame",
-        "Accuse them",
-        "Punish them",
-        "Doubt them"
-      ],
-      "answer": "Clear them of blame"
-    },
-    {
-      "word": "virile",
-      "question": "A 'virile' man is:",
-      "choices": [
-        "Strong and masculine",
-        "Old and weak",
-        "Gentle and quiet",
-        "Shy and modest"
-      ],
-      "answer": "Strong and masculine"
-    },
-    {
-      "word": "virtuoso",
-      "question": "A 'virtuoso' is:",
-      "choices": [
-        "A highly skilled performer",
-        "A beginner",
-        "An ordinary worker",
-        "A critic"
-      ],
-      "answer": "A highly skilled performer"
-    },
-    {
-      "word": "virulent",
-      "question": "A 'virulent' disease is:",
-      "choices": [
-        "Highly infectious and dangerous",
-        "Easily curable",
-        "Harmless",
-        "Rarely seen"
-      ],
-      "answer": "Highly infectious and dangerous"
-    },
-    {
-      "word": "viscous",
-      "question": "A 'viscous' liquid is:",
-      "choices": [
-        "Thick and sticky",
-        "Thin and watery",
-        "Bubbly and light",
-        "Invisible"
-      ],
-      "answer": "Thick and sticky"
-    },
-    {
-      "word": "vitality",
-      "question": "Vitality means:",
-      "choices": ["Energy and liveliness", "Weakness", "Sadness", "Calmness"],
-      "answer": "Energy and liveliness"
-    },
-    {
-      "word": "vivacious",
-      "question": "A 'vivacious' person is:",
-      "choices": [
-        "Lively and spirited",
-        "Quiet and shy",
-        "Angry and rude",
-        "Tired and slow"
-      ],
-      "answer": "Lively and spirited"
-    },
-    {
-      "word": "volatile",
-      "question": "A 'volatile' situation is:",
-      "choices": [
-        "Unstable and likely to change",
-        "Safe and steady",
-        "Predictable",
-        "Calm and peaceful"
-      ],
-      "answer": "Unstable and likely to change"
-    },
-    {
-      "word": "voluble",
-      "question": "A 'voluble' speaker is:",
-      "choices": ["Talkative and fluent", "Silent", "Confused", "Reserved"],
-      "answer": "Talkative and fluent"
-    },
-    {
-      "word": "voracious",
-      "question": "A 'voracious' reader is:",
-      "choices": ["Eager and insatiable", "Careless", "Lazy", "Occasional"],
-      "answer": "Eager and insatiable"
-    },
-    {
-      "word": "warp",
-      "question": "To 'warp' something is to:",
-      "choices": ["Distort it", "Strengthen it", "Clean it", "Hide it"],
-      "answer": "Distort it"
-    },
-    {
-      "word": "winsome",
-      "question": "A 'winsome' smile is:",
-      "choices": [
-        "Charming and attractive",
-        "Sad and pitiful",
-        "Fake",
-        "Scary"
-      ],
-      "answer": "Charming and attractive"
-    },
-    {
-      "word": "wreak",
-      "question": "To 'wreak' havoc means to:",
-      "choices": [
-        "Cause destruction",
-        "Prevent disaster",
-        "Calm a situation",
-        "Repair damage"
-      ],
-      "answer": "Cause destruction"
-    },
-    {
-      "word": "wrest",
-      "question": "To 'wrest' something is to:",
-      "choices": [
-        "Take it by force",
-        "Give it away",
-        "Hide it carefully",
-        "Ignore it"
-      ],
-      "answer": "Take it by force"
-    },
-    {
-      "word": "zenith",
-      "question": "The 'zenith' of someone's career is:",
-      "choices": [
-        "The highest point",
-        "The lowest point",
-        "The beginning",
-        "The end"
-      ],
-      "answer": "The highest point"
     }
   ]
 }
