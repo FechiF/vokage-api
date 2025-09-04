@@ -1,13 +1,5 @@
 {
-  "ushinobis": [
-    {
-      "id": 1,
-      "name": "Adele",
-      "email": "adeledaga@gmail.com",
-      "password": "asimfoot",
-      "level": 0
-    }
-  ],
+  "userLevels": [{ "id": 1, "level": 0 }],
   "levels": [
     {
       "level": 1,
