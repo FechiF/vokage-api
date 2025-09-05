@@ -5,245 +5,280 @@
       "rank": "Genin",
       "name": "Shikamaru Nara",
       "description": "You are now Shikamaru. He may not be the strongest, but his super-smart brain is his ultimate weapon. With his shadow powers, he can trap anyone who underestimates him. You're now a clever ninja strategist!",
-      "image": "https://www.animesoulking.com/wp-content/uploads/2019/12/shik1-300x169.jpg.webp"
+      "image": "genin-shikamaru-nara.jpg.jpg"
     },
     {
       "level": 2,
       "rank": "Genin",
-      "name": "Choji Akimichi",
-      "description": "Nice! You've reached Choji. Don't be fooled—when Choji gets serious, he's unstoppable! He can grow huge and crush his enemies. You've unlocked hidden strength that surprises everyone.",
-      "image": "https://www.animesoulking.com/wp-content/uploads/2019/12/choiji1-300x169.jpg"
+      "name": "Temaru",
+      "description": "Awesome—you've unlocked Temari! With her giant fan, she can whip up slicing wind attacks that knock enemies off their feet. She crushed Tenten with ease and even helped take down one of the Sound Four when Shikamaru was in trouble. A master of long-range battles, Temari is a powerful ally who shows that brains and wind make the perfect combo!",
+      "image": "genin-temaru.jpg.jpg"
     },
     {
       "level": 3,
       "rank": "Genin",
-      "name": "Neji Hyuga",
-      "description": "Awesome! You've become Neji, the Hyuga genius. With your Byakugan, you can see enemy moves before they happen. You're a natural-born prodigy, feared in battle!",
-      "image": "https://www.animesoulking.com/wp-content/uploads/2019/12/neiji1-300x169.jpg"
+      "name": "Choji Akimichi",
+      "description": "Nice! You've reached Choji. Don't be fooled—when Choji gets serious, he's unstoppable! He can grow huge and crush his enemies. You've unlocked hidden strength that surprises everyone.",
+      "image": "genin-choji-akimichi.jpg.jpg"
     },
     {
       "level": 4,
       "rank": "Genin",
-      "name": "Rock Lee",
-      "description": "Hard work pays off—you're now Rock Lee! You can unleash amazing Taijutsu, move faster than the eye can see, and even fight drunk-style if needed. You're proof that training beats talent!",
-      "image": "https://www.animesoulking.com/wp-content/uploads/2019/12/rock1-300x169.jpg"
+      "name": "Neji Hyuga",
+      "description": "Awesome! You've become Neji, the Hyuga genius. With your Byakugan, you can see enemy moves before they happen. You're a natural-born prodigy, feared in battle!",
+      "image": "genin-neji-hyuga.jpg.jpg"
     },
     {
       "level": 5,
       "rank": "Genin",
-      "name": "Gaara",
-      "description": "Whoa—you've unlocked Gaara! With sand that obeys your every command, you're one of the scariest Genin ever. Few dare to fight you… and those who do regret it.",
-      "image": "https://www.animesoulking.com/wp-content/uploads/2019/12/gar1-300x169.jpg"
+      "name": "Rock Lee",
+      "description": "Hard work pays off—you're now Rock Lee! You can unleash amazing Taijutsu, move faster than the eye can see, and even fight drunk-style if needed. You're proof that training beats talent!",
+      "image": "genin-rock-lee.jpg.jpg"
     },
     {
       "level": 6,
       "rank": "Genin",
-      "name": "Sasuke Uchiha",
-      "description": "Impressive! You're now Sasuke, the Uchiha prodigy. With the Sharingan and the Curse Mark, you're strong enough to rival even Naruto. You've got the power and the cool factor.",
-      "image": "https://www.animesoulking.com/wp-content/uploads/2019/12/sas1-300x169.jpg"
+      "name": "Gaara",
+      "description": "Whoa—you've unlocked Gaara! With sand that obeys your every command, you're one of the scariest Genin ever. Few dare to fight you… and those who do regret it.",
+      "image": "genin-gaara.jpg.jpg"
     },
     {
       "level": 7,
       "rank": "Genin",
-      "name": "Naruto Uzumaki",
-      "description": "Believe it—you've reached Naruto! You can summon giant toads, tap into the Nine-Tails' chakra, and never give up. You're destined for greatness—Hokage level is in sight!",
-      "image": "https://www.animesoulking.com/wp-content/uploads/2019/12/nar1-300x169.jpg"
+      "name": "Sasuke Uchiha",
+      "description": "Impressive! You're now Sasuke, the Uchiha prodigy. With the Sharingan and the Curse Mark, you're strong enough to rival even Naruto. You've got the power and the cool factor.",
+      "image": "genin-sasuke-uchiha.jpg.jpg"
     },
     {
       "level": 8,
-      "rank": "Chunin",
-      "name": "Shikamaru Nara",
-      "description": "Smart and steady—you're Shikamaru the Chunin now! With your 200 IQ battle plans, you can outthink anyone, even stronger enemies. A true master of strategy!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/10/Naruto-Shikamaru-Smiling.jpg?q=50&fit=crop&w=825&dpr=1.5"
+      "rank": "Genin",
+      "name": "Naruto Uzumaki",
+      "description": "Believe it—you've reached Naruto! You can summon giant toads, tap into the Nine-Tails' chakra, and never give up. You're destined for greatness—Hokage level is in sight!",
+      "image": "genin-naruto-uzumaki.jpg.jpg"
     },
     {
       "level": 9,
       "rank": "Chunin",
-      "name": "Temari",
-      "description": "You've leveled up to Temari! With your giant fan, you summon mighty wind blades that can blow enemies away. You're sharp, strong, and always in control of the battlefield!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/10/Naruto-Temari-With-A-Straight-Face.jpg?q=50&fit=crop&w=825&dpr=1.5"
+      "name": "Kiba Inuzuka",
+      "description": "You've unlocked Kiba and his trusty partner Akamaru! With super-sharp senses, lightning-fast reflexes, and a wild fighting style, Kiba fights like a true ninja wolf. Even Naruto had a tough time keeping up with him! Together with Akamaru, his combo attacks can tear through almost any opponent. Fierce, loyal, and fearless—you're now running with the pack!",
+      "image": "chunin-kiba-inuzuka.jpg.jpg"
     },
     {
       "level": 10,
       "rank": "Chunin",
-      "name": "Neji Hyuga",
-      "description": "You're Neji at Chunin level! Your Byakugan is so powerful that even Jonin are impressed. You see everything and strike with unbeatable precision. A true prodigy at work!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/09/neji.jpg?q=50&fit=crop&w=825&dpr=1.5"
+      "name": "Shikamaru Nara",
+      "description": "Smart and steady—you're Shikamaru the Chunin now! With your 200 IQ battle plans, you can outthink anyone, even stronger enemies. A true master of strategy!",
+      "image": "chunin-shikamaru-nara.jpg.jpg"
     },
     {
       "level": 11,
       "rank": "Chunin",
-      "name": "Rock Lee",
-      "description": "You've reached Rock Lee! With Guy-sensei's training and your unstoppable Taijutsu, you fight with the heart of a lion. Open those gates and show your fiery spirit!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/09/Naruto-Rock-Lee-Thumbs-Up.jpg?q=50&fit=crop&w=825&dpr=1.5"
+      "name": "Temari",
+      "description": "You've leveled up to Temari! With your giant fan, you summon mighty wind blades that can blow enemies away. You're sharp, strong, and always in control of the battlefield!",
+      "image": "chunin-temari.jpg.jpg"
     },
     {
       "level": 12,
       "rank": "Chunin",
-      "name": "Sasuke Uchiha",
-      "description": "Chunin Sasuke unlocked! Faster, stronger, and cooler than ever—you now wield the Sharingan like a pro. Enemies beware: your lightning power is growing!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/03/Sasuke-Featured.jpg?q=50&fit=crop&w=825&dpr=1.5"
+      "name": "Neji Hyuga",
+      "description": "You're Neji at Chunin level! Your Byakugan is so powerful that even Jonin are impressed. You see everything and strike with unbeatable precision. A true prodigy at work!",
+      "image": "chunin-neji-hyuga.jpg.jpg"
     },
     {
       "level": 13,
       "rank": "Chunin",
-      "name": "Gaara",
-      "description": "You're Gaara, the sand master! Even at Chunin exams, no one wanted to face you. With sand that shields and attacks, you're nearly unbeatable. Total boss move!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/10/Best-and-Worst-Costumes-of-Part-One-gaara-9.jpg?q=50&fit=crop&w=825&dpr=1.5"
+      "name": "Rock Lee",
+      "description": "You've reached Rock Lee! With Guy-sensei's training and your unstoppable Taijutsu, you fight with the heart of a lion. Open those gates and show your fiery spirit!",
+      "image": "chunin-rock-lee.jpg.jpg"
     },
     {
       "level": 14,
       "rank": "Chunin",
-      "name": "Naruto Uzumaki",
-      "description": "Believe it—you're Chunin Naruto! You can use the Nine-Tails' chakra and summon giant toads. From underdog to hero, you've become a true force of nature!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/01/Naruto-Uzumaki.jpg?q=50&fit=crop&w=825&dpr=1.5"
+      "name": "Sasuke Uchiha",
+      "description": "Chunin Sasuke unlocked! Faster, stronger, and cooler than ever—you now wield the Sharingan like a pro. Enemies beware: your lightning power is growing!",
+      "image": "chunin-sasuke-uchiha.jpg.jpg"
     },
     {
       "level": 15,
-      "rank": "Jonin",
-      "name": "Neji Hyuga",
-      "description": "You're Jonin Neji! Your Byakugan is unmatched, and you've become a leader in battle. You're a genius warrior who inspires your entire clan.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2023/04/neji-hyuga-in-the-united-alliance-headband.jpg?q=49&fit=crop&w=750&h=422&dpr=2"
+      "rank": "Chunin",
+      "name": "Gaara",
+      "description": "You're Gaara, the sand master! Even at Chunin exams, no one wanted to face you. With sand that shields and attacks, you're nearly unbeatable. Total boss move!",
+      "image": "chunin-gaara.jpg.jpg"
     },
     {
       "level": 16,
-      "rank": "Jonin",
-      "name": "Might Guy",
-      "description": "Fired up—you've unlocked Might Guy! With blazing Taijutsu and endless energy, you prove that hard work can rival any genius. Youth power unleashed!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2022/03/Might-Guy-in-forest.jpg?q=70&fit=crop&w=750&h=422&dpr=1"
+      "rank": "Chunin",
+      "name": "Naruto Uzumaki",
+      "description": "Believe it—you're Chunin Naruto! You can use the Nine-Tails' chakra and summon giant toads. From underdog to hero, you've become a true force of nature!",
+      "image": "chunin-naruto-uzumaki.jpg.jpg"
     },
     {
       "level": 17,
       "rank": "Jonin",
-      "name": "Shisui Uchiha",
-      "description": "Awesome! You've become Shisui, the fastest Uchiha. With your Sharingan and Body Flicker, enemies can't even see you move. You're unstoppable speed!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2023/06/collage-maker-11-jun-2023-04-37-pm-6107.jpg?q=70&fit=crop&w=825&dpr=1"
+      "name": "Pakura",
+      "description": "Incredible—you've reached Pakura, the blazing hero of the Sand! Feared across the ninja world, she wields the rare Scorch Release, creating fiery orbs that burn hotter than the sun. One touch is enough to defeat an enemy instantly, and with a massive orb, she can scorch entire battlefields. Once hailed as her village's brightest kunoichi, Pakura's power makes her a legend of flame and fury!",
+      "image": "jonin-pakura.jpg.jpg"
     },
     {
       "level": 18,
       "rank": "Jonin",
-      "name": "Fugaku Uchiha",
-      "description": "You've ranked up to Fugaku, leader of the Uchiha! With deadly fire jutsu and unmatched shuriken skills, you're a clan head with burning power.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/05/Fugaku-Uchiha.jpg?q=70&fit=crop&w=825&dpr=1"
+      "name": "Neji Hyuga",
+      "description": "You're Jonin Neji! Your Byakugan is unmatched, and you've become a leader in battle. You're a genius warrior who inspires your entire clan.",
+      "image": "jonin-neji-hyuga.jpg.jpg"
     },
     {
       "level": 19,
       "rank": "Jonin",
-      "name": "Sakumo Hatake",
-      "description": "You're Sakumo, the White Fang! With your glowing blade, you strike fear into enemies. Even the strongest ninjas know to respect your lightning-fast skills.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2022/11/naruto-sakumo-hatake.jpg?q=70&fit=crop&w=825&dpr=1"
+      "name": "Might Guy",
+      "description": "Fired up—you've unlocked Might Guy! With blazing Taijutsu and endless energy, you prove that hard work can rival any genius. Youth power unleashed!",
+      "image": "jonin-might-guy.jpg.jpg"
     },
     {
       "level": 20,
       "rank": "Jonin",
-      "name": "Killer B",
-      "description": "Yo! You've unlocked Killer B, the Eight-Tails' best buddy. With rap, rhymes, and beast power, you're both awesome and unstoppable. Perfect Jinchuriki vibes!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/04/killer-bee-folds-his-arms-in-front-of-a-staircase.jpg?q=70&fit=crop&w=750&h=422&dpr=1"
+      "name": "Shisui Uchiha",
+      "description": "Awesome! You've become Shisui, the fastest Uchiha. With your Sharingan and Body Flicker, enemies can't even see you move. You're unstoppable speed!",
+      "image": "jonin-shisui-uchiha.jpg.jpg"
     },
     {
       "level": 21,
       "rank": "Jonin",
-      "name": "Jiraiya",
-      "description": "Legend unlocked—you're Jiraiya, the Toad Sage! Teacher of legends, master of Rasengan, and total wild card. You're powerful, wise, and hilarious all at once!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2022/11/Jiraiya-Rasengan.jpg?q=70&fit=crop&w=750&h=422&dpr=1"
+      "name": "Fugaku Uchiha",
+      "description": "You've ranked up to Fugaku, leader of the Uchiha! With deadly fire jutsu and unmatched shuriken skills, you're a clan head with burning power.",
+      "image": "jonin-fugaku-uchiha.jpg.jpg"
     },
     {
       "level": 22,
-      "rank": "Hokage",
-      "name": "Kakashi Hatake",
-      "description": "Congrats, you're Kakashi the Hokage! The Copy Ninja with a thousand jutsu is now the leader of the Leaf. Cool, calm, and legendary.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/02/kakashi-hatake-summoning-energy-for-chidori.jpg?q=50&fit=crop&w=750&h=422&dpr=1.5"
+      "rank": "Jonin",
+      "name": "Sakumo Hatake",
+      "description": "You're Sakumo, the White Fang! With your glowing blade, you strike fear into enemies. Even the strongest ninjas know to respect your lightning-fast skills.",
+      "image": "jonin-sakumo-hatake.jpg.jpg"
     },
     {
       "level": 23,
-      "rank": "Hokage",
-      "name": "Tsunade Senju",
-      "description": "You're Tsunade, the Fifth Hokage! With super strength and healing powers, you're the legendary medic who can crush boulders and save lives.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2022/08/tsunade-casual-pose.jpg?q=50&fit=crop&w=750&h=422&dpr=1.5"
+      "rank": "Jonin",
+      "name": "Killer B",
+      "description": "Yo! You've unlocked Killer B, the Eight-Tails' best buddy. With rap, rhymes, and beast power, you're both awesome and unstoppable. Perfect Jinchuriki vibes!",
+      "image": "jonin-killer-b.jpg.jpg"
     },
     {
       "level": 24,
-      "rank": "Hokage",
-      "name": "Tobirama Senju",
-      "description": "You're Tobirama, the Second Hokage! Genius inventor and water-style master, you created powerful jutsu that changed the ninja world forever.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/04/Tobirama-Senju-Naruto.png?q=50&fit=crop&w=750&h=422&dpr=1.5"
+      "rank": "Jonin",
+      "name": "Jiraiya",
+      "description": "Legend unlocked—you're Jiraiya, the Toad Sage! Teacher of legends, master of Rasengan, and total wild card. You're powerful, wise, and hilarious all at once!",
+      "image": "jonin-jiraiya.jpg.jpg"
     },
     {
       "level": 25,
       "rank": "Hokage",
-      "name": "Minato Namikaze",
-      "description": "You're Minato, the Yellow Flash! With speed too fast to see and a heart of gold, you're a hero who saved the village with ultimate sacrifice.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/10/Best-Anime-Dads-minato-namikaze-8.jpg?q=50&fit=crop&w=825&dpr=1.5"
+      "name": "Kakashi Hatake",
+      "description": "Congrats, you're Kakashi the Hokage! The Copy Ninja with a thousand jutsu is now the leader of the Leaf. Cool, calm, and legendary.",
+      "image": "hokage-kakashi-hatake.jpg.jpg"
     },
     {
       "level": 26,
       "rank": "Hokage",
-      "name": "Hiruzen Sarutobi",
-      "description": "You're Hiruzen, the Third Hokage! Known as the Professor, you know every jutsu in the village. Wise, kind, and powerful—you're the grand master of Konoha.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2022/10/Hiruzen_Sarutobi_webp-Cropped.jpg?q=50&fit=crop&w=750&h=422&dpr=1.5"
+      "name": "Tsunade Senju",
+      "description": "You're Tsunade, the Fifth Hokage! With super strength and healing powers, you're the legendary medic who can crush boulders and save lives.",
+      "image": "hokage-tsunade-senju.jpg.jpg"
     },
     {
       "level": 27,
       "rank": "Hokage",
-      "name": "Hashirama Senju",
-      "description": "You're Hashirama, the First Hokage! With Wood Style powers and the strength to fight Madara and the Nine-Tails, you're a true legend of Konoha.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/09/Hashirama-Senju.jpg?q=50&fit=crop&w=825&dpr=1.5"
+      "name": "Tobirama Senju",
+      "description": "You're Tobirama, the Second Hokage! Genius inventor and water-style master, you created powerful jutsu that changed the ninja world forever.",
+      "image": "hokage-tobirama-senju.jpg.jpg"
     },
     {
       "level": 28,
       "rank": "Hokage",
-      "name": "Naruto Uzumaki",
-      "description": "Believe it—you've finally become Hokage Naruto! With Sage Mode, Kurama's power, and the will to never give up, you're the strongest Hokage ever!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/08/Naruto-Hokage.jpg?q=50&fit=crop&w=825&dpr=1.5"
+      "name": "Minato Namikaze",
+      "description": "You're Minato, the Yellow Flash! With speed too fast to see and a heart of gold, you're a hero who saved the village with ultimate sacrifice.",
+      "image": "hokage-minato-namikaze.jpg.jpg"
     },
     {
       "level": 29,
-      "rank": "Legendary Ninja",
-      "name": "Tobirama Senju",
-      "description": "You're Legendary Tobirama! Not only a Hokage but also a ninja genius who shaped the future of Konoha. Your wisdom and power make you unforgettable.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/03/8-tobirama-casts-Shadow-clone-jutsu.jpg?q=70&fit=crop&w=825&dpr=1"
+      "rank": "Hokage",
+      "name": "Hiruzen Sarutobi",
+      "description": "You're Hiruzen, the Third Hokage! Known as the Professor, you know every jutsu in the village. Wise, kind, and powerful—you're the grand master of Konoha.",
+      "image": "hokage-hiruzen-sarutobi.jpg.jpg"
     },
     {
       "level": 30,
-      "rank": "Legendary Ninja",
-      "name": "Kakashi Hatake",
-      "description": "Legendary Kakashi unlocked! With lightning speed, Sharingan mastery, and endless coolness, you're one of the most powerful ninjas ever.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2022/05/Kakashi-using-lightning-cutter.jpg?q=70&fit=crop&w=750&h=422&dpr=1"
+      "rank": "Hokage",
+      "name": "Hashirama Senju",
+      "description": "You're Hashirama, the First Hokage! With Wood Style powers and the strength to fight Madara and the Nine-Tails, you're a true legend of Konoha.",
+      "image": "hokage-hashirama-senju.jpg.jpg"
     },
     {
       "level": 31,
-      "rank": "Legendary Ninja",
-      "name": "Minato Namikaze",
-      "description": "You're Legendary Minato, the Yellow Flash remembered across the world! Even in sacrifice, your speed and bravery live on forever.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/03/minato-namikaze-holding-a-rasengan-naruto-shippuden-1.jpg?q=70&fit=crop&w=825&dpr=1"
+      "rank": "Hokage",
+      "name": "Naruto Uzumaki",
+      "description": "Believe it—you've finally become Hokage Naruto! With Sage Mode, Kurama's power, and the will to never give up, you're the strongest Hokage ever!",
+      "image": "hokage-naruto-uzumaki.jpg.jpg"
     },
     {
       "level": 32,
       "rank": "Legendary Ninja",
-      "name": "Sasuke Uchiha",
-      "description": "Legendary Sasuke! With the Eternal Mangekyo Sharingan and endless power, you're one of the most feared and respected ninjas ever.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/04/mixcollage-06-apr-2025-09-13-pm-9269.jpg?q=70&fit=crop&w=825&dpr=1"
+      "name": "Tobirama Senju",
+      "description": "You're Legendary Tobirama! Not only a Hokage but also a ninja genius who shaped the future of Konoha. Your wisdom and power make you unforgettable.",
+      "image": "legendary-ninja-tobirama-senju.jpg.jpg"
     },
     {
       "level": 33,
       "rank": "Legendary Ninja",
-      "name": "Naruto Uzumaki",
-      "description": "Legendary Naruto unlocked! With Sage Mode, Kurama, and thousands of shadow clones, you're the unstoppable hero of the ninja world.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/12/naruto-chopsticks-1.jpg?q=70&fit=crop&w=825&dpr=1"
+      "name": "Kakashi Hatake",
+      "description": "Legendary Kakashi unlocked! With lightning speed, Sharingan mastery, and endless coolness, you're one of the most powerful ninjas ever.",
+      "image": "legendary-ninja-kakashi-hatake.jpg.jpg"
     },
     {
       "level": 34,
       "rank": "Legendary Ninja",
-      "name": "Madara Uchiha",
-      "description": "You've become Madara, the ultimate Uchiha! With the Eternal Mangekyo Sharingan and Perfect Susanoo, you're nearly godlike in power.",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/01/madara-uchiha.jpg?q=70&fit=crop&w=825&dpr=1"
+      "name": "Uchiha Obito",
+      "description": "You've unlocked the masked legend Obito Uchiha! Once thought lost, he returned as the mysterious Tobi—going from prankster to mastermind of the Akatsuki. With his space-warping Mangekyo Sharingan, Obito can slip through attacks and control battles like no other. Though his heart was broken by tragedy, his power grew so immense that even the strongest shinobi trembled before him. From underdog to unstoppable force, you now wield the might of a ninja who nearly changed the entire world!",
+      "image": "legendary-ninja-uchiha-obito.jpg.jpg"
     },
     {
       "level": 35,
       "rank": "Legendary Ninja",
+      "name": "Uchiha Itachi",
+      "description": "You've unlocked the legendary Itachi Uchiha! A genius since childhood, he became one of the youngest Anbu captains ever. With his Sharingan and Mangekyo powers, even the strongest shinobi feared him. Though branded a rogue ninja and Akatsuki member, Itachi carried a hidden mission—protecting the Leaf and his little brother at all costs. Calm, mysterious, and unbelievably powerful, you now wield the strength and wisdom of one of the greatest ninjas in history.",
+      "image": "legendary-ninja-uchiha-itachi.jpg.jpg"
+    },
+    {
+      "level": 36,
+      "rank": "Legendary Ninja",
+      "name": "Minato Namikaze",
+      "description": "You're Legendary Minato, the Yellow Flash remembered across the world! Even in sacrifice, your speed and bravery live on forever.",
+      "image": "legendary-ninja-minato-namikaze.jpg.jpg"
+    },
+    {
+      "level": 37,
+      "rank": "Legendary Ninja",
+      "name": "Sasuke Uchiha",
+      "description": "Legendary Sasuke! With the Eternal Mangekyo Sharingan and endless power, you're one of the most feared and respected ninjas ever.",
+      "image": "legendary-ninja-sasuke-uchiha.jpg.jpg"
+    },
+    {
+      "level": 38,
+      "rank": "Legendary Ninja",
+      "name": "Naruto Uzumaki",
+      "description": "Legendary Naruto unlocked! With Sage Mode, Kurama, and thousands of shadow clones, you're the unstoppable hero of the ninja world.",
+      "image": "legendary-ninja-naruto-uzumaki.jpg.jpg"
+    },
+    {
+      "level": 39,
+      "rank": "Legendary Ninja",
+      "name": "Madara Uchiha",
+      "description": "You've become Madara, the ultimate Uchiha! With the Eternal Mangekyo Sharingan and Perfect Susanoo, you're nearly godlike in power.",
+      "image": "legendary-ninja-madara-uchiha.jpg.jpg"
+    },
+    {
+      "level": 40,
+      "rank": "Legendary Ninja",
       "name": "Kaguya Otsutsuki",
       "description": "Final form unlocked—you're Kaguya, the Mother of Chakra! With powers beyond imagination, you're the strongest being in the ninja world. True god-tier!",
-      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2017/07/Naruto-Kaguya.jpg?q=70&fit=crop&w=750&h=422&dpr=1"
+      "image": "legendary-ninja-kaguya-otsutsuki.jpg.jpg"
     }
   ],
   "questions": [
