@@ -1200,12 +1200,12 @@
       "word": "tantalize",
       "question": "To 'tantalize' someone is to:",
       "choices": [
-        "Tease with something desired but out of reach",
+        "Tease with something",
         "Criticize harshly",
         "Comfort gently",
         "Convince strongly"
       ],
-      "answer": "Tease with something desired but out of reach"
+      "answer": "Tease with something"
     },
     {
       "word": "temerity",
@@ -1559,12 +1559,12 @@
       "word": "virulent",
       "question": "A 'virulent' disease is:",
       "choices": [
-        "Highly infectious and dangerous",
+        "Highly infectious",
         "Easily curable",
         "Harmless",
         "Rarely seen"
       ],
-      "answer": "Highly infectious and dangerous"
+      "answer": "Highly infectious"
     },
     {
       "word": "viscous",
@@ -1598,12 +1598,12 @@
       "word": "volatile",
       "question": "A 'volatile' situation is:",
       "choices": [
-        "Unstable and likely to change",
+        "Unstable",
         "Safe and steady",
         "Predictable",
         "Calm and peaceful"
       ],
-      "answer": "Unstable and likely to change"
+      "answer": "Unstable"
     },
     {
       "word": "voluble",
@@ -2099,13 +2099,8 @@
     {
       "word": "fetish",
       "question": "What does 'fetish' mean?",
-      "choices": [
-        "obsessive object of devotion",
-        "a tool",
-        "a charm",
-        "a belief"
-      ],
-      "answer": "obsessive object of devotion"
+      "choices": ["a fixation", "a tool", "a charm", "a belief"],
+      "answer": "a fixation"
     },
     {
       "word": "flaccid",
@@ -2143,6 +2138,7 @@
       "answer": "association of craftsmen"
     },
     {
+      "word": "heinous",
       "question": "What does 'heinous' mean?",
       "choices": [
         "Terribly wicked",
@@ -2153,46 +2149,48 @@
       "answer": "Terribly wicked"
     },
     {
+      "word": "heterogeneous",
       "question": "What does 'heterogeneous' mean?",
       "choices": [
-        "Consisting of different kinds",
+        "Mixed composition",
         "Made of the same material",
         "Unchanging",
         "Ancient"
       ],
-      "answer": "Consisting of different kinds"
+      "answer": "Mixed composition"
     },
     {
+      "word": "heydey",
       "question": "What is a 'heyday'?",
-      "choices": [
-        "A time of greatest success",
-        "A sad period",
-        "A holiday",
-        "A short break"
-      ],
-      "answer": "A time of greatest success"
+      "choices": ["A high point", "A sad period", "A holiday", "A short break"],
+      "answer": "A high point"
     },
     {
+      "word": "hiatus",
       "question": "What is a 'hiatus'?",
       "choices": ["A pause", "A mountain peak", "An achievement", "A failure"],
       "answer": "A pause"
     },
     {
+      "word": "",
       "question": "What does 'holocaust' originally mean?",
       "choices": ["Great destruction", "Celebration", "Small fire", "Feast"],
       "answer": "Great destruction"
     },
     {
+      "word": "",
       "question": "What does 'homage' mean?",
       "choices": ["Honor", "A type of home", "A law", "A deception"],
       "answer": "Honor"
     },
     {
+      "word": "",
       "question": "What does 'homogeneous' mean?",
       "choices": ["Of the same kind", "Of mixed types", "Foreign", "Fragile"],
       "answer": "Of the same kind"
     },
     {
+      "word": "",
       "question": "A 'hypochondriac' is someone who:",
       "choices": [
         "Always worries about illness",
@@ -2203,6 +2201,7 @@
       "answer": "Always worries about illness"
     },
     {
+      "word": "",
       "question": "What is an 'iconoclast'?",
       "choices": [
         "A person who attacks traditions",
@@ -2213,6 +2212,7 @@
       "answer": "A person who attacks traditions"
     },
     {
+      "word": "",
       "question": "An 'idyll' refers to:",
       "choices": [
         "A peaceful scene",
@@ -2223,61 +2223,75 @@
       "answer": "A peaceful scene"
     },
     {
+      "word": "",
       "question": "What does 'ignominious' mean?",
       "choices": ["Shameful", "Respectful", "Peaceful", "Honest"],
       "answer": "Shameful"
     },
     {
+      "word": "",
+
       "question": "What does 'illicit' mean?",
       "choices": ["Illegal", "Strong", "Rare", "Sacred"],
       "answer": "Illegal"
     },
     {
+      "word": "",
       "question": "To 'imbibe' means to:",
       "choices": ["Drink", "Destroy", "Build", "Sleep"],
       "answer": "Drink"
     },
     {
+      "word": "",
       "question": "What does 'immutable' mean?",
       "choices": ["Unchanging", "Fragile", "Temporary", "Easily broken"],
       "answer": "Unchanging"
     },
     {
+      "word": "",
       "question": "What is an 'impasse'?",
       "choices": ["A deadlock", "A clear road", "A victory", "A shortcut"],
       "answer": "A deadlock"
     },
     {
+      "word": "",
+
       "question": "What does 'impecunious' mean?",
       "choices": ["Poor", "Wealthy", "Skilled", "Honest"],
       "answer": "Poor"
     },
     {
+      "word": "",
       "question": "What does 'impertinent' mean?",
       "choices": ["Rude", "Kind", "Silent", "Precise"],
       "answer": "Rude"
     },
     {
+      "word": "",
       "question": "What does 'implicit' mean?",
       "choices": ["Implied", "Obvious", "Forbidden", "Written"],
       "answer": "Implied"
     },
     {
+      "word": "",
       "question": "An 'increment' refers to:",
       "choices": ["An increase", "A fall", "A loss", "A copy"],
       "answer": "An increase"
     },
     {
+      "word": "",
       "question": "What does 'indigent' mean?",
       "choices": ["Needy", "Clever", "Generous", "Powerful"],
       "answer": "Needy"
     },
     {
+      "word": "",
       "question": "What does 'indolent' mean?",
       "choices": ["Lazy", "Energetic", "Loyal", "Silent"],
       "answer": "Lazy"
     },
     {
+      "word": "",
       "question": "What does 'indulgence' mean?",
       "choices": [
         "Giving in to desires",
@@ -2288,31 +2302,37 @@
       "answer": "Giving in to desires"
     },
     {
+      "word": "",
       "question": "What does 'infernal' mean?",
       "choices": ["Hellish", "Heavenly", "Peaceful", "Ordinary"],
       "answer": "Hellish"
     },
     {
+      "word": "",
       "question": "What is an 'infidel'?",
       "choices": ["Non-believer", "A monk", "A leader", "A hero"],
       "answer": "Non-believer"
     },
     {
+      "word": "",
       "question": "What does 'ingenuous' mean?",
       "choices": ["Innocent", "Clever", "Suspicious", "Hostile"],
       "answer": "Innocent"
     },
     {
+      "word": "",
       "question": "What is an 'injunction'?",
       "choices": ["A court order", "A celebration", "A story", "A disease"],
       "answer": "A court order"
     },
     {
+      "word": "",
       "question": "What does 'inherent' mean?",
       "choices": ["Innate", "Acquired", "Borrowed", "Temporary"],
       "answer": "Innate"
     },
     {
+      "word": "",
       "question": "What does 'insidious' mean?",
       "choices": [
         "Sneaky and harmful",
@@ -2323,6 +2343,7 @@
       "answer": "Sneaky and harmful"
     },
     {
+      "word": "",
       "question": "What does 'insolvent' mean?",
       "choices": [
         "Unable to pay debts",
@@ -2333,6 +2354,7 @@
       "answer": "Unable to pay debts"
     },
     {
+      "word": "",
       "question": "What is 'insomnia'?",
       "choices": [
         "Inability to sleep",
@@ -2343,26 +2365,31 @@
       "answer": "Inability to sleep"
     },
     {
+      "word": "",
       "question": "What does 'interminable' mean?",
       "choices": ["Endless", "Fragile", "Short", "Strong"],
       "answer": "Endless"
     },
     {
+      "word": "",
       "question": "What is 'intimacy'?",
       "choices": ["Closeness", "Distance", "Respect", "Jealousy"],
       "answer": "Closeness"
     },
     {
+      "word": "",
       "question": "What does 'intrepid' mean?",
       "choices": ["Fearless", "Cowardly", "Quiet", "Careless"],
       "answer": "Fearless"
     },
     {
+      "word": "",
       "question": "What does 'intrinsic' mean?",
       "choices": ["Essential", "External", "Optional", "Temporary"],
       "answer": "Essential"
     },
     {
+      "word": "",
       "question": "What does 'invective' mean?",
       "choices": [
         "Harsh language",
@@ -2373,6 +2400,7 @@
       "answer": "Harsh language"
     },
     {
+      "word": "",
       "question": "What is 'jargon'?",
       "choices": [
         "Specialized language",
@@ -2383,16 +2411,19 @@
       "answer": "Specialized language"
     },
     {
+      "word": "",
       "question": "What does 'jaundice' also mean besides the disease?",
       "choices": ["Prejudice", "Calmness", "Health", "Wealth"],
       "answer": "Prejudice"
     },
     {
+      "word": "jibe",
       "question": "To 'jibe' means to:",
       "choices": ["Agree", "Fight", "Refuse", "Destroy"],
       "answer": "Agree"
     },
     {
+      "word": "jostle",
       "question": "To 'jostle' means to:",
       "choices": [
         "Push roughly",
@@ -2403,6 +2434,7 @@
       "answer": "Push roughly"
     },
     {
+      "word": "juxtaposed",
       "question": "What does 'juxtaposed' mean?",
       "choices": [
         "Placed side by side",
@@ -2413,51 +2445,61 @@
       "answer": "Placed side by side"
     },
     {
+      "word": "keen",
       "question": "What does 'keen' mean?",
       "choices": ["Eager", "Weak", "Old", "Peaceful"],
       "answer": "Eager"
     },
     {
+      "word": "knack",
       "question": "A 'knack' is:",
       "choices": ["A special skill", "A weakness", "A burden", "A habit"],
       "answer": "A special skill"
     },
     {
+      "word": "lampoon",
       "question": "To 'lampoon' means to:",
       "choices": ["Mock", "Celebrate", "Explain", "Ignore"],
       "answer": "Mock"
     },
     {
+      "word": "languish",
       "question": "To 'languish' means to:",
       "choices": ["Lose strength", "Grow quickly", "Become rich", "Hide away"],
       "answer": "Lose strength"
     },
     {
+      "word": "lascivious",
       "question": "What does 'lascivious' mean?",
       "choices": ["Lustful", "Peaceful", "Respectful", "Quiet"],
       "answer": "Lustful"
     },
     {
+      "word": "latent",
       "question": "What does 'latent' mean?",
       "choices": ["Hidden", "Active", "Clear", "Expensive"],
       "answer": "Hidden"
     },
     {
+      "word": "lethargic",
       "question": "What does 'lethargic' mean?",
       "choices": ["Sluggish", "Energetic", "Cheerful", "Strong"],
       "answer": "Sluggish"
     },
     {
+      "word": "levy",
       "question": "To 'levy' means to:",
       "choices": ["Impose a tax", "Remove a law", "Give a gift", "Hide money"],
       "answer": "Impose a tax"
     },
     {
+      "word": "lexicon",
       "question": "A 'lexicon' is:",
       "choices": ["Dictionary", "Story", "Code", "Law"],
       "answer": "Dictionary"
     },
     {
+      "word": "liturgy",
       "question": "What is a 'liturgy'?",
       "choices": [
         "Public worship ritual",
@@ -2468,61 +2510,73 @@
       "answer": "Public worship ritual"
     },
     {
+      "word": "loquacious",
       "question": "What does 'loquacious' mean?",
       "choices": ["Talkative", "Silent", "Forgetful", "Angry"],
       "answer": "Talkative"
     },
     {
+      "word": "lucid",
       "question": "What does 'lucid' mean?",
       "choices": ["Clear", "Confused", "Dark", "Hidden"],
       "answer": "Clear"
     },
     {
+      "word": "magnanimous",
       "question": "What does 'magnanimous' mean?",
       "choices": ["Generous", "Selfish", "Careful", "Strict"],
       "answer": "Generous"
     },
     {
+      "word": "malevolent",
       "question": "What does 'malevolent' mean?",
       "choices": ["Evil", "Kind", "Weak", "Calm"],
       "answer": "Evil"
     },
     {
+      "word": "malign",
       "question": "To 'malign' means to:",
       "choices": ["Speak ill of", "Support", "Protect", "Encourage"],
       "answer": "Speak ill of"
     },
     {
+      "word": "melodramatic",
       "question": "What does 'melodramatic' mean?",
       "choices": ["Overly emotional", "Calm", "Silent", "Dry"],
       "answer": "Overly emotional"
     },
     {
+      "word": "mendicant",
       "question": "What is a 'mendicant'?",
       "choices": ["A beggar", "A monk", "A writer", "A soldier"],
       "answer": "A beggar"
     },
     {
+      "word": "menial",
       "question": "What does 'menial' mean?",
       "choices": ["Lowly", "Important", "Joyful", "Skilled"],
       "answer": "Lowly"
     },
     {
+      "word": "mettle",
       "question": "What is 'mettle'?",
       "choices": ["Courage", "Wealth", "Fear", "Anger"],
       "answer": "Courage"
     },
     {
+      "word": "monetary",
       "question": "What does 'monetary' relate to?",
       "choices": ["Money", "Time", "Laws", "Nature"],
       "answer": "Money"
     },
     {
+      "word": "myriad",
       "question": "What does 'myriad' mean?",
       "choices": ["Countless", "Tiny", "Predictable", "Few"],
       "answer": "Countless"
     },
     {
+      "word": "narcissism",
       "question": "What is 'narcissism'?",
       "choices": [
         "Excessive self-love",
@@ -2533,46 +2587,55 @@
       "answer": "Excessive self-love"
     },
     {
+      "word": "nativity",
       "question": "What is 'nativity'?",
       "choices": ["Birth", "Death", "Marriage", "Festival"],
       "answer": "Birth"
     },
     {
+      "word": "nebulous",
       "question": "What does 'nebulous' mean?",
       "choices": ["Vague", "Clear", "Bright", "Firm"],
       "answer": "Vague"
     },
     {
+      "word": "neophyte",
       "question": "A 'neophyte' is:",
       "choices": ["A beginner", "An expert", "A critic", "A leader"],
       "answer": "A beginner"
     },
     {
+      "word": "notable",
       "question": "What does 'notable' mean?",
       "choices": ["Worthy of notice", "Hidden", "Ordinary", "False"],
       "answer": "Worthy of notice"
     },
     {
+      "word": "oblation",
       "question": "What is an 'oblation'?",
       "choices": ["Offering", "Punishment", "Journey", "Law"],
       "answer": "Offering"
     },
     {
+      "word": "obscure",
       "question": "What does 'obscure' mean?",
       "choices": ["Unclear", "Famous", "Bright", "Loud"],
       "answer": "Unclear"
     },
     {
+      "word": "obsolescence",
       "question": "What is 'obsolescence'?",
       "choices": ["Becoming outdated", "Newness", "Power", "Strength"],
       "answer": "Becoming outdated"
     },
     {
+      "word": "occult",
       "question": "What does 'occult' mean?",
       "choices": ["Secret", "Religious", "Modern", "Legal"],
       "answer": "Secret"
     },
     {
+      "word": "oligarchy",
       "question": "What does 'oligarchy' mean?",
       "choices": [
         "Rule by a small group",
@@ -2583,6 +2646,7 @@
       "answer": "Rule by a small group"
     },
     {
+      "word": "omnipotent",
       "question": "What does 'omnipotent' mean?",
       "choices": [
         "All-powerful",
@@ -2593,6 +2657,7 @@
       "answer": "All-powerful"
     },
     {
+      "word": "opulence",
       "question": "What does 'opulence' mean?",
       "choices": [
         "Extreme wealth",
@@ -2603,11 +2668,13 @@
       "answer": "Extreme wealth"
     },
     {
+      "word": "ornate",
       "question": "What does 'ornate' mean?",
       "choices": ["Highly decorated", "Plain", "Sharp", "Incomplete"],
       "answer": "Highly decorated"
     },
     {
+      "word": "ostracize",
       "question": "What does 'ostracize' mean?",
       "choices": [
         "Exclude from a group",
@@ -2618,6 +2685,7 @@
       "answer": "Exclude from a group"
     },
     {
+      "word": "palatable",
       "question": "What does 'palatable' mean?",
       "choices": [
         "Pleasant to taste",
@@ -2628,11 +2696,13 @@
       "answer": "Pleasant to taste"
     },
     {
+      "word": "palpable",
       "question": "What does 'palpable' mean?",
       "choices": ["Easily perceived", "Unreal", "Difficult to reach", "Unseen"],
       "answer": "Easily perceived"
     },
     {
+      "word": "panacea",
       "question": "What does 'panacea' mean?",
       "choices": [
         "A cure-all",
@@ -2643,6 +2713,7 @@
       "answer": "A cure-all"
     },
     {
+      "word": "parable",
       "question": "What does 'parable' mean?",
       "choices": [
         "A moral story",
@@ -2653,21 +2724,24 @@
       "answer": "A moral story"
     },
     {
+      "word": "paradigm",
       "question": "What does 'paradigm' mean?",
       "choices": ["A model", "A contradiction", "An error", "A punishment"],
       "answer": "A model"
     },
     {
+      "word": "paradox",
       "question": "What does 'paradox' mean?",
       "choices": [
-        "A self-contradictory statement",
+        "A self-contradiction",
         "A clear truth",
         "A strong argument",
         "A logical law"
       ],
-      "answer": "A self-contradictory statement"
+      "answer": "A self-contradiction"
     },
     {
+      "word": "paragon",
       "question": "What does 'paragon' mean?",
       "choices": [
         "A perfect example",
@@ -2678,6 +2752,7 @@
       "answer": "A perfect example"
     },
     {
+      "word": "parsimony",
       "question": "What does 'parsimony' mean?",
       "choices": [
         "Extreme stinginess",
@@ -2688,16 +2763,18 @@
       "answer": "Extreme stinginess"
     },
     {
+      "word": "pastoral",
       "question": "What does 'pastoral' mean?",
       "choices": [
-        "Relating to the countryside",
+        "Countryside living",
         "Urban lifestyle",
         "Industrial work",
         "Royal affairs"
       ],
-      "answer": "Relating to the countryside"
+      "answer": "Countryside living"
     },
     {
+      "word": "patriarch",
       "question": "What does 'patriarch' mean?",
       "choices": [
         "Male head of a family",
@@ -2708,6 +2785,7 @@
       "answer": "Male head of a family"
     },
     {
+      "word": "patrimony",
       "question": "What does 'patrimony' mean?",
       "choices": [
         "Inheritance from one's father",
@@ -2718,11 +2796,13 @@
       "answer": "Inheritance from one's father"
     },
     {
+      "word": "peccadillo",
       "question": "What does 'peccadillo' mean?",
       "choices": ["A minor fault", "A great crime", "A reward", "A blessing"],
       "answer": "A minor fault"
     },
     {
+      "word": "pectoral",
       "question": "What does 'pectoral' mean?",
       "choices": [
         "Related to the chest",
@@ -2733,41 +2813,48 @@
       "answer": "Related to the chest"
     },
     {
+      "word": "perennial",
       "question": "What does 'perennial' mean?",
       "choices": ["Lasting for years", "Short-lived", "Seasonal", "Occasional"],
       "answer": "Lasting for years"
     },
     {
+      "word": "periphery",
       "question": "What does 'periphery' mean?",
       "choices": ["Outer edge", "Center", "Foundation", "Core belief"],
       "answer": "Outer edge"
     },
     {
+      "word": "perpetrate",
       "question": "What does 'perpetrate' mean?",
       "choices": ["Carry out a crime", "To forgive", "To flee", "To testify"],
       "answer": "Carry out a crime"
     },
     {
+      "word": "perturbation",
       "question": "What does 'perturbation' mean?",
       "choices": ["Disturbance", "Happiness", "Carelessness", "Growth"],
       "answer": "Disturbance"
     },
     {
+      "word": "philanthropist",
       "question": "What does 'philanthropist' mean?",
       "choices": [
-        "One who donates for others' welfare",
+        "A donor for others' welfare",
         "A miser",
-        "A philosopher",
-        "A scientist"
+        "A philosopher of science",
+        "A scientist studying humans"
       ],
-      "answer": "One who donates for others' welfare"
+      "answer": "A donor for others' welfare"
     },
     {
+      "word": "phlegmatic",
       "question": "What does 'phlegmatic' mean?",
       "choices": ["Unemotional", "Irritable", "Energetic", "Anxious"],
       "answer": "Unemotional"
     },
     {
+      "word": "pinnacle",
       "question": "What does 'pinnacle' mean?",
       "choices": [
         "The highest point",
@@ -2778,76 +2865,85 @@
       "answer": "The highest point"
     },
     {
+      "word": "placid",
       "question": "What does 'placid' mean?",
       "choices": ["Peaceful", "Restless", "Chaotic", "Aggressive"],
       "answer": "Peaceful"
     },
     {
+      "word": "plaintiff",
       "question": "What does 'plaintiff' mean?",
-      "choices": [
-        "One who brings a lawsuit",
-        "A judge",
-        "A criminal",
-        "A defendant"
-      ],
-      "answer": "One who brings a lawsuit"
+      "choices": ["A complainant", "A judge", "A criminal", "A defendant"],
+      "answer": "A complainant"
     },
     {
+      "word": "poignant",
       "question": "What does 'poignant' mean?",
       "choices": ["Deeply touching", "Funny", "Confusing", "Trivial"],
       "answer": "Deeply touching"
     },
     {
+      "word": "portly",
       "question": "What does 'portly' mean?",
       "choices": ["Stout", "Tall", "Thin", "Young"],
       "answer": "Stout"
     },
     {
+      "word": "potent",
       "question": "What does 'potent' mean?",
       "choices": ["Powerful", "Weak", "Delicate", "Fragile"],
       "answer": "Powerful"
     },
     {
+      "word": "precarious",
       "question": "What does 'precarious' mean?",
       "choices": ["Risky", "Secure", "Steady", "Permanent"],
       "answer": "Risky"
     },
     {
+      "word": "preclude",
       "question": "What does 'preclude' mean?",
       "choices": ["Prevent", "Allow", "Delay", "Suggest"],
       "answer": "Prevent"
     },
     {
+      "word": "precursor",
       "question": "What does 'precursor' mean?",
       "choices": ["Forerunner", "Follower", "Opponent", "Stranger"],
       "answer": "Forerunner"
     },
     {
+      "word": "prelude",
       "question": "What does 'prelude' mean?",
       "choices": ["Introduction", "Ending", "Middle", "Pause"],
       "answer": "Introduction"
     },
     {
+      "word": "prodigal",
       "question": "What does 'prodigal' mean?",
       "choices": ["Wastefully extravagant", "Frugal", "Diligent", "Humble"],
       "answer": "Wastefully extravagant"
     },
     {
+      "word": "prodigious",
       "question": "What does 'prodigious' mean?",
       "choices": ["Enormous", "Tiny", "Average", "Insignificant"],
       "answer": "Enormous"
     },
     {
+      "word": "profuse",
       "question": "What does 'profuse' mean?",
       "choices": ["Abundant", "Rare", "Scanty", "Limited"],
       "answer": "Abundant"
     },
     {
+      "word": "prolific",
       "question": "What does 'prolific' mean?",
       "choices": ["Highly productive", "Unproductive", "Silent", "Scarce"],
       "answer": "Highly productive"
     },
     {
+      "word": "propensity",
       "question": "What does 'propensity' mean?",
       "choices": [
         "Natural tendency",
@@ -2858,26 +2954,31 @@
       "answer": "Natural tendency"
     },
     {
+      "word": "proximity",
       "question": "What does 'proximity' mean?",
       "choices": ["Nearness", "Distance", "Difference", "Delay"],
       "answer": "Nearness"
     },
     {
+      "word": "pugnacious",
       "question": "What does 'pugnacious' mean?",
       "choices": ["Eager to fight", "Peaceful", "Cheerful", "Forgetful"],
       "answer": "Eager to fight"
     },
     {
+      "word": "pulchritude",
       "question": "What does 'pulchritude' mean?",
       "choices": ["Beauty", "Strength", "Wisdom", "Wealth"],
       "answer": "Beauty"
     },
     {
+      "word": "pungent",
       "question": "What does 'pungent' mean?",
       "choices": ["Smelly", "Dull", "Sweet", "Soft"],
       "answer": "Smelly"
     },
     {
+      "word": "punitive",
       "question": "What does 'punitive' mean?",
       "choices": [
         "Inflicting punishment",
@@ -2888,11 +2989,13 @@
       "answer": "Inflicting punishment"
     },
     {
+      "word": "purge",
       "question": "What does 'purge' mean?",
       "choices": ["Cleanse", "Support", "Add to", "Create"],
       "answer": "Cleanse"
     },
     {
+      "word": "qualms",
       "question": "What does 'qualms' mean?",
       "choices": [
         "Uneasy feelings",
@@ -2903,31 +3006,37 @@
       "answer": "Uneasy feelings"
     },
     {
+      "word": "quell",
       "question": "What does 'quell' mean?",
       "choices": ["Suppress", "Encourage", "Create", "Provoke"],
       "answer": "Suppress"
     },
     {
+      "word": "quench",
       "question": "What does 'quench' mean?",
       "choices": ["Satisfy thirst", "Burn", "Create fire", "Ignore"],
       "answer": "Satisfy thirst"
     },
     {
+      "word": "rampant",
       "question": "What does 'rampant' mean?",
       "choices": ["Spreading unchecked", "Rare", "Hidden", "Controlled"],
       "answer": "Spreading unchecked"
     },
     {
+      "word": "rapacious",
       "question": "What does 'rapacious' mean?",
       "choices": ["Greedy", "Generous", "Lazy", "Timid"],
       "answer": "Greedy"
     },
     {
+      "word": "recalcitrant",
       "question": "What does 'recalcitrant' mean?",
       "choices": ["Resistant to authority", "Obedient", "Silent", "Forgetful"],
       "answer": "Resistant to authority"
     },
     {
+      "word": "recant",
       "question": "What does 'recant' mean?",
       "choices": [
         "Take back a statement",
@@ -2938,26 +3047,25 @@
       "answer": "Take back a statement"
     },
     {
+      "word": "repudiate",
       "question": "What does 'repudiate' mean?",
       "choices": ["Reject", "Accept", "Repeat", "Explain"],
       "answer": "Reject"
     },
     {
+      "word": "reciprocal",
       "question": "What does 'reciprocal' mean?",
       "choices": ["Mutual", "One-sided", "Accidental", "Unrelated"],
       "answer": "Mutual"
     },
     {
+      "word": "recluse",
       "question": "What does 'recluse' mean?",
-      "choices": [
-        "A person who lives in seclusion",
-        "A leader",
-        "A criminal",
-        "A teacher"
-      ],
-      "answer": "A person who lives in seclusion"
+      "choices": ["A hermit", "A leader", "A criminal", "A teacher"],
+      "answer": "A hermit"
     },
     {
+      "word": "rectitude",
       "question": "What does 'rectitude' mean?",
       "choices": [
         "Moral uprightness",
@@ -2968,21 +3076,19 @@
       "answer": "Moral uprightness"
     },
     {
+      "word": "relegate",
       "question": "What does 'relegate' mean?",
-      "choices": [
-        "Assign to a lower position",
-        "Promote",
-        "Dismiss completely",
-        "Honor"
-      ],
-      "answer": "Assign to a lower position"
+      "choices": ["Demote", "Promote", "Dismiss completely", "Honor"],
+      "answer": "Demote"
     },
     {
+      "word": "relinquish",
       "question": "What does 'relinquish' mean?",
       "choices": ["Give up", "Hold tightly", "Acquire", "Borrow"],
       "answer": "Give up"
     },
     {
+      "word": "renegade",
       "question": "What does 'renegade' mean?",
       "choices": [
         "One who betrays a cause",
@@ -2993,26 +3099,31 @@
       "answer": "One who betrays a cause"
     },
     {
+      "word": "reprehensible",
       "question": "What does 'reprehensible' mean?",
       "choices": ["Deserving blame", "Praiseworthy", "Acceptable", "Ordinary"],
       "answer": "Deserving blame"
     },
     {
+      "word": "requisite",
       "question": "What does 'requisite' mean?",
       "choices": ["Necessary", "Optional", "Rare", "Unwanted"],
       "answer": "Necessary"
     },
     {
+      "word": "rescind",
       "question": "What does 'rescind' mean?",
       "choices": ["Cancel", "Approve", "Accept", "Delay"],
       "answer": "Cancel"
     },
     {
+      "word": "resolute",
       "question": "What does 'resolute' mean?",
       "choices": ["Determined", "Uncertain", "Forgetful", "Weak"],
       "answer": "Determined"
     },
     {
+      "word": "respite",
       "question": "What does 'respite' mean?",
       "choices": [
         "Temporary rest",
@@ -3023,91 +3134,97 @@
       "answer": "Temporary rest"
     },
     {
+      "word": "reticence",
       "question": "What does 'reticence' mean?",
       "choices": ["Reluctance to speak", "Joyfulness", "Outspokenness", "Fear"],
       "answer": "Reluctance to speak"
     },
     {
+      "word": "rotundity",
       "question": "What does 'rotundity' mean?",
       "choices": ["Roundness", "Flatness", "Thinness", "Weakness"],
       "answer": "Roundness"
     },
     {
+      "word": "scathing",
       "question": "What does 'scathing' mean?",
       "choices": ["Severely critical", "Gentle", "Forgiving", "Mild"],
       "answer": "Severely critical"
     },
     {
+      "word": "scintillate",
       "question": "What does 'scintillate' mean?",
       "choices": ["Sparkle", "Fade", "Grow slowly", "Dull"],
       "answer": "Sparkle"
     },
     {
+      "word": "scourge",
       "question": "What does 'scourge' mean?",
-      "choices": [
-        "A source of great suffering",
-        "A blessing",
-        "A cure",
-        "A joke"
-      ],
-      "answer": "A source of great suffering"
+      "choices": ["A curse", "A blessing", "A cure", "A joke"],
+      "answer": "A curse"
     },
     {
+      "word": "scrupulous",
       "question": "What does 'scrupulous' mean?",
       "choices": ["Precise", "Careless", "Indifferent", "Quick"],
       "answer": "Precise"
     },
     {
+      "word": "secular",
       "question": "What does 'secular' mean?",
       "choices": ["Non-religious", "Holy", "Spiritual", "Ceremonial"],
       "answer": "Non-religious"
     },
     {
+      "word": "sedate",
       "question": "What does 'sedate' mean?",
       "choices": ["Composed", "Wild", "Loud", "Chaotic"],
       "answer": "Composed"
     },
     {
+      "word": "sedentary",
       "question": "What does 'sedentary' mean?",
       "choices": ["Inactive", "Energetic", "Moving constantly", "Active"],
       "answer": "Inactive"
     },
     {
+      "word": "semblance",
       "question": "What does 'semblance' mean?",
       "choices": ["Outward appearance", "True essence", "Reality", "Proof"],
       "answer": "Outward appearance"
     },
     {
+      "word": "serrated",
       "question": "What does 'serrated' mean?",
       "choices": ["Having a jagged edge", "Smooth", "Flat", "Circular"],
       "answer": "Having a jagged edge"
     },
     {
+      "word": "sporadic",
       "question": "What does 'sporadic' mean?",
       "choices": ["Occasional", "Frequent", "Constant", "Planned"],
       "answer": "Occasional"
     },
     {
+      "word": "stalwart",
       "question": "What does 'stalwart' mean?",
       "choices": ["Loyal", "Weak", "Indifferent", "Unreliable"],
       "answer": "Loyal"
     },
     {
+      "word": "stringent",
       "question": "What does 'stringent' mean?",
       "choices": ["Strict", "Flexible", "Loose", "Easy-going"],
       "answer": "Strict"
     },
     {
+      "word": "stupor",
       "question": "What does 'stupor' mean?",
-      "choices": [
-        "A state of unconsciousness",
-        "Happiness",
-        "Anger",
-        "Excitement"
-      ],
-      "answer": "A state of unconsciousness"
+      "choices": ["Lethargy", "Happiness", "Anger", "Excitement"],
+      "answer": "Lethargy"
     },
     {
+      "word": "succinct",
       "question": "What does 'succinct' mean?",
       "choices": ["Brief", "Long-winded", "Confusing", "Hidden"],
       "answer": "Brief"
@@ -3137,13 +3254,8 @@
     {
       "word": "variegated",
       "question": "A 'variegated' pattern is:",
-      "choices": [
-        "Marked with different colors",
-        "Plain and simple",
-        "Invisible",
-        "Damaged"
-      ],
-      "answer": "Marked with different colors"
+      "choices": ["Multicolored", "Plain and simple", "Invisible", "Damaged"],
+      "answer": "Multicolored"
     }
   ]
 }
