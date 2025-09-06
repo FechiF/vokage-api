@@ -2,3 +2,4 @@
 node_modules/
 db/db-backup.json
 test.html
+db/db-backup2.json

@@ -284,7 +284,7 @@
   "questions": [
     {
       "word": "adverse",
-      "question": "After the storm, the climbers had to turn back due to the **adverse** weather conditions. What does 'adverse' mean in this context?",
+      "question": "After the storm, the climbers had to turn back due to the <em>adverse</em> weather conditions. What does 'adverse' mean in this context?",
       "choices": ["unfavorable", "sudden", "predictable", "calm"],
       "answer": "unfavorable",
       "explanation": "In this sentence, 'adverse' describes the negative nature of the weather conditions that forced the climbers to retreat. It means unfavorable or harmful.",
@@ -292,7 +292,7 @@
     },
     {
       "word": "advocate",
-      "question": "As a strong **advocate** for animal rights, she frequently speaks at public rallies and lobbies for new legislation. What does 'advocate' mean?",
+      "question": "As a strong <em>advocate</em> for animal rights, she frequently speaks at public rallies and lobbies for new legislation. What does 'advocate' mean?",
       "choices": [
         "one who rejects a cause",
         "one who recommends or supports a cause",
@@ -305,7 +305,7 @@
     },
     {
       "word": "affinity",
-      "question": "From the moment they met, they felt a natural **affinity** for each other, sharing many similar interests and a passion for hiking. What does 'affinity' mean?",
+      "question": "From the moment they met, they felt a natural <em>affinity</em> for each other, sharing many similar interests and a passion for hiking. What does 'affinity' mean?",
       "choices": [
         "a strong dislike",
         "a natural attraction or liking",
@@ -318,7 +318,7 @@
     },
     {
       "word": "anarchy",
-      "question": "The sudden collapse of the government led to a state of **anarchy**, where there were no laws or public order. Fill in the blank with the best choice.",
+      "question": "The sudden collapse of the government led to a state of <em>anarchy</em>, where there were no laws or public order. Fill in the blank with the best choice.",
       "choices": ["anarchy", "peace", "unity", "prosperity"],
       "answer": "anarchy",
       "explanation": "The context describes a situation where a government's collapse results in a lack of law and order, which is the definition of 'anarchy'.",
@@ -326,7 +326,7 @@
     },
     {
       "word": "anomaly",
-      "question": "The result was a statistical **anomaly**; it was so different from the other data points that scientists had to re-run the entire experiment. What does 'anomaly' mean?",
+      "question": "The result was a statistical <em>anomaly</em>; it was so different from the other data points that scientists had to re-run the entire experiment. What does 'anomaly' mean?",
       "choices": [
         "an irregularity or deviation from the norm",
         "a consistent pattern",
@@ -339,7 +339,7 @@
     },
     {
       "word": "augment",
-      "question": "He took a second job in the evenings to **augment** his income and save for a new car. What does 'augment' mean?",
+      "question": "He took a second job in the evenings to <em>augment</em> his income and save for a new car. What does 'augment' mean?",
       "choices": [
         "to increase or make greater",
         "to lessen or decrease",
@@ -352,7 +352,7 @@
     },
     {
       "word": "auspicious",
-      "question": "The clear sky and perfect weather on the morning of their wedding felt like an **auspicious** start to their new life together. What does 'auspicious' mean?",
+      "question": "The clear sky and perfect weather on the morning of their wedding felt like an <em>auspicious</em> start to their new life together. What does 'auspicious' mean?",
       "choices": [
         "promising success; favorable",
         "unfortunate; disastrous",
@@ -365,7 +365,7 @@
     },
     {
       "word": "authoritative",
-      "question": "The university's new report on climate change is considered the most **authoritative** source on the subject, widely cited by other researchers. What does 'authoritative' mean?",
+      "question": "The university's new report on climate change is considered the most <em>authoritative</em> source on the subject, widely cited by other researchers. What does 'authoritative' mean?",
       "choices": [
         "commanding respect due to expertise",
         "lacking in credibility",
@@ -378,7 +378,7 @@
     },
     {
       "word": "autonomy",
-      "question": "The remote tribe fought for **autonomy**, seeking the right to govern themselves without interference from the central government. What does 'autonomy' mean?",
+      "question": "The remote tribe fought for <em>autonomy</em>, seeking the right to govern themselves without interference from the central government. What does 'autonomy' mean?",
       "choices": [
         "the right of self-government",
         "a state of chaos",
@@ -391,7 +391,7 @@
     },
     {
       "word": "benign",
-      "question": "The doctor assured me that the lump was **benign** and not a cause for concern. What does 'benign' mean?",
+      "question": "The doctor assured me that the lump was <em>benign</em> and not a cause for concern. What does 'benign' mean?",
       "choices": [
         "harmless; not dangerous",
         "aggressive and dangerous",
@@ -404,7 +404,7 @@
     },
     {
       "word": "blatant",
-      "question": "His **blatant** disrespect for the rules was obvious to everyone; he broke them without any attempt to hide his actions. What does 'blatant' mean?",
+      "question": "His <em>blatant</em> disrespect for the rules was obvious to everyone; he broke them without any attempt to hide his actions. What does 'blatant' mean?",
       "choices": [
         "obviously and offensively loud",
         "quiet and reserved",
@@ -417,7 +417,7 @@
     },
     {
       "word": "bureaucracy",
-      "question": "Dealing with the city's **bureaucracy** can be frustrating due to the numerous forms and departments you have to go through to get a simple permit. What does 'bureaucracy' mean?",
+      "question": "Dealing with the city's <em>bureaucracy</em> can be frustrating due to the numerous forms and departments you have to go through to get a simple permit. What does 'bureaucracy' mean?",
       "choices": [
         "a system of government with multiple departments",
         "a dictatorship with one ruler",
@@ -430,7 +430,7 @@
     },
     {
       "word": "carnage",
-      "question": "The battlefield was a scene of pure **carnage** after the long and bloody battle. What does 'carnage' mean?",
+      "question": "The battlefield was a scene of pure <em>carnage</em> after the long and bloody battle. What does 'carnage' mean?",
       "choices": [
         "a great slaughter of people",
         "a peaceful victory celebration",
@@ -443,7 +443,7 @@
     },
     {
       "word": "chronicle",
-      "question": "The historian's book is a detailed **chronicle** of the events leading up to the war, arranged in the order they happened. What is a 'chronicle'?",
+      "question": "The historian's book is a detailed <em>chronicle</em> of the events leading up to the war, arranged in the order they happened. What is a 'chronicle'?",
       "choices": [
         "a factual written account of events in historical order",
         "a short story or poem",
@@ -456,7 +456,7 @@
     },
     {
       "word": "circumspect",
-      "question": "He was always **circumspect** with his investments, carefully considering all possible risks before making a decision. What does 'circumspect' mean?",
+      "question": "He was always <em>circumspect</em> with his investments, carefully considering all possible risks before making a decision. What does 'circumspect' mean?",
       "choices": [
         "cautious and wary",
         "reckless and ignorant",
@@ -469,7 +469,7 @@
     },
     {
       "word": "colloquial",
-      "question": "She wrote the dialogue in her novel using **colloquial** language to make it sound more natural and realistic. What does 'colloquial' mean?",
+      "question": "She wrote the dialogue in her novel using <em>colloquial</em> language to make it sound more natural and realistic. What does 'colloquial' mean?",
       "choices": [
         "informal and conversational",
         "formal and academic",
@@ -482,7 +482,7 @@
     },
     {
       "word": "credible",
-      "question": "The witness's story was so detailed and consistent with the evidence that the jury found him to be a **credible** source. What does 'credible' mean?",
+      "question": "The witness's story was so detailed and consistent with the evidence that the jury found him to be a <em>credible</em> source. What does 'credible' mean?",
       "choices": [
         "believable and trustworthy",
         "unbelievable and doubtful",
@@ -495,7 +495,7 @@
     },
     {
       "word": "cult",
-      "question": "The new fitness trend has gained a **cult** following, with people obsessively devoted to the workout routine. What does 'cult' mean?",
+      "question": "The new fitness trend has gained a <em>cult</em> following, with people obsessively devoted to the workout routine. What does 'cult' mean?",
       "choices": [
         "an obsessive devotion to a person or idea",
         "a casual or temporary interest",
@@ -508,7 +508,7 @@
     },
     {
       "word": "deference",
-      "question": "In **deference** to his many years of experience, the younger members of the team allowed the senior partner to lead the meeting. What does 'deference' mean?",
+      "question": "In <em>deference</em> to his many years of experience, the younger members of the team allowed the senior partner to lead the meeting. What does 'deference' mean?",
       "choices": [
         "respectful submission or regard",
         "a feeling of anger or frustration",
@@ -521,7 +521,7 @@
     },
     {
       "word": "dichotomy",
-      "question": "There is a strong **dichotomy** in the country's politics, with the population deeply divided into two opposing political parties. What does 'dichotomy' mean?",
+      "question": "There is a strong <em>dichotomy</em> in the country's politics, with the population deeply divided into two opposing political parties. What does 'dichotomy' mean?",
       "choices": [
         "a division or contrast between two things",
         "a complete agreement",
@@ -534,7 +534,7 @@
     },
     {
       "word": "disparage",
-      "question": "Please do not **disparage** my efforts; even if you think they are not good enough, I am still trying my best. What does 'disparage' mean?",
+      "question": "Please do not <em>disparage</em> my efforts; even if you think they are not good enough, I am still trying my best. What does 'disparage' mean?",
       "choices": [
         "to belittle or mock",
         "to praise or admire",
@@ -547,7 +547,7 @@
     },
     {
       "word": "disparity",
-      "question": "The economic **disparity** between the rich and the poor has grown significantly in recent years. What does 'disparity' mean?",
+      "question": "The economic <em>disparity</em> between the rich and the poor has grown significantly in recent years. What does 'disparity' mean?",
       "choices": [
         "a great difference or inequality",
         "a state of similarity",
@@ -560,7 +560,7 @@
     },
     {
       "word": "disseminate",
-      "question": "The organization's goal is to **disseminate** information about the disease to as many people as possible. What does 'disseminate' mean?",
+      "question": "The organization's goal is to <em>disseminate</em> information about the disease to as many people as possible. What does 'disseminate' mean?",
       "choices": [
         "to spread widely",
         "to keep hidden",
@@ -573,7 +573,7 @@
     },
     {
       "word": "dissident",
-      "question": "The government arrested a **dissident** who was openly speaking out against the new regime. A 'dissident' is someone who:",
+      "question": "The government arrested a <em>dissident</em> who was openly speaking out against the new regime. A 'dissident' is someone who:",
       "choices": [
         "disagrees with an established political system",
         "supports the government's authority",
@@ -586,7 +586,7 @@
     },
     {
       "word": "elicit",
-      "question": "The teacher tried to **elicit** a response from the shy student by asking a series of simple questions. What does 'elicit' mean?",
+      "question": "The teacher tried to <em>elicit</em> a response from the shy student by asking a series of simple questions. What does 'elicit' mean?",
       "choices": [
         "to draw forth or provoke a response",
         "to suppress or hide a reaction",
@@ -599,7 +599,7 @@
     },
     {
       "word": "enigma",
-      "question": "The disappearance of the ancient civilization remains an **enigma** to historians, as no one can figure out what happened to them. What does 'enigma' mean?",
+      "question": "The disappearance of the ancient civilization remains an <em>enigma</em> to historians, as no one can figure out what happened to them. What does 'enigma' mean?",
       "choices": [
         "a puzzle or a mystery",
         "a clear and simple fact",
@@ -612,7 +612,7 @@
     },
     {
       "word": "ephemeral",
-      "question": "A butterfly's life is **ephemeral**, lasting only a few weeks before it passes. What does 'ephemeral' mean?",
+      "question": "A butterfly's life is <em>ephemeral</em>, lasting only a few weeks before it passes. What does 'ephemeral' mean?",
       "choices": [
         "lasting for a very short time",
         "lasting for a very long time",
@@ -625,7 +625,7 @@
     },
     {
       "word": "homage",
-      "question": "The statue was built to pay **homage** to the soldiers who fought bravely in the war. What does 'homage' mean?",
+      "question": "The statue was built to pay <em>homage</em> to the soldiers who fought bravely in the war. What does 'homage' mean?",
       "choices": [
         "publicly show honor or respect",
         "publicly express fear",
@@ -638,7 +638,7 @@
     },
     {
       "word": "ignominious",
-      "question": "The team's defeat was **ignominious**; they not only lost the game but were also widely ridiculed for their poor performance. What does 'ignominious' mean?",
+      "question": "The team's defeat was <em>ignominious</em>; they not only lost the game but were also widely ridiculed for their poor performance. What does 'ignominious' mean?",
       "choices": [
         "deserving of public shame or disgrace",
         "leading to a glorious victory",
@@ -651,7 +651,7 @@
     },
     {
       "word": "illicit",
-      "question": "He was arrested for selling **illicit** goods, as the items were forbidden by law. What does 'illicit' mean?",
+      "question": "He was arrested for selling <em>illicit</em> goods, as the items were forbidden by law. What does 'illicit' mean?",
       "choices": [
         "illegal or unlawful",
         "perfectly legal",
@@ -664,7 +664,7 @@
     },
     {
       "word": "immutable",
-      "question": "The laws of physics are **immutable**; they cannot be changed by human wishes or actions. What does 'immutable' mean?",
+      "question": "The laws of physics are <em>immutable</em>; they cannot be changed by human wishes or actions. What does 'immutable' mean?",
       "choices": [
         "unchangeable or permanent",
         "subject to change",
@@ -677,7 +677,7 @@
     },
     {
       "word": "impasse",
-      "question": "The negotiations reached an **impasse** when neither side was willing to compromise, and the talks broke down. What is an 'impasse'?",
+      "question": "The negotiations reached an <em>impasse</em> when neither side was willing to compromise, and the talks broke down. What is an 'impasse'?",
       "choices": [
         "a situation where no progress is possible",
         "a sudden breakthrough or victory",
@@ -690,7 +690,7 @@
     },
     {
       "word": "implicit",
-      "question": "Although the manager never said it directly, the request for overtime was **implicit** in his email about the project deadline. What does 'implicit' mean?",
+      "question": "Although the manager never said it directly, the request for overtime was <em>implicit</em> in his email about the project deadline. What does 'implicit' mean?",
       "choices": [
         "implied though not plainly expressed",
         "clearly and obviously stated",
@@ -703,7 +703,7 @@
     },
     {
       "word": "indigent",
-      "question": "The city's soup kitchen provides meals for the **indigent** and homeless population. An 'indigent' person is:",
+      "question": "The city's soup kitchen provides meals for the <em>indigent</em> and homeless population. An 'indigent' person is:",
       "choices": [
         "very poor and needy",
         "extremely wealthy and powerful",
@@ -716,7 +716,7 @@
     },
     {
       "word": "indolent",
-      "question": "During the summer vacation, he became very **indolent**, spending all his days lying on the couch and watching television. What does 'indolent' mean?",
+      "question": "During the summer vacation, he became very <em>indolent</em>, spending all his days lying on the couch and watching television. What does 'indolent' mean?",
       "choices": [
         "wanting to avoid activity; lazy",
         "extremely energetic and active",
@@ -729,7 +729,7 @@
     },
     {
       "word": "ingenuous",
-      "question": "The **ingenuous** young boy believed everything the traveling salesman told him without a second thought. An 'ingenuous' person is:",
+      "question": "The <em>ingenuous</em> young boy believed everything the traveling salesman told him without a second thought. An 'ingenuous' person is:",
       "choices": [
         "innocent and unsuspecting",
         "devious and sly",
@@ -742,7 +742,7 @@
     },
     {
       "word": "inherent",
-      "question": "Every person has an **inherent** right to freedom and justice that cannot be taken away. What does 'inherent' mean?",
+      "question": "Every person has an <em>inherent</em> right to freedom and justice that cannot be taken away. What does 'inherent' mean?",
       "choices": [
         "existing as a natural, essential part",
         "acquired through hard work",
@@ -755,7 +755,7 @@
     },
     {
       "word": "insidious",
-      "question": "The disease was **insidious**, spreading slowly and without symptoms for years before it was finally diagnosed. What does 'insidious' mean?",
+      "question": "The disease was <em>insidious</em>, spreading slowly and without symptoms for years before it was finally diagnosed. What does 'insidious' mean?",
       "choices": [
         "proceeding in a gradual, subtle way but with harmful effects",
         "completely open and harmless",
@@ -768,7 +768,7 @@
     },
     {
       "word": "insolvent",
-      "question": "The company was declared **insolvent** after it was no longer able to pay its debts. What does 'insolvent' mean?",
+      "question": "The company was declared <em>insolvent</em> after it was no longer able to pay its debts. What does 'insolvent' mean?",
       "choices": [
         "unable to pay debts; bankrupt",
         "wealthy and profitable",
@@ -781,7 +781,7 @@
     },
     {
       "word": "interminable",
-      "question": "The professor's lecture felt **interminable**, as it went on for three hours without a break. What does 'interminable' mean?",
+      "question": "The professor's lecture felt <em>interminable</em>, as it went on for three hours without a break. What does 'interminable' mean?",
       "choices": [
         "endless or seemingly endless",
         "short and to the point",
@@ -794,7 +794,7 @@
     },
     {
       "word": "intrepid",
-      "question": "The **intrepid** explorer was the first person to cross the continent's most dangerous desert. An 'intrepid' person is:",
+      "question": "The <em>intrepid</em> explorer was the first person to cross the continent's most dangerous desert. An 'intrepid' person is:",
       "choices": [
         "fearless and adventurous",
         "afraid and cowardly",
@@ -807,7 +807,7 @@
     },
     {
       "word": "intrinsic",
-      "question": "The value of art is **intrinsic**; its worth is not in its price but in its beauty and meaning. What does 'intrinsic' mean?",
+      "question": "The value of art is <em>intrinsic</em>; its worth is not in its price but in its beauty and meaning. What does 'intrinsic' mean?",
       "choices": [
         "belonging naturally; essential",
         "external or superficial",
@@ -820,7 +820,7 @@
     },
     {
       "word": "jargon",
-      "question": "The doctor's explanation was full of medical **jargon** that was difficult for the patient to understand. What is 'jargon'?",
+      "question": "The doctor's explanation was full of medical <em>jargon</em> that was difficult for the patient to understand. What is 'jargon'?",
       "choices": [
         "specialized language used by a group or profession",
         "a type of music",
@@ -833,7 +833,7 @@
     },
     {
       "word": "keen",
-      "question": "Dogs have a **keen** sense of smell that allows them to track scents for miles. What does 'keen' mean?",
+      "question": "Dogs have a <em>keen</em> sense of smell that allows them to track scents for miles. What does 'keen' mean?",
       "choices": [
         "sharp or highly developed",
         "weak or nonexistent",
@@ -846,7 +846,7 @@
     },
     {
       "word": "latent",
-      "question": "She had a **latent** talent for painting that she only discovered in her sixties, after she retired. What does 'latent' mean?",
+      "question": "She had a <em>latent</em> talent for painting that she only discovered in her sixties, after she retired. What does 'latent' mean?",
       "choices": [
         "existing but not yet developed or apparent",
         "visible and clearly expressed",
@@ -859,7 +859,7 @@
     },
     {
       "word": "lethargic",
-      "question": "He felt **lethargic** all day after staying up late the night before and had no energy to do his homework. What does 'lethargic' mean?",
+      "question": "He felt <em>lethargic</em> all day after staying up late the night before and had no energy to do his homework. What does 'lethargic' mean?",
       "choices": [
         "feeling sluggish and apathetic",
         "full of energy and excitement",
@@ -872,7 +872,7 @@
     },
     {
       "word": "lucid",
-      "question": "His explanation of the complex theory was so **lucid** that even I, with no prior knowledge, could understand it. What does 'lucid' mean?",
+      "question": "His explanation of the complex theory was so <em>lucid</em> that even I, with no prior knowledge, could understand it. What does 'lucid' mean?",
       "choices": [
         "easy to understand; clear",
         "confusing and difficult to follow",
@@ -885,7 +885,7 @@
     },
     {
       "word": "magnanimous",
-      "question": "After winning the competition, the champion was **magnanimous** in victory, shaking his opponent's hand and praising his efforts. What does 'magnanimous' mean?",
+      "question": "After winning the competition, the champion was <em>magnanimous</em> in victory, shaking his opponent's hand and praising his efforts. What does 'magnanimous' mean?",
       "choices": [
         "generous and forgiving toward a rival",
         "selfish and self-centered",
@@ -898,7 +898,7 @@
     },
     {
       "word": "malevolent",
-      "question": "The villain's **malevolent** plan to steal the city's water supply was meant to cause great harm to the population. A 'malevolent' person or thing is:",
+      "question": "The villain's <em>malevolent</em> plan to steal the city's water supply was meant to cause great harm to the population. A 'malevolent' person or thing is:",
       "choices": [
         "wishing to do evil or cause harm to others",
         "kind and helpful",
@@ -911,7 +911,7 @@
     },
     {
       "word": "monetary",
-      "question": "The Central Bank is responsible for creating **monetary** policy to manage the country's money supply and interest rates. 'Monetary' relates to:",
+      "question": "The Central Bank is responsible for creating <em>monetary</em> policy to manage the country's money supply and interest rates. 'Monetary' relates to:",
       "choices": [
         "money or currency",
         "the country's food supply",
@@ -924,7 +924,7 @@
     },
     {
       "word": "myriad",
-      "question": "The forest was home to a **myriad** of different species of plants and animals. What does 'myriad' mean?",
+      "question": "The forest was home to a <em>myriad</em> of different species of plants and animals. What does 'myriad' mean?",
       "choices": [
         "a countless or extremely great number",
         "a small number of things",
@@ -937,7 +937,7 @@
     },
     {
       "word": "nebulous",
-      "question": "The suspect gave a **nebulous** description of the crime, making it difficult for the police to understand what happened. What does 'nebulous' mean?",
+      "question": "The suspect gave a <em>nebulous</em> description of the crime, making it difficult for the police to understand what happened. What does 'nebulous' mean?",
       "choices": [
         "vague, unclear, or ill-defined",
         "crystal clear and simple",
@@ -950,7 +950,7 @@
     },
     {
       "word": "obscure",
-      "question": "The meaning of the poem was **obscure** to most readers; it was hard to understand due to its complex symbolism. What does 'obscure' mean?",
+      "question": "The meaning of the poem was <em>obscure</em> to most readers; it was hard to understand due to its complex symbolism. What does 'obscure' mean?",
       "choices": [
         "not discovered or known about; uncertain",
         "simple and easy to read",
@@ -963,7 +963,7 @@
     },
     {
       "word": "obsolescence",
-      "question": "Technological **obsolescence** is a constant problem for consumers, as new phones and computers are released every year. 'Obsolescence' refers to:",
+      "question": "Technological <em>obsolescence</em> is a constant problem for consumers, as new phones and computers are released every year. 'Obsolescence' refers to:",
       "choices": [
         "the process of becoming outdated",
         "the process of becoming more modern",
@@ -976,7 +976,7 @@
     },
     {
       "word": "ornate",
-      "question": "The ballroom was so **ornate** that every surface, from the ceiling to the walls, was covered in intricate carvings and gold leaf. What does 'ornate' mean?",
+      "question": "The ballroom was so <em>ornate</em> that every surface, from the ceiling to the walls, was covered in intricate carvings and gold leaf. What does 'ornate' mean?",
       "choices": [
         "elaborately decorated",
         "plain and simple",
@@ -989,7 +989,7 @@
     },
     {
       "word": "ostracize",
-      "question": "After he broke the unwritten rule of their social group, his friends began to **ostracize** him, excluding him from all their plans. To 'ostracize' someone is to:",
+      "question": "After he broke the unwritten rule of their social group, his friends began to <em>ostracize</em> him, excluding him from all their plans. To 'ostracize' someone is to:",
       "choices": [
         "exclude from a group or society",
         "welcome with open arms",
@@ -1002,7 +1002,7 @@
     },
     {
       "word": "palatable",
-      "question": "The meal was barely **palatable**; although it was edible, no one found it particularly tasty. A 'palatable' meal is:",
+      "question": "The meal was barely <em>palatable</em>; although it was edible, no one found it particularly tasty. A 'palatable' meal is:",
       "choices": [
         "pleasant to the taste",
         "disgusting and inedible",
@@ -1015,7 +1015,7 @@
     },
     {
       "word": "palpable",
-      "question": "When the verdict was announced, a **palpable** tension filled the courtroom, as you could feel the anxious energy in the air. What does 'palpable' mean?",
+      "question": "When the verdict was announced, a <em>palpable</em> tension filled the courtroom, as you could feel the anxious energy in the air. What does 'palpable' mean?",
       "choices": [
         "so intense as to be almost felt physically",
         "completely hidden from view",
@@ -1028,7 +1028,7 @@
     },
     {
       "word": "panacea",
-      "question": "Many people hope that science will discover a **panacea**—a single cure for all diseases. What is a 'panacea'?",
+      "question": "Many people hope that science will discover a <em>panacea</em>—a single cure for all diseases. What is a 'panacea'?",
       "choices": [
         "a remedy for all ills or difficulties",
         "a type of illness or disease",
@@ -1041,7 +1041,7 @@
     },
     {
       "word": "paradigm",
-      "question": "The invention of the internet created a new **paradigm** for how we communicate and access information. What is a 'paradigm'?",
+      "question": "The invention of the internet created a new <em>paradigm</em> for how we communicate and access information. What is a 'paradigm'?",
       "choices": [
         "a typical example or model of something",
         "a confusing error",
@@ -1054,7 +1054,7 @@
     },
     {
       "word": "paradox",
-      "question": "It's a strange **paradox** that spending money on expensive clothes for a party can make you feel both richer and poorer at the same time. What is a 'paradox'?",
+      "question": "It's a strange <em>paradox</em> that spending money on expensive clothes for a party can make you feel both richer and poorer at the same time. What is a 'paradox'?",
       "choices": [
         "a statement that seems self-contradictory but is true",
         "an obvious and simple statement",
@@ -1067,7 +1067,7 @@
     },
     {
       "word": "perennial",
-      "question": "The city's **perennial** traffic problems seem to get worse every single year. What does 'perennial' mean?",
+      "question": "The city's <em>perennial</em> traffic problems seem to get worse every single year. What does 'perennial' mean?",
       "choices": [
         "lasting or existing for a long or indefinite time",
         "lasting for only one season",
@@ -1080,7 +1080,7 @@
     },
     {
       "word": "periphery",
-      "question": "She preferred to stay on the **periphery** of the main group, only listening to their conversations from a distance. What does 'periphery' mean?",
+      "question": "She preferred to stay on the <em>periphery</em> of the main group, only listening to their conversations from a distance. What does 'periphery' mean?",
       "choices": [
         "the outer limits or edge of an area or group",
         "the exact center or core",
@@ -1093,7 +1093,7 @@
     },
     {
       "word": "placid",
-      "question": "The **placid** lake was so calm that its surface perfectly reflected the mountains and sky. What does 'placid' mean?",
+      "question": "The <em>placid</em> lake was so calm that its surface perfectly reflected the mountains and sky. What does 'placid' mean?",
       "choices": [
         "calm and peaceful",
         "turbulent and stormy",
@@ -1106,7 +1106,7 @@
     },
     {
       "word": "plaintiff",
-      "question": "In the courtroom, the **plaintiff** presented his case, arguing that the company had caused him personal injury. The 'plaintiff' is:",
+      "question": "In the courtroom, the <em>plaintiff</em> presented his case, arguing that the company had caused him personal injury. The 'plaintiff' is:",
       "choices": [
         "the person who brings a legal case against another",
         "the person who is on trial",
@@ -1119,7 +1119,7 @@
     },
     {
       "word": "poignant",
-      "question": "The film's ending was so **poignant** that it left the entire audience in tears. What does 'poignant' mean?",
+      "question": "The film's ending was so <em>poignant</em> that it left the entire audience in tears. What does 'poignant' mean?",
       "choices": [
         "evoking a keen sense of sadness or regret",
         "amusing and lighthearted",
@@ -1132,7 +1132,7 @@
     },
     {
       "word": "potent",
-      "question": "The medicine was so **potent** that it relieved his pain almost immediately. What does 'potent' mean?",
+      "question": "The medicine was so <em>potent</em> that it relieved his pain almost immediately. What does 'potent' mean?",
       "choices": [
         "having great power or influence",
         "weak and ineffective",
@@ -1145,7 +1145,7 @@
     },
     {
       "word": "precarious",
-      "question": "The hikers found themselves in a **precarious** situation, clinging to a narrow ledge with a long drop below them. A 'precarious' situation is:",
+      "question": "The hikers found themselves in a <em>precarious</em> situation, clinging to a narrow ledge with a long drop below them. A 'precarious' situation is:",
       "choices": [
         "not securely held in place; dangerous",
         "extremely safe and secure",
@@ -1158,7 +1158,7 @@
     },
     {
       "word": "preclude",
-      "question": "The new safety regulations will **preclude** any further accidents from happening on the factory floor. To 'preclude' something means to:",
+      "question": "The new safety regulations will <em>preclude</em> any further accidents from happening on the factory floor. To 'preclude' something means to:",
       "choices": [
         "prevent from happening",
         "allow to happen",
@@ -1171,7 +1171,7 @@
     },
     {
       "word": "precursor",
-      "question": "The invention of the steam engine was a **precursor** to the Industrial Revolution. What is a 'precursor'?",
+      "question": "The invention of the steam engine was a <em>precursor</em> to the Industrial Revolution. What is a 'precursor'?",
       "choices": [
         "something that comes before and signals the approach of another",
         "the final outcome of an event",
@@ -1184,7 +1184,7 @@
     },
     {
       "word": "prodigal",
-      "question": "He was a **prodigal** son who quickly spent his entire inheritance on extravagant parties and luxury items. A 'prodigal' lifestyle is:",
+      "question": "He was a <em>prodigal</em> son who quickly spent his entire inheritance on extravagant parties and luxury items. A 'prodigal' lifestyle is:",
       "choices": [
         "characterized by wasteful and reckless spending",
         "extremely careful and frugal",
@@ -1197,7 +1197,7 @@
     },
     {
       "word": "prodigious",
-      "question": "The new skyscraper was a **prodigious** feat of engineering, stretching hundreds of feet into the sky. What does 'prodigious' mean?",
+      "question": "The new skyscraper was a <em>prodigious</em> feat of engineering, stretching hundreds of feet into the sky. What does 'prodigious' mean?",
       "choices": [
         "remarkably or impressively great in size or extent",
         "extremely small and insignificant",
@@ -1210,7 +1210,7 @@
     },
     {
       "word": "profuse",
-      "question": "When he was rescued from the fire, he offered **profuse** thanks to the firefighters for saving his life. What does 'profuse' mean?",
+      "question": "When he was rescued from the fire, he offered <em>profuse</em> thanks to the firefighters for saving his life. What does 'profuse' mean?",
       "choices": [
         "abundantly or excessively offered",
         "scarce and limited",
@@ -1223,7 +1223,7 @@
     },
     {
       "word": "prolific",
-      "question": "A **prolific** author like Stephen King publishes several books every year. What does 'prolific' mean?",
+      "question": "A <em>prolific</em> author like Stephen King publishes several books every year. What does 'prolific' mean?",
       "choices": [
         "producing a large amount of work or results",
         "lazy and unproductive",
@@ -1236,7 +1236,7 @@
     },
     {
       "word": "propensity",
-      "question": "He had a natural **propensity** for getting into trouble, which seemed to follow him wherever he went. What does 'propensity' mean?",
+      "question": "He had a natural <em>propensity</em> for getting into trouble, which seemed to follow him wherever he went. What does 'propensity' mean?",
       "choices": [
         "a natural tendency or inclination to behave a certain way",
         "a strong aversion or rejection",
@@ -1249,7 +1249,7 @@
     },
     {
       "word": "proximity",
-      "question": "The house was ideal because of its close **proximity** to the school and the park. 'Proximity' means:",
+      "question": "The house was ideal because of its close <em>proximity</em> to the school and the park. 'Proximity' means:",
       "choices": [
         "nearness in space or time",
         "a great distance or separation",
@@ -1262,7 +1262,7 @@
     },
     {
       "word": "pugnacious",
-      "question": "The **pugnacious** young man was always looking for an argument and was quick to pick a fight with anyone who disagreed with him. A 'pugnacious' person is:",
+      "question": "The <em>pugnacious</em> young man was always looking for an argument and was quick to pick a fight with anyone who disagreed with him. A 'pugnacious' person is:",
       "choices": [
         "eager or quick to argue or fight",
         "peaceful and gentle",
@@ -1275,7 +1275,7 @@
     },
     {
       "word": "pungent",
-      "question": "The smell of vinegar has a **pungent** odor that can make your eyes water. A 'pungent' smell is:",
+      "question": "The smell of vinegar has a <em>pungent</em> odor that can make your eyes water. A 'pungent' smell is:",
       "choices": [
         "having a sharply strong smell or taste",
         "mild and unnoticeable",
@@ -1288,7 +1288,7 @@
     },
     {
       "word": "punitive",
-      "question": "The new laws were intentionally **punitive**, designed to severely punish repeat offenders. 'Punitive' most nearly means:",
+      "question": "The new laws were intentionally <em>punitive</em>, designed to severely punish repeat offenders. 'Punitive' most nearly means:",
       "choices": [
         "intended as punishment",
         "intended to reward or praise",
@@ -1301,7 +1301,7 @@
     },
     {
       "word": "purge",
-      "question": "He decided to **purge** his closet of all the old clothes he no longer wore. To 'purge' something means to:",
+      "question": "He decided to <em>purge</em> his closet of all the old clothes he no longer wore. To 'purge' something means to:",
       "choices": [
         "to cleanse or remove something undesirable",
         "to pollute or make dirty",
@@ -1314,7 +1314,7 @@
     },
     {
       "word": "qualms",
-      "question": "She had some **qualms** about lying to her parents, but she went ahead with her plan anyway. 'Qualms' most nearly means:",
+      "question": "She had some <em>qualms</em> about lying to her parents, but she went ahead with her plan anyway. 'Qualms' most nearly means:",
       "choices": [
         "a feeling of uneasiness or doubt",
         "a feeling of complete confidence",
@@ -1327,7 +1327,7 @@
     },
     {
       "word": "quell",
-      "question": "The police were called in to **quell** the rioting, as the crowd was growing more out of control. To 'quell' a riot means to:",
+      "question": "The police were called in to <em>quell</em> the rioting, as the crowd was growing more out of control. To 'quell' a riot means to:",
       "choices": [
         "put an end to by force; suppress",
         "encourage or incite",
@@ -1340,7 +1340,7 @@
     },
     {
       "word": "recalcitrant",
-      "question": "The teacher had a difficult time with the **recalcitrant** student who refused to follow any of the classroom rules. A 'recalcitrant' person is:",
+      "question": "The teacher had a difficult time with the <em>recalcitrant</em> student who refused to follow any of the classroom rules. A 'recalcitrant' person is:",
       "choices": [
         "having an obstinately uncooperative attitude",
         "obedient and compliant",
@@ -1353,7 +1353,7 @@
     },
     {
       "word": "relegate",
-      "question": "After his poor performance, the coach decided to **relegate** the player to the bench for the rest of the game. To 'relegate' someone is to:",
+      "question": "After his poor performance, the coach decided to <em>relegate</em> the player to the bench for the rest of the game. To 'relegate' someone is to:",
       "choices": [
         "assign to a lower or less important position",
         "promote to a higher position",
@@ -1366,7 +1366,7 @@
     },
     {
       "word": "relinquish",
-      "question": "She had to **relinquish** her control of the company when she retired and hand it over to her successor. To 'relinquish' power means to:",
+      "question": "She had to <em>relinquish</em> her control of the company when she retired and hand it over to her successor. To 'relinquish' power means to:",
       "choices": [
         "voluntarily cease to keep or claim; to give up",
         "take control of something",
@@ -1379,7 +1379,7 @@
     },
     {
       "word": "renegade",
-      "question": "A former soldier turned **renegade**, he now fights against the very government he once served. A 'renegade' is a:",
+      "question": "A former soldier turned <em>renegade</em>, he now fights against the very government he once served. A 'renegade' is a:",
       "choices": [
         "a person who betrays an organization; a rebel",
         "a loyal supporter",
@@ -1392,7 +1392,7 @@
     },
     {
       "word": "repudiate",
-      "question": "The politician's speech was meant to **repudiate** the rumors that he was involved in the scandal. To 'repudiate' an idea is to:",
+      "question": "The politician's speech was meant to <em>repudiate</em> the rumors that he was involved in the scandal. To 'repudiate' an idea is to:",
       "choices": [
         "refuse to accept or be associated with",
         "fully accept and support",
@@ -1405,7 +1405,7 @@
     },
     {
       "word": "requisite",
-      "question": "A bachelor's degree is a **requisite** for this job, so you cannot be considered without one. A 'requisite' skill is:",
+      "question": "A bachelor's degree is a <em>requisite</em> for this job, so you cannot be considered without one. A 'requisite' skill is:",
       "choices": [
         "necessary because of the circumstances",
         "optional and not needed",
@@ -1418,7 +1418,7 @@
     },
     {
       "word": "rescind",
-      "question": "After the public outcry, the city council decided to **rescind** the unpopular new law. To 'rescind' a law means to:",
+      "question": "After the public outcry, the city council decided to <em>rescind</em> the unpopular new law. To 'rescind' a law means to:",
       "choices": [
         "revoke, cancel, or repeal it",
         "enforce it with greater vigor",
@@ -1431,7 +1431,7 @@
     },
     {
       "word": "resolute",
-      "question": "The army general was **resolute** in his decision and would not be swayed from his course of action. A 'resolute' leader is:",
+      "question": "The army general was <em>resolute</em> in his decision and would not be swayed from his course of action. A 'resolute' leader is:",
       "choices": [
         "firm and determined",
         "weak and easily swayed",
@@ -1444,7 +1444,7 @@
     },
     {
       "word": "respite",
-      "question": "After working for twelve hours straight, the construction crew was given a short **respite** to rest and eat lunch. A 'respite' is:",
+      "question": "After working for twelve hours straight, the construction crew was given a short <em>respite</em> to rest and eat lunch. A 'respite' is:",
       "choices": [
         "a short period of rest or relief",
         "a continuous period of work",
@@ -1457,7 +1457,7 @@
     },
     {
       "word": "scathing",
-      "question": "The critic’s review was a **scathing** attack on the film, tearing apart every aspect of it from the acting to the plot. A 'scathing' remark is:",
+      "question": "The critic’s review was a <em>scathing</em> attack on the film, tearing apart every aspect of it from the acting to the plot. A 'scathing' remark is:",
       "choices": [
         "severely critical or harsh",
         "gentle and kind",
@@ -1470,7 +1470,7 @@
     },
     {
       "word": "scrupulous",
-      "question": "The accountant was so **scrupulous** that he double-checked every number to ensure there were no errors. A 'scrupulous' worker is:",
+      "question": "The accountant was so <em>scrupulous</em> that he double-checked every number to ensure there were no errors. A 'scrupulous' worker is:",
       "choices": [
         "diligent, thorough, and attentive to detail",
         "careless and negligent",
@@ -1483,7 +1483,7 @@
     },
     {
       "word": "secular",
-      "question": "The new laws were designed to be completely **secular**, having no connection to any particular religion. 'Secular' most nearly means:",
+      "question": "The new laws were designed to be completely <em>secular</em>, having no connection to any particular religion. 'Secular' most nearly means:",
       "choices": [
         "not spiritual or religious",
         "highly religious or spiritual",
@@ -1496,7 +1496,7 @@
     },
     {
       "word": "sedate",
-      "question": "The vet had to **sedate** the nervous dog before he could safely treat its injury. To 'sedate' a patient is to:",
+      "question": "The vet had to <em>sedate</em> the nervous dog before he could safely treat its injury. To 'sedate' a patient is to:",
       "choices": [
         "calm or make them sleepy with a drug",
         "make them more active",
@@ -1509,7 +1509,7 @@
     },
     {
       "word": "sedentary",
-      "question": "He developed a **sedentary** lifestyle after he started working a desk job, spending most of his day sitting. A 'sedentary' lifestyle is:",
+      "question": "He developed a <em>sedentary</em> lifestyle after he started working a desk job, spending most of his day sitting. A 'sedentary' lifestyle is:",
       "choices": [
         "involving little to no physical activity",
         "extremely active and energetic",
@@ -1522,7 +1522,7 @@
     },
     {
       "word": "sporadic",
-      "question": "Due to the storm, power outages were **sporadic** throughout the city, happening in some neighborhoods but not others. 'Sporadic' most nearly means:",
+      "question": "Due to the storm, power outages were <em>sporadic</em> throughout the city, happening in some neighborhoods but not others. 'Sporadic' most nearly means:",
       "choices": [
         "occurring at irregular intervals or places",
         "constant and unending",
@@ -1535,7 +1535,7 @@
     },
     {
       "word": "stalwart",
-      "question": "A **stalwart** supporter of the team, she attended every single game for over two decades. A 'stalwart' supporter is:",
+      "question": "A <em>stalwart</em> supporter of the team, she attended every single game for over two decades. A 'stalwart' supporter is:",
       "choices": [
         "loyal, reliable, and hardworking",
         "weak and easily persuaded",
@@ -1548,7 +1548,7 @@
     },
     {
       "word": "stringent",
-      "question": "The university has **stringent** admission requirements, which makes it very difficult for most students to get in. What does 'stringent' mean?",
+      "question": "The university has <em>stringent</em> admission requirements, which makes it very difficult for most students to get in. What does 'stringent' mean?",
       "choices": [
         "strict, precise, and exacting",
         "loose and easily met",
@@ -1561,7 +1561,7 @@
     },
     {
       "word": "stupor",
-      "question": "After taking the medication, he was in a drowsy **stupor** and could not think clearly. A 'stupor' is a state of:",
+      "question": "After taking the medication, he was in a drowsy <em>stupor</em> and could not think clearly. A 'stupor' is a state of:",
       "choices": [
         "near unconsciousness or insensibility",
         "full alertness and clarity",
@@ -1574,7 +1574,7 @@
     },
     {
       "word": "succinct",
-      "question": "She gave a **succinct** report, summarizing all the key findings in just a few sentences. A 'succinct' speech is:",
+      "question": "She gave a <em>succinct</em> report, summarizing all the key findings in just a few sentences. A 'succinct' speech is:",
       "choices": [
         "brief and clearly expressed",
         "long and overly detailed",
@@ -1587,7 +1587,7 @@
     },
     {
       "word": "sultry",
-      "question": "The forecast called for a **sultry** afternoon, with high temperatures and high humidity that made the air feel heavy. What is 'sultry' weather?",
+      "question": "The forecast called for a <em>sultry</em> afternoon, with high temperatures and high humidity that made the air feel heavy. What is 'sultry' weather?",
       "choices": [
         "hot and humid",
         "cold and dry",
@@ -1600,7 +1600,7 @@
     },
     {
       "word": "taboo",
-      "question": "Discussing money and salaries is often considered a social **taboo** in many cultures. Something that is 'taboo' is:",
+      "question": "Discussing money and salaries is often considered a social <em>taboo</em> in many cultures. Something that is 'taboo' is:",
       "choices": [
         "a practice forbidden by social or cultural custom",
         "a topic that is encouraged and common",
@@ -1613,7 +1613,7 @@
     },
     {
       "word": "taciturn",
-      "question": "Known for being **taciturn**, he rarely spoke during meetings and only answered with a nod or a single word. A 'taciturn' person is:",
+      "question": "Known for being <em>taciturn</em>, he rarely spoke during meetings and only answered with a nod or a single word. A 'taciturn' person is:",
       "choices": [
         "reserved or uncommunicative in speech",
         "extremely talkative",
@@ -1626,7 +1626,7 @@
     },
     {
       "word": "rampant",
-      "question": "Rumors about the scandal were **rampant**, spreading quickly and uncontrollably throughout the town. What does 'rampant' mean?",
+      "question": "Rumors about the scandal were <em>rampant</em>, spreading quickly and uncontrollably throughout the town. What does 'rampant' mean?",
       "choices": [
         "spreading unchecked or out of control",
         "controlled and limited",
@@ -1639,7 +1639,7 @@
     },
     {
       "word": "tenacious",
-      "question": "The **tenacious** student would not give up, even after failing the test five times. A 'tenacious' student is:",
+      "question": "The <em>tenacious</em> student would not give up, even after failing the test five times. A 'tenacious' student is:",
       "choices": [
         "persistent and determined",
         "lazy and unmotivated",
@@ -1652,7 +1652,7 @@
     },
     {
       "word": "terse",
-      "question": "The manager's **terse** reply to my question was simply 'no,' leaving me with no further information. A 'terse' reply is:",
+      "question": "The manager's <em>terse</em> reply to my question was simply 'no,' leaving me with no further information. A 'terse' reply is:",
       "choices": [
         "brief and to the point",
         "lengthy and rambling",
@@ -1665,7 +1665,7 @@
     },
     {
       "word": "thwart",
-      "question": "The hero's last-minute actions managed to **thwart** the villain's evil plan. To 'thwart' a plan means to:",
+      "question": "The hero's last-minute actions managed to <em>thwart</em> the villain's evil plan. To 'thwart' a plan means to:",
       "choices": [
         "successfully prevent from accomplishing a goal",
         "fully support and enable",
@@ -1678,7 +1678,7 @@
     },
     {
       "word": "tirade",
-      "question": "After the team lost the championship, the coach launched into a furious **tirade** at the players. A 'tirade' is:",
+      "question": "After the team lost the championship, the coach launched into a furious <em>tirade</em> at the players. A 'tirade' is:",
       "choices": [
         "a long, angry speech of criticism or accusation",
         "a short, peaceful poem",
@@ -1691,7 +1691,7 @@
     },
     {
       "word": "transcend",
-      "question": "The artist's work is considered to **transcend** the normal limits of human creativity. To 'transcend' limits means to:",
+      "question": "The artist's work is considered to <em>transcend</em> the normal limits of human creativity. To 'transcend' limits means to:",
       "choices": [
         "go beyond or rise above a boundary",
         "accept a boundary as fixed",
@@ -1704,7 +1704,7 @@
     },
     {
       "word": "transient",
-      "question": "The city has a large **transient** population of students who only live there during the school year. A 'transient' visitor is:",
+      "question": "The city has a large <em>transient</em> population of students who only live there during the school year. A 'transient' visitor is:",
       "choices": [
         "lasting only for a short time",
         "staying in one place forever",
@@ -1717,7 +1717,7 @@
     },
     {
       "word": "trite",
-      "question": "The movie was filled with **trite** phrases like 'you can do it!' that had been used in countless other films. A 'trite' phrase is:",
+      "question": "The movie was filled with <em>trite</em> phrases like 'you can do it!' that had been used in countless other films. A 'trite' phrase is:",
       "choices": [
         "overused and lacking originality",
         "fresh and unique",
@@ -1730,7 +1730,7 @@
     },
     {
       "word": "ubiquitous",
-      "question": "In today's world, cell phones are an **ubiquitous** technology; they are found just about everywhere you go. 'Ubiquitous' means:",
+      "question": "In today's world, cell phones are an <em>ubiquitous</em> technology; they are found just about everywhere you go. 'Ubiquitous' means:",
       "choices": [
         "present, appearing, or found everywhere",
         "rare and difficult to find",
@@ -1743,7 +1743,7 @@
     },
     {
       "word": "untenable",
-      "question": "The prosecution’s argument was **untenable** because it was based on a witness who had been proven to be lying. An 'untenable' argument is:",
+      "question": "The prosecution’s argument was <em>untenable</em> because it was based on a witness who had been proven to be lying. An 'untenable' argument is:",
       "choices": [
         "not able to be supported or defended",
         "strong and convincing",
@@ -1756,7 +1756,7 @@
     },
     {
       "word": "urbane",
-      "question": "The diplomat was known for his **urbane** and polished manners, making him a charming and sophisticated host. An 'urbane' gentleman is:",
+      "question": "The diplomat was known for his <em>urbane</em> and polished manners, making him a charming and sophisticated host. An 'urbane' gentleman is:",
       "choices": [
         "courteous and refined in manner",
         "rude and uncivilized",
@@ -1769,7 +1769,7 @@
     },
     {
       "word": "validate",
-      "question": "The new research findings helped to **validate** the scientist's original hypothesis. To 'validate' a claim is to:",
+      "question": "The new research findings helped to <em>validate</em> the scientist's original hypothesis. To 'validate' a claim is to:",
       "choices": [
         "confirm or prove it to be true",
         "deny or disprove it",
@@ -1782,7 +1782,7 @@
     },
     {
       "word": "vanguard",
-      "question": "The small company was considered the **vanguard** of a new technological movement, leading the way for others to follow. The 'vanguard' of a movement is:",
+      "question": "The small company was considered the <em>vanguard</em> of a new technological movement, leading the way for others to follow. The 'vanguard' of a movement is:",
       "choices": [
         "the leading part of a group or movement",
         "the last part of a group",
@@ -1795,7 +1795,7 @@
     },
     {
       "word": "vehement",
-      "question": "The candidate made a **vehement** speech against the new policy, using strong and passionate language to express his disapproval. A 'vehement' protest is:",
+      "question": "The candidate made a <em>vehement</em> speech against the new policy, using strong and passionate language to express his disapproval. A 'vehement' protest is:",
       "choices": [
         "showing intense feeling or strong emotion",
         "weak and half-hearted",
@@ -1808,7 +1808,7 @@
     },
     {
       "word": "verbose",
-      "question": "The student’s **verbose** essay was filled with unnecessary descriptions, making it difficult to find the main point. A 'verbose' essay is:",
+      "question": "The student’s <em>verbose</em> essay was filled with unnecessary descriptions, making it difficult to find the main point. A 'verbose' essay is:",
       "choices": [
         "using or containing more words than needed",
         "brief and to the point",
@@ -1821,7 +1821,7 @@
     },
     {
       "word": "vertigo",
-      "question": "Climbing the tall ladder gave him a sense of **vertigo**, and he felt as if the world were spinning around him. People with 'vertigo' feel:",
+      "question": "Climbing the tall ladder gave him a sense of <em>vertigo</em>, and he felt as if the world were spinning around him. People with 'vertigo' feel:",
       "choices": [
         "a sensation of whirling and loss of balance",
         "extreme hunger",
@@ -1834,7 +1834,7 @@
     },
     {
       "word": "vestige",
-      "question": "The ancient stone foundation was the only **vestige** of the old castle that once stood on the hill. A 'vestige' of an old castle is:",
+      "question": "The ancient stone foundation was the only <em>vestige</em> of the old castle that once stood on the hill. A 'vestige' of an old castle is:",
       "choices": [
         "a small trace or remnant of something that once existed",
         "a brand new addition",
@@ -1847,7 +1847,7 @@
     },
     {
       "word": "vicarious",
-      "question": "He got **vicarious** enjoyment from watching his children play sports, feeling their excitement as if it were his own. This means he experienced excitement:",
+      "question": "He got <em>vicarious</em> enjoyment from watching his children play sports, feeling their excitement as if it were his own. This means he experienced excitement:",
       "choices": [
         "through the experiences of others",
         "directly and personally",
@@ -1860,7 +1860,7 @@
     },
     {
       "word": "vigilance",
-      "question": "The security guards maintained constant **vigilance**, keeping a careful watch to prevent any trouble. 'Vigilance' most nearly means:",
+      "question": "The security guards maintained constant <em>vigilance</em>, keeping a careful watch to prevent any trouble. 'Vigilance' most nearly means:",
       "choices": [
         "the action of keeping careful watch",
         "a state of sleepiness or drowsiness",
@@ -1873,7 +1873,7 @@
     },
     {
       "word": "vindicate",
-      "question": "The DNA evidence served to **vindicate** the man, finally clearing him of the crime he didn't commit. To 'vindicate' someone is to:",
+      "question": "The DNA evidence served to <em>vindicate</em> the man, finally clearing him of the crime he didn't commit. To 'vindicate' someone is to:",
       "choices": [
         "clear someone of blame or suspicion",
         "accuse someone of wrongdoing",
@@ -1886,7 +1886,7 @@
     },
     {
       "word": "virulent",
-      "question": "The doctors were worried about the **virulent** new strain of the flu, which was causing severe illness and hospitalizations. A 'virulent' disease is:",
+      "question": "The doctors were worried about the <em>virulent</em> new strain of the flu, which was causing severe illness and hospitalizations. A 'virulent' disease is:",
       "choices": [
         "extremely severe or harmful in its effects",
         "mild and easily curable",
@@ -1899,7 +1899,7 @@
     },
     {
       "word": "viscous",
-      "question": "The syrup was so **viscous** that it poured out of the bottle very slowly. A 'viscous' liquid is:",
+      "question": "The syrup was so <em>viscous</em> that it poured out of the bottle very slowly. A 'viscous' liquid is:",
       "choices": [
         "having a thick, sticky consistency",
         "thin and runny like water",
@@ -1912,7 +1912,7 @@
     },
     {
       "word": "vitality",
-      "question": "Despite her age, the old woman had a great deal of **vitality**, hiking every day and volunteering in her community. 'Vitality' means:",
+      "question": "Despite her age, the old woman had a great deal of <em>vitality</em>, hiking every day and volunteering in her community. 'Vitality' means:",
       "choices": [
         "the state of being strong and active; energy",
         "a sense of sadness or fatigue",
@@ -1925,7 +1925,7 @@
     },
     {
       "word": "vivacious",
-      "question": "She was a **vivacious** hostess, full of energy and charm, and she made sure every guest felt welcome. A 'vivacious' person is:",
+      "question": "She was a <em>vivacious</em> hostess, full of energy and charm, and she made sure every guest felt welcome. A 'vivacious' person is:",
       "choices": [
         "attractively lively and animated",
         "quiet and reserved",
@@ -1938,7 +1938,7 @@
     },
     {
       "word": "volatile",
-      "question": "The political situation in the region was highly **volatile**, with the potential for sudden, violent changes at any moment. A 'volatile' situation is:",
+      "question": "The political situation in the region was highly <em>volatile</em>, with the potential for sudden, violent changes at any moment. A 'volatile' situation is:",
       "choices": [
         "likely to change rapidly and unpredictably",
         "calm and stable",
@@ -1951,7 +1951,7 @@
     },
     {
       "word": "voracious",
-      "question": "He was a **voracious** reader, devouring an entire book in a single afternoon. A 'voracious' reader is:",
+      "question": "He was a <em>voracious</em> reader, devouring an entire book in a single afternoon. A 'voracious' reader is:",
       "choices": [
         "having a huge appetite or great eagerness",
         "reluctant or uninterested",
@@ -1964,7 +1964,7 @@
     },
     {
       "word": "zenith",
-      "question": "The rock band reached the **zenith** of its popularity in the 1980s, when they sold out stadiums worldwide. The 'zenith' of a career is its:",
+      "question": "The rock band reached the <em>zenith</em> of its popularity in the 1980s, when they sold out stadiums worldwide. The 'zenith' of a career is its:",
       "choices": [
         "the time at which something is most powerful or successful",
         "the beginning or starting point",
@@ -1977,7 +1977,7 @@
     },
     {
       "word": "epitome",
-      "question": "She is the **epitome** of a modern leader, showing both strength and compassion. What does 'epitome' mean?",
+      "question": "She is the <em>epitome</em> of a modern leader, showing both strength and compassion. What does 'epitome' mean?",
       "choices": [
         "a perfect or typical example of a quality",
         "the complete opposite of a quality",
@@ -1990,7 +1990,7 @@
     },
     {
       "word": "ethical",
-      "question": "Lying to your parents is not an **ethical** thing to do, even if it seems harmless. An 'ethical' decision follows:",
+      "question": "Lying to your parents is not an <em>ethical</em> thing to do, even if it seems harmless. An 'ethical' decision follows:",
       "choices": [
         "moral principles and accepted rules of conduct",
         "a path of dishonesty",
@@ -2003,7 +2003,7 @@
     },
     {
       "word": "ethnic",
-      "question": "The restaurant serves a variety of **ethnic** dishes from different countries around the world. What does 'ethnic' relate to?",
+      "question": "The restaurant serves a variety of <em>ethnic</em> dishes from different countries around the world. What does 'ethnic' relate to?",
       "choices": [
         "a population subgroup with a common national or cultural tradition",
         "mathematical formulas",
@@ -2016,7 +2016,7 @@
     },
     {
       "word": "exacerbate",
-      "question": "The lack of rain will only **exacerbate** the drought, making the problem even worse. To 'exacerbate' a problem is to:",
+      "question": "The lack of rain will only <em>exacerbate</em> the drought, making the problem even worse. To 'exacerbate' a problem is to:",
       "choices": [
         "make it more severe or intense",
         "solve or fix it",
@@ -2029,7 +2029,7 @@
     },
     {
       "word": "exorbitant",
-      "question": "The restaurant charged an **exorbitant** price for a single glass of water; it was far too expensive. 'Exorbitant' most nearly means:",
+      "question": "The restaurant charged an <em>exorbitant</em> price for a single glass of water; it was far too expensive. 'Exorbitant' most nearly means:",
       "choices": [
         "unreasonably high or excessive",
         "reasonable and fair",
@@ -2042,7 +2042,7 @@
     },
     {
       "word": "extraneous",
-      "question": "The report was well-written but contained a lot of **extraneous** details that had nothing to do with the main topic. 'Extraneous' most nearly means:",
+      "question": "The report was well-written but contained a lot of <em>extraneous</em> details that had nothing to do with the main topic. 'Extraneous' most nearly means:",
       "choices": [
         "irrelevant or unrelated to the subject",
         "important and essential",
@@ -2055,7 +2055,7 @@
     },
     {
       "word": "falter",
-      "question": "The speaker began to **falter** during his presentation, losing his confidence and stumbling over his words. If someone begins to 'falter', they:",
+      "question": "The speaker began to <em>falter</em> during his presentation, losing his confidence and stumbling over his words. If someone begins to 'falter', they:",
       "choices": [
         "start to lose strength or momentum",
         "move very quickly and confidently",
@@ -2068,7 +2068,7 @@
     },
     {
       "word": "feasible",
-      "question": "The architect presented a new building plan that seemed **feasible** because it was practical and could be completed on time. A 'feasible' plan is:",
+      "question": "The architect presented a new building plan that seemed <em>feasible</em> because it was practical and could be completed on time. A 'feasible' plan is:",
       "choices": [
         "possible to do easily or conveniently",
         "impossible to carry out",
@@ -2081,7 +2081,7 @@
     },
     {
       "word": "fervent",
-      "question": "She was a **fervent** supporter of the charity, dedicating all her free time to its cause with great passion. 'Fervent' most nearly means:",
+      "question": "She was a <em>fervent</em> supporter of the charity, dedicating all her free time to its cause with great passion. 'Fervent' most nearly means:",
       "choices": [
         "having or displaying a passionate intensity",
         "indifferent or uncaring",
@@ -2094,7 +2094,7 @@
     },
     {
       "word": "flaunt",
-      "question": "He would often **flaunt** his expensive new car by driving it through the busiest streets to get attention. To 'flaunt' wealth is to:",
+      "question": "He would often <em>flaunt</em> his expensive new car by driving it through the busiest streets to get attention. To 'flaunt' wealth is to:",
       "choices": [
         "display it openly to provoke envy or admiration",
         "hide it from others",
@@ -2107,7 +2107,7 @@
     },
     {
       "word": "forensic",
-      "question": "The **forensic** scientist presented her findings on the crime scene to the court. A 'forensic' report relates to:",
+      "question": "The <em>forensic</em> scientist presented her findings on the crime scene to the court. A 'forensic' report relates to:",
       "choices": [
         "the use of scientific methods in the investigation of a crime",
         "weather patterns",
@@ -2120,7 +2120,7 @@
     },
     {
       "word": "fortitude",
-      "question": "He showed great **fortitude** during his long illness, enduring the pain with immense courage. 'Fortitude' most nearly means:",
+      "question": "He showed great <em>fortitude</em> during his long illness, enduring the pain with immense courage. 'Fortitude' most nearly means:",
       "choices": [
         "courage in the face of pain or adversity",
         "a feeling of fear or timidity",
@@ -2133,7 +2133,7 @@
     },
     {
       "word": "fortuitous",
-      "question": "It was a **fortuitous** meeting that led to his dream job; he just happened to be in the right place at the right time. 'Fortuitous' most nearly means:",
+      "question": "It was a <em>fortuitous</em> meeting that led to his dream job; he just happened to be in the right place at the right time. 'Fortuitous' most nearly means:",
       "choices": [
         "happening by a lucky chance",
         "planned and intentional",
@@ -2146,7 +2146,7 @@
     },
     {
       "word": "gregarious",
-      "question": "The **gregarious** new student made friends with everyone in his class almost immediately. A 'gregarious' person is:",
+      "question": "The <em>gregarious</em> new student made friends with everyone in his class almost immediately. A 'gregarious' person is:",
       "choices": [
         "fond of company; sociable",
         "shy and reserved",
@@ -2159,7 +2159,7 @@
     },
     {
       "word": "heinous",
-      "question": "The court described the act as a truly **heinous** crime due to its shocking and evil nature. A 'heinous' crime is:",
+      "question": "The court described the act as a truly <em>heinous</em> crime due to its shocking and evil nature. A 'heinous' crime is:",
       "choices": [
         "utterly odious or evil",
         "minor and insignificant",
@@ -2172,7 +2172,7 @@
     },
     {
       "word": "hiatus",
-      "question": "The band announced they would be taking a two-year **hiatus** to rest and work on solo projects. Taking a 'hiatus' means:",
+      "question": "The band announced they would be taking a two-year <em>hiatus</em> to rest and work on solo projects. Taking a 'hiatus' means:",
       "choices": [
         "a pause or break in a sequence",
         "working continuously and without a break",
@@ -2185,7 +2185,7 @@
     },
     {
       "word": "austerity",
-      "question": "The family was forced into a period of financial **austerity**, cutting all unnecessary expenses to save money. What does 'austerity' mean?",
+      "question": "The family was forced into a period of financial <em>austerity</em>, cutting all unnecessary expenses to save money. What does 'austerity' mean?",
       "choices": [
         "strictness and severity of manner or living",
         "a time of luxury and wealth",
@@ -2198,7 +2198,7 @@
     },
     {
       "word": "holocaust",
-      "question": "The fire caused a complete **holocaust** in the forest, burning thousands of acres of trees to the ground. A 'holocaust' is:",
+      "question": "The fire caused a complete <em>holocaust</em> in the forest, burning thousands of acres of trees to the ground. A 'holocaust' is:",
       "choices": [
         "destruction or slaughter on a mass scale",
         "a public celebration",
@@ -2211,7 +2211,7 @@
     },
     {
       "word": "homogeneous",
-      "question": "The town had a very **homogeneous** population, made up almost entirely of people from the same cultural background. 'Homogeneous' most nearly means:",
+      "question": "The town had a very <em>homogeneous</em> population, made up almost entirely of people from the same cultural background. 'Homogeneous' most nearly means:",
       "choices": [
         "of the same kind; alike",
         "different or varied",
@@ -2224,7 +2224,7 @@
     },
     {
       "word": "hypochondriac",
-      "question": "He was such a **hypochondriac** that he was convinced he had a rare disease after reading a single article about it. A 'hypochondriac' often worries about:",
+      "question": "He was such a <em>hypochondriac</em> that he was convinced he had a rare disease after reading a single article about it. A 'hypochondriac' often worries about:",
       "choices": [
         "being excessively worried about one's health",
         "having little or no money",
@@ -2237,7 +2237,7 @@
     },
     {
       "word": "iconoclast",
-      "question": "The revolutionary painter was an **iconoclast**, challenging all the traditional art forms of his time. An 'iconoclast' is someone who:",
+      "question": "The revolutionary painter was an <em>iconoclast</em>, challenging all the traditional art forms of his time. An 'iconoclast' is someone who:",
       "choices": [
         "attacks cherished beliefs or institutions",
         "supports religious traditions",
@@ -2250,7 +2250,7 @@
     },
     {
       "word": "imbibe",
-      "question": "The students gathered at the pub to **imbibe** some drinks after their final exams. To 'imbibe' means to:",
+      "question": "The students gathered at the pub to <em>imbibe</em> some drinks after their final exams. To 'imbibe' means to:",
       "choices": [
         "to drink (alcohol)",
         "to eat a large meal",
@@ -2263,7 +2263,7 @@
     },
     {
       "word": "impecunious",
-      "question": "He was a famously **impecunious** artist who had to struggle to make a living. An 'impecunious' person is:",
+      "question": "He was a famously <em>impecunious</em> artist who had to struggle to make a living. An 'impecunious' person is:",
       "choices": [
         "having little or no money",
         "extremely wealthy",
@@ -2276,7 +2276,7 @@
     },
     {
       "word": "impertinent",
-      "question": "The boy was scolded for his **impertinent** behavior when he interrupted the adult's conversation. 'Impertinent' most nearly means:",
+      "question": "The boy was scolded for his <em>impertinent</em> behavior when he interrupted the adult's conversation. 'Impertinent' most nearly means:",
       "choices": [
         "rude and disrespectful",
         "polite and courteous",
@@ -2289,7 +2289,7 @@
     },
     {
       "word": "increment",
-      "question": "Each time you click the button, the number increases by an **increment** of one. An 'increment' is:",
+      "question": "Each time you click the button, the number increases by an <em>increment</em> of one. An 'increment' is:",
       "choices": [
         "an increase or addition",
         "a reduction or decrease",
@@ -2302,7 +2302,7 @@
     },
     {
       "word": "infidel",
-      "question": "Historically, the term **infidel** was used by a group to describe anyone who did not share their religious beliefs. An 'infidel' is:",
+      "question": "Historically, the term <em>infidel</em> was used by a group to describe anyone who did not share their religious beliefs. An 'infidel' is:",
       "choices": [
         "a person who does not believe in a particular religion",
         "a priest or holy person",
@@ -2315,7 +2315,7 @@
     },
     {
       "word": "injunction",
-      "question": "The judge issued an **injunction** to prevent the company from demolishing the historic building. An 'injunction' is:",
+      "question": "The judge issued an <em>injunction</em> to prevent the company from demolishing the historic building. An 'injunction' is:",
       "choices": [
         "a formal court order to do or stop an action",
         "a permission slip",
@@ -2328,7 +2328,7 @@
     },
     {
       "word": "insomnia",
-      "question": "After drinking too much coffee, she suffered from **insomnia** and was unable to sleep all night. If someone has 'insomnia', they cannot:",
+      "question": "After drinking too much coffee, she suffered from <em>insomnia</em> and was unable to sleep all night. If someone has 'insomnia', they cannot:",
       "choices": [
         "sleep or fall asleep",
         "eat food",
@@ -2341,7 +2341,7 @@
     },
     {
       "word": "intimacy",
-      "question": "They were close friends who shared a deep sense of emotional **intimacy**. 'Intimacy' most nearly means:",
+      "question": "They were close friends who shared a deep sense of emotional <em>intimacy</em>. 'Intimacy' most nearly means:",
       "choices": [
         "close familiarity or friendship",
         "great physical distance",
@@ -2354,7 +2354,7 @@
     },
     {
       "word": "invective",
-      "question": "After the argument, the politician spewed a stream of angry **invective** at his opponent. 'Invective' most nearly means:",
+      "question": "After the argument, the politician spewed a stream of angry <em>invective</em> at his opponent. 'Invective' most nearly means:",
       "choices": [
         "insulting, abusive, or highly critical language",
         "words of praise and admiration",
@@ -2367,7 +2367,7 @@
     },
     {
       "word": "jaundice",
-      "question": "The baby had **jaundice** shortly after birth, and his skin had a noticeable yellowish tint. If someone has 'jaundice', their skin may look:",
+      "question": "The baby had <em>jaundice</em> shortly after birth, and his skin had a noticeable yellowish tint. If someone has 'jaundice', their skin may look:",
       "choices": ["yellow", "blue", "red", "pale"],
       "answer": "yellow",
       "explanation": "'Jaundice' is a medical condition that causes the yellowing of the skin and eyes.",
@@ -2375,7 +2375,7 @@
     },
     {
       "word": "jibe",
-      "question": "His story about what happened didn't quite **jibe** with the evidence found at the scene. To 'jibe' with something means to:",
+      "question": "His story about what happened didn't quite <em>jibe</em> with the evidence found at the scene. To 'jibe' with something means to:",
       "choices": [
         "be in agreement or consistent with",
         "disagree or be in opposition to",
@@ -2388,7 +2388,7 @@
     },
     {
       "word": "jostle",
-      "question": "As the concert began, the crowd started to **jostle** each other to get closer to the stage. In a crowd, people may 'jostle' you, meaning they:",
+      "question": "As the concert began, the crowd started to <em>jostle</em> each other to get closer to the stage. In a crowd, people may 'jostle' you, meaning they:",
       "choices": [
         "push, elbow, or bump against",
         "hug or embrace you",
@@ -2401,7 +2401,7 @@
     },
     {
       "word": "knack",
-      "question": "He had a natural **knack** for solving puzzles quickly and effortlessly. What is a 'knack'?",
+      "question": "He had a natural <em>knack</em> for solving puzzles quickly and effortlessly. What is a 'knack'?",
       "choices": [
         "a special skill or talent for doing something easily",
         "a personal weakness",
@@ -2414,7 +2414,7 @@
     },
     {
       "word": "languish",
-      "question": "The old factory was left to **languish** after the company went out of business, falling into disrepair. To 'languish' means to:",
+      "question": "The old factory was left to <em>languish</em> after the company went out of business, falling into disrepair. To 'languish' means to:",
       "choices": [
         "to lose or lack vitality; grow weak",
         "to grow and flourish",
@@ -2427,7 +2427,7 @@
     },
     {
       "word": "levy",
-      "question": "The new government plans to **levy** a tax on all luxury goods. Governments often 'levy' taxes, meaning they:",
+      "question": "The new government plans to <em>levy</em> a tax on all luxury goods. Governments often 'levy' taxes, meaning they:",
       "choices": [
         "impose or collect a tax or fee",
         "remove a tax",
@@ -2440,7 +2440,7 @@
     },
     {
       "word": "lexicon",
-      "question": "As a writer, she had a vast **lexicon**, knowing the meaning of a great number of words. A 'lexicon' is:",
+      "question": "As a writer, she had a vast <em>lexicon</em>, knowing the meaning of a great number of words. A 'lexicon' is:",
       "choices": [
         "the vocabulary of a person, language, or branch of knowledge",
         "a book of poetry",
@@ -2453,7 +2453,7 @@
     },
     {
       "word": "loquacious",
-      "question": "The **loquacious** professor was known for his long, detailed lectures that rarely ended on time. A 'loquacious' person is:",
+      "question": "The <em>loquacious</em> professor was known for his long, detailed lectures that rarely ended on time. A 'loquacious' person is:",
       "choices": [
         "tending to talk a great deal; talkative",
         "silent and reserved",
@@ -2466,7 +2466,7 @@
     },
     {
       "word": "malign",
-      "question": "His political opponent tried to **malign** his character by spreading false and hurtful rumors. To 'malign' someone means:",
+      "question": "His political opponent tried to <em>malign</em> his character by spreading false and hurtful rumors. To 'malign' someone means:",
       "choices": [
         "to speak about them in a critical or malicious way",
         "to praise or admire them",
@@ -2479,7 +2479,7 @@
     },
     {
       "word": "melodramatic",
-      "question": "Her **melodramatic** reaction to a small scratch on her arm included loud crying and wailing. 'Melodramatic' most nearly means:",
+      "question": "Her <em>melodramatic</em> reaction to a small scratch on her arm included loud crying and wailing. 'Melodramatic' most nearly means:",
       "choices": [
         "overly exaggerated and emotional",
         "calm and composed",
@@ -2492,7 +2492,7 @@
     },
     {
       "word": "menial",
-      "question": "He was given a **menial** job of cleaning the floors, which was seen as a low-level task. A 'menial' job is:",
+      "question": "He was given a <em>menial</em> job of cleaning the floors, which was seen as a low-level task. A 'menial' job is:",
       "choices": [
         "not requiring much skill and lacking prestige",
         "prestigious and important",
@@ -2505,7 +2505,7 @@
     },
     {
       "word": "mettle",
-      "question": "The team showed their true **mettle** by coming back from a huge deficit to win the game. 'Mettle' most nearly means:",
+      "question": "The team showed their true <em>mettle</em> by coming back from a huge deficit to win the game. 'Mettle' most nearly means:",
       "choices": [
         "a person's ability to cope well with difficulties; spirit and resilience",
         "a sense of fear or timidity",
@@ -2518,7 +2518,7 @@
     },
     {
       "word": "narcissism",
-      "question": "The actor's **narcissism** was on full display as he spent his entire interview talking about his own greatness. 'Narcissism' most nearly means:",
+      "question": "The actor's <em>narcissism</em> was on full display as he spent his entire interview talking about his own greatness. 'Narcissism' most nearly means:",
       "choices": [
         "excessive interest in or admiration of oneself",
         "a state of humility",
@@ -2531,7 +2531,7 @@
     },
     {
       "word": "neophyte",
-      "question": "As a **neophyte** in the world of computer programming, she had a lot to learn. A 'neophyte' is:",
+      "question": "As a <em>neophyte</em> in the world of computer programming, she had a lot to learn. A 'neophyte' is:",
       "choices": [
         "a person who is new to a subject or skill",
         "an expert in a field",
@@ -2544,7 +2544,7 @@
     },
     {
       "word": "notable",
-      "question": "The company's new policy was a **notable** change from their old ways. A 'notable' event is:",
+      "question": "The company's new policy was a <em>notable</em> change from their old ways. A 'notable' event is:",
       "choices": [
         "worthy of attention or remarkable",
         "ordinary and common",
@@ -2557,7 +2557,7 @@
     },
     {
       "word": "occult",
-      "question": "The book explored topics related to the **occult**, such as magic and witchcraft. The word 'occult' relates to:",
+      "question": "The book explored topics related to the <em>occult</em>, such as magic and witchcraft. The word 'occult' relates to:",
       "choices": [
         "mysterious, supernatural, or magical powers",
         "modern science and technology",
@@ -2570,7 +2570,7 @@
     },
     {
       "word": "oligarchy",
-      "question": "The small country was ruled by an **oligarchy**, a small group of wealthy families who held all the power. An 'oligarchy' is government by:",
+      "question": "The small country was ruled by an <em>oligarchy</em>, a small group of wealthy families who held all the power. An 'oligarchy' is government by:",
       "choices": [
         "a small group of people",
         "a single ruler",
@@ -2583,7 +2583,7 @@
     },
     {
       "word": "omnipotent",
-      "question": "In the story, the king believed he was **omnipotent**, able to control everything and everyone in his kingdom. 'Omnipotent' most nearly means:",
+      "question": "In the story, the king believed he was <em>omnipotent</em>, able to control everything and everyone in his kingdom. 'Omnipotent' most nearly means:",
       "choices": [
         "having unlimited power",
         "weak and powerless",
@@ -2596,7 +2596,7 @@
     },
     {
       "word": "opulence",
-      "question": "The mansion's **opulence** was shown by its gold-plated faucets, marble floors, and extravagant furniture. 'Opulence' most nearly means:",
+      "question": "The mansion's <em>opulence</em> was shown by its gold-plated faucets, marble floors, and extravagant furniture. 'Opulence' most nearly means:",
       "choices": [
         "great wealth and luxury",
         "a state of poverty",
@@ -2609,7 +2609,7 @@
     },
     {
       "word": "parable",
-      "question": "The teacher told the students a simple **parable** about a boy who cried wolf to teach them a lesson about honesty. A 'parable' is:",
+      "question": "The teacher told the students a simple <em>parable</em> about a boy who cried wolf to teach them a lesson about honesty. A 'parable' is:",
       "choices": [
         "a simple story used to illustrate a moral or spiritual lesson",
         "a long and complicated song",
@@ -2622,7 +2622,7 @@
     },
     {
       "word": "paragon",
-      "question": "She was a **paragon** of kindness, known throughout the community for her generous spirit. 'Paragon' most nearly means:",
+      "question": "She was a <em>paragon</em> of kindness, known throughout the community for her generous spirit. 'Paragon' most nearly means:",
       "choices": [
         "a person or thing regarded as a perfect example of a quality",
         "a complete failure",
@@ -2635,7 +2635,7 @@
     },
     {
       "word": "pastoral",
-      "question": "The painting depicted a quiet, **pastoral** scene of a farmer tending his sheep in a green field. A 'pastoral' scene is:",
+      "question": "The painting depicted a quiet, <em>pastoral</em> scene of a farmer tending his sheep in a green field. A 'pastoral' scene is:",
       "choices": [
         "relating to the countryside and rural life",
         "related to the city and urban areas",
@@ -2648,7 +2648,7 @@
     },
     {
       "word": "patriarch",
-      "question": "As the oldest male in the family, he was considered the **patriarch**, making all the important decisions. A 'patriarch' is:",
+      "question": "As the oldest male in the family, he was considered the <em>patriarch</em>, making all the important decisions. A 'patriarch' is:",
       "choices": [
         "the male head of a family or tribe",
         "the female head of a family",
@@ -2661,7 +2661,7 @@
     },
     {
       "word": "perturbation",
-      "question": "The sudden loud noise caused a great **perturbation** in the room, making everyone jump in surprise. 'Perturbation' most nearly means:",
+      "question": "The sudden loud noise caused a great <em>perturbation</em> in the room, making everyone jump in surprise. 'Perturbation' most nearly means:",
       "choices": [
         "a state of mental or emotional disturbance",
         "a feeling of great calm",
@@ -2674,7 +2674,7 @@
     },
     {
       "word": "philanthropist",
-      "question": "The wealthy **philanthropist** donated millions of dollars to build a new hospital for the city. A 'philanthropist' is someone who:",
+      "question": "The wealthy <em>philanthropist</em> donated millions of dollars to build a new hospital for the city. A 'philanthropist' is someone who:",
       "choices": [
         "seeks to promote the welfare of others, especially through generous donations",
         "hoards money for themselves",
@@ -2687,7 +2687,7 @@
     },
     {
       "word": "phlegmatic",
-      "question": "Even when faced with a crisis, he remained **phlegmatic**, staying calm and unemotional. A 'phlegmatic' person is:",
+      "question": "Even when faced with a crisis, he remained <em>phlegmatic</em>, staying calm and unemotional. A 'phlegmatic' person is:",
       "choices": [
         "having a calm and unemotional temperament",
         "easily excitable",
@@ -2700,7 +2700,7 @@
     },
     {
       "word": "pinnacle",
-      "question": "Winning the Olympic gold medal was the **pinnacle** of her career as an athlete. Reaching the 'pinnacle' of success means:",
+      "question": "Winning the Olympic gold medal was the <em>pinnacle</em> of her career as an athlete. Reaching the 'pinnacle' of success means:",
       "choices": [
         "the highest point of a career or achievement",
         "the very start of a career",
@@ -2713,7 +2713,7 @@
     },
     {
       "word": "portly",
-      "question": "The cartoon character was a **portly** gentleman with a round belly and a good-natured smile. A 'portly' man is:",
+      "question": "The cartoon character was a <em>portly</em> gentleman with a round belly and a good-natured smile. A 'portly' man is:",
       "choices": [
         "stout or somewhat fat",
         "very thin",
@@ -2726,7 +2726,7 @@
     },
     {
       "word": "prelude",
-      "question": "The dark clouds were a **prelude** to the storm that was about to hit the city. A 'prelude' is:",
+      "question": "The dark clouds were a <em>prelude</em> to the storm that was about to hit the city. A 'prelude' is:",
       "choices": [
         "an introduction to a more important event",
         "the ending or conclusion of something",
@@ -2739,7 +2739,7 @@
     },
     {
       "word": "perpetrate",
-      "question": "The police were determined to find the person who had **perpetrated** the crime. To 'perpetrate' a crime means to:",
+      "question": "The police were determined to find the person who had <em>perpetrated</em> the crime. To 'perpetrate' a crime means to:",
       "choices": [
         "carry out or commit a harmful action",
         "avoid doing something bad",
@@ -2752,7 +2752,7 @@
     },
     {
       "word": "rapacious",
-      "question": "The **rapacious** developer bought up all the land he could, showing no concern for the people who were displaced. A 'rapacious' person is:",
+      "question": "The <em>rapacious</em> developer bought up all the land he could, showing no concern for the people who were displaced. A 'rapacious' person is:",
       "choices": [
         "aggressively greedy or grasping",
         "gentle and kind",
@@ -2765,7 +2765,7 @@
     },
     {
       "word": "reciprocal",
-      "question": "Their friendship was built on a **reciprocal** relationship, where both people gave and received support. 'Reciprocal' most nearly means:",
+      "question": "Their friendship was built on a <em>reciprocal</em> relationship, where both people gave and received support. 'Reciprocal' most nearly means:",
       "choices": [
         "given, felt, or done in return by both sides",
         "one-sided and unequal",
@@ -2778,7 +2778,7 @@
     },
     {
       "word": "recluse",
-      "question": "The old man was a **recluse**, living alone in a cabin in the woods and avoiding all human contact. A 'recluse' is:",
+      "question": "The old man was a <em>recluse</em>, living alone in a cabin in the woods and avoiding all human contact. A 'recluse' is:",
       "choices": [
         "a person who lives a solitary life and avoids people",
         "a strong leader",
@@ -2791,7 +2791,7 @@
     },
     {
       "word": "rectitude",
-      "question": "The judge was known for his unshakeable **rectitude** and was praised for his moral integrity. 'Rectitude' most nearly means:",
+      "question": "The judge was known for his unshakeable <em>rectitude</em> and was praised for his moral integrity. 'Rectitude' most nearly means:",
       "choices": [
         "moral uprightness; righteousness",
         "a sense of dishonesty",
@@ -2804,7 +2804,7 @@
     },
     {
       "word": "scourge",
-      "question": "The plague was a terrible **scourge** on the population, causing immense suffering and death. A 'scourge' can refer to:",
+      "question": "The plague was a terrible <em>scourge</em> on the population, causing immense suffering and death. A 'scourge' can refer to:",
       "choices": [
         "a person or thing that causes great trouble or suffering",
         "a welcomed gift",
@@ -2817,7 +2817,7 @@
     },
     {
       "word": "tantalize",
-      "question": "The smell of fresh-baked cookies in the kitchen was meant to **tantalize** the children who were waiting to eat. To 'tantalize' someone is to:",
+      "question": "The smell of fresh-baked cookies in the kitchen was meant to <em>tantalize</em> the children who were waiting to eat. To 'tantalize' someone is to:",
       "choices": [
         "torment or tease with the sight of something desired",
         "comfort or soothe",
@@ -2830,7 +2830,7 @@
     },
     {
       "word": "temerity",
-      "question": "She had the **temerity** to ask the CEO for a raise on her very first day of work. 'Temerity' most nearly means:",
+      "question": "She had the <em>temerity</em> to ask the CEO for a raise on her very first day of work. 'Temerity' most nearly means:",
       "choices": [
         "excessive confidence or boldness",
         "a feeling of shyness",
@@ -2843,7 +2843,7 @@
     },
     {
       "word": "covenant",
-      "question": "The two countries signed a **covenant**, promising to support each other in times of war. What does 'covenant' mean?",
+      "question": "The two countries signed a <em>covenant</em>, promising to support each other in times of war. What does 'covenant' mean?",
       "choices": [
         "a formal, solemn, and binding agreement",
         "a physical fight or dispute",
@@ -2856,7 +2856,7 @@
     },
     {
       "word": "covert",
-      "question": "The spy engaged in a **covert** mission, operating secretly to avoid detection. 'Covert' most nearly means:",
+      "question": "The spy engaged in a <em>covert</em> mission, operating secretly to avoid detection. 'Covert' most nearly means:",
       "choices": [
         "not openly acknowledged or displayed; secret",
         "open and public",
@@ -2869,7 +2869,7 @@
     },
     {
       "word": "credulity",
-      "question": "His stories were so unbelievable that they stretched the limits of her **credulity**. 'Credulity' most nearly means:",
+      "question": "His stories were so unbelievable that they stretched the limits of her <em>credulity</em>. 'Credulity' most nearly means:",
       "choices": [
         "a tendency to be too ready to believe that something is true",
         "a state of wisdom",
@@ -2882,7 +2882,7 @@
     },
     {
       "word": "culpable",
-      "question": "The police investigation found the man to be **culpable** for the crime. The thief was found **culpable** for the crime.",
+      "question": "The police investigation found the man to be <em>culpable</em> for the crime. The thief was found <em>culpable</em> for the crime.",
       "choices": [
         "deserving of blame",
         "innocent and blameless",
@@ -2895,7 +2895,7 @@
     },
     {
       "word": "daunt",
-      "question": "The sight of the huge mountain did not **daunt** the experienced climbers; they were ready for the challenge. To 'daunt' most nearly means:",
+      "question": "The sight of the huge mountain did not <em>daunt</em> the experienced climbers; they were ready for the challenge. To 'daunt' most nearly means:",
       "choices": [
         "to make someone feel intimidated or discouraged",
         "to motivate someone",
@@ -2908,7 +2908,7 @@
     },
     {
       "word": "dearth",
-      "question": "There was a **dearth** of water in the desert, which made it difficult to travel. What does 'dearth' mean?",
+      "question": "There was a <em>dearth</em> of water in the desert, which made it difficult to travel. What does 'dearth' mean?",
       "choices": [
         "a scarcity or lack of something",
         "an abundance of something",
@@ -2921,7 +2921,7 @@
     },
     {
       "word": "decrepit",
-      "question": "The **decrepit** old barn was falling apart, with a roof that was collapsing and walls that were rotting. 'Decrepit' most nearly means:",
+      "question": "The <em>decrepit</em> old barn was falling apart, with a roof that was collapsing and walls that were rotting. 'Decrepit' most nearly means:",
       "choices": [
         "worn out or ruined because of age or neglect",
         "young and new",
@@ -2934,7 +2934,7 @@
     },
     {
       "word": "defection",
-      "question": "The spy's **defection** to the other side was seen as an act of betrayal. What does 'defection' mean?",
+      "question": "The spy's <em>defection</em> to the other side was seen as an act of betrayal. What does 'defection' mean?",
       "choices": [
         "the desertion of one's country or cause",
         "a strong sense of loyalty",
@@ -2947,7 +2947,7 @@
     },
     {
       "word": "definitive",
-      "question": "The lab results gave a **definitive** answer, confirming that the new drug was effective. A 'definitive' answer is:",
+      "question": "The lab results gave a <em>definitive</em> answer, confirming that the new drug was effective. A 'definitive' answer is:",
       "choices": [
         "conclusive, final, and no longer in question",
         "unclear or vague",
@@ -2960,7 +2960,7 @@
     },
     {
       "word": "deleterious",
-      "question": "The storm had a **deleterious** effect on the crops, completely ruining the harvest. 'Deleterious' most nearly means:",
+      "question": "The storm had a <em>deleterious</em> effect on the crops, completely ruining the harvest. 'Deleterious' most nearly means:",
       "choices": [
         "causing harm or damage",
         "helpful and beneficial",
@@ -2973,7 +2973,7 @@
     },
     {
       "word": "delineate",
-      "question": "The teacher asked the students to **delineate** the key points of the chapter in their notes. To 'delineate' means:",
+      "question": "The teacher asked the students to <em>delineate</em> the key points of the chapter in their notes. To 'delineate' means:",
       "choices": [
         "to describe or portray something precisely",
         "to ignore or disregard",
@@ -2986,7 +2986,7 @@
     },
     {
       "word": "demeanor",
-      "question": "He had a calm and confident **demeanor** during the interview, which impressed the hiring manager. What does 'demeanor' mean?",
+      "question": "He had a calm and confident <em>demeanor</em> during the interview, which impressed the hiring manager. What does 'demeanor' mean?",
       "choices": [
         "outward behavior or appearance",
         "the type of clothing someone wears",
@@ -2999,7 +2999,7 @@
     },
     {
       "word": "demure",
-      "question": "The **demure** young woman blushed and looked away when she was complimented. 'Demure' most nearly means:",
+      "question": "The <em>demure</em> young woman blushed and looked away when she was complimented. 'Demure' most nearly means:",
       "choices": [
         "reserved, modest, and shy",
         "outgoing and social",
@@ -3012,7 +3012,7 @@
     },
     {
       "word": "deplore",
-      "question": "Many people **deplore** the use of plastic bags and want a new law to ban them. To 'deplore' means:",
+      "question": "Many people <em>deplore</em> the use of plastic bags and want a new law to ban them. To 'deplore' means:",
       "choices": [
         "to feel or express strong disapproval of something",
         "to fully accept something",
@@ -3025,7 +3025,7 @@
     },
     {
       "word": "desecrate",
-      "question": "The vandals were arrested for trying to **desecrate** the monument by painting graffiti on it. What does 'desecrate' mean?",
+      "question": "The vandals were arrested for trying to <em>desecrate</em> the monument by painting graffiti on it. What does 'desecrate' mean?",
       "choices": [
         "to treat a sacred place or thing with violent disrespect",
         "to honor something sacred",
@@ -3038,7 +3038,7 @@
     },
     {
       "word": "desist",
-      "question": "The police officer told the protesters to **desist** from blocking the road. 'Desist' most nearly means:",
+      "question": "The police officer told the protesters to <em>desist</em> from blocking the road. 'Desist' most nearly means:",
       "choices": [
         "to cease or stop an action",
         "to continue on a path",
@@ -3051,7 +3051,7 @@
     },
     {
       "word": "devoid",
-      "question": "The old woman’s face was **devoid** of any emotion when she heard the bad news. The desert is **devoid** of water.",
+      "question": "The old woman’s face was <em>devoid</em> of any emotion when she heard the bad news. The desert is <em>devoid</em> of water.",
       "choices": [
         "completely lacking in something",
         "full of something",
@@ -3064,7 +3064,7 @@
     },
     {
       "word": "diffident",
-      "question": "He was a **diffident** boy who was too shy to speak up in class. 'Diffident' most nearly means:",
+      "question": "He was a <em>diffident</em> boy who was too shy to speak up in class. 'Diffident' most nearly means:",
       "choices": [
         "lacking in self-confidence; shy",
         "full of confidence and courage",
@@ -3077,7 +3077,7 @@
     },
     {
       "word": "disconsolate",
-      "question": "After losing the championship game, the team was **disconsolate** and sat in silence, too sad to speak. She was **disconsolate** after the loss.",
+      "question": "After losing the championship game, the team was <em>disconsolate</em> and sat in silence, too sad to speak. She was <em>disconsolate</em> after the loss.",
       "choices": [
         "without comfort; extremely unhappy",
         "cheerful and happy",
@@ -3090,7 +3090,7 @@
     },
     {
       "word": "discordant",
-      "question": "The sound of the squealing violin made a **discordant** noise that was out of tune with the rest of the orchestra. 'Discordant' most nearly means:",
+      "question": "The sound of the squealing violin made a <em>discordant</em> noise that was out of tune with the rest of the orchestra. 'Discordant' most nearly means:",
       "choices": [
         "disagreeing or harsh-sounding",
         "harmonious and melodic",
@@ -3103,7 +3103,7 @@
     },
     {
       "word": "dissipate",
-      "question": "The morning fog began to **dissipate** as the sun rose, scattering into the air. What does 'dissipate' mean?",
+      "question": "The morning fog began to <em>dissipate</em> as the sun rose, scattering into the air. What does 'dissipate' mean?",
       "choices": [
         "to scatter or disappear",
         "to save or gather something carefully",
@@ -3116,7 +3116,7 @@
     },
     {
       "word": "dissonant",
-      "question": "The music was made up of **dissonant** chords that created an unpleasant sound. 'Dissonant' most nearly means:",
+      "question": "The music was made up of <em>dissonant</em> chords that created an unpleasant sound. 'Dissonant' most nearly means:",
       "choices": [
         "lacking harmony; harsh and clashing",
         "in perfect tune",
@@ -3129,7 +3129,7 @@
     },
     {
       "word": "diverge",
-      "question": "The two roads **diverge** at the bottom of the hill, going in opposite directions. To 'diverge' means:",
+      "question": "The two roads <em>diverge</em> at the bottom of the hill, going in opposite directions. To 'diverge' means:",
       "choices": [
         "to separate or branch off from a common point",
         "to come together or converge",
@@ -3142,7 +3142,7 @@
     },
     {
       "word": "docile",
-      "question": "The **docile** puppy was easy to train and listened to all of the commands. 'Docile' most nearly means:",
+      "question": "The <em>docile</em> puppy was easy to train and listened to all of the commands. 'Docile' most nearly means:",
       "choices": [
         "ready to accept control or instruction; submissive",
         "wild and untamable",
@@ -3155,7 +3155,7 @@
     },
     {
       "word": "dogmatic",
-      "question": "The speaker was so **dogmatic** in his views that he refused to even listen to anyone else's opinion. A 'dogmatic' person is:",
+      "question": "The speaker was so <em>dogmatic</em> in his views that he refused to even listen to anyone else's opinion. A 'dogmatic' person is:",
       "choices": [
         "inclined to lay down principles as undeniably true",
         "kind and forgiving",
@@ -4180,7 +4180,7 @@
     },
     {
       "word": "idyll",
-      "question": "Which of the following describes an **idyll**?",
+      "question": "Which of the following describes an <em>idyll</em>?",
       "choices": [
         "a scene of rustic, peaceful simplicity",
         "a loud, chaotic event",
@@ -4193,7 +4193,7 @@
     },
     {
       "word": "indulgence",
-      "question": "An **indulgence** is best described as:",
+      "question": "An <em>indulgence</em> is best described as:",
       "choices": [
         "a small, permissible pleasure or treat",
         "a severe punishment for a wrongdoing",
@@ -4206,7 +4206,7 @@
     },
     {
       "word": "infernal",
-      "question": "A person might describe a terrible situation as **infernal** to emphasize that it is:",
+      "question": "A person might describe a terrible situation as <em>infernal</em> to emphasize that it is:",
       "choices": [
         "hellish or extremely unpleasant",
         "heavenly and divine",
@@ -4219,7 +4219,7 @@
     },
     {
       "word": "juxtaposed",
-      "question": "The painter **juxtaposed** bright colors with dark shades to create a strong contrast. In this sentence, 'juxtaposed' means:",
+      "question": "The painter <em>juxtaposed</em> bright colors with dark shades to create a strong contrast. In this sentence, 'juxtaposed' means:",
       "choices": [
         "placed side by side",
         "intentionally separated",
@@ -4232,7 +4232,7 @@
     },
     {
       "word": "lampoon",
-      "question": "What is the primary purpose of a **lampoon**?",
+      "question": "What is the primary purpose of a <em>lampoon</em>?",
       "choices": [
         "to mock or satirize a person or institution",
         "to offer a formal piece of praise or honor",
@@ -4245,7 +4245,7 @@
     },
     {
       "word": "lascivious",
-      "question": "The term **lascivious** most nearly describes someone who is:",
+      "question": "The term <em>lascivious</em> most nearly describes someone who is:",
       "choices": [
         "overtly lustful or promiscuous",
         "innocent and pure of heart",
@@ -4258,7 +4258,7 @@
     },
     {
       "word": "liturgy",
-      "question": "A **liturgy** is most accurately defined as:",
+      "question": "A <em>liturgy</em> is most accurately defined as:",
       "choices": [
         "a fixed set of public religious rituals and ceremonies",
         "a dramatic theatrical performance",
@@ -4271,7 +4271,7 @@
     },
     {
       "word": "mendicant",
-      "question": "A **mendicant** is a person who is:",
+      "question": "A <em>mendicant</em> is a person who is:",
       "choices": [
         "a beggar, dependent on charity",
         "a highly respected religious teacher",
@@ -4284,7 +4284,7 @@
     },
     {
       "word": "nativity",
-      "question": "The word **nativity** refers to a person's:",
+      "question": "The word <em>nativity</em> refers to a person's:",
       "choices": [
         "birth, especially the circumstances of it",
         "death and burial rituals",
@@ -4297,7 +4297,7 @@
     },
     {
       "word": "oblation",
-      "question": "In the context of religion, an **oblation** is most often a form of:",
+      "question": "In the context of religion, an <em>oblation</em> is most often a form of:",
       "choices": [
         "an offering or a sacrifice to a deity",
         "a formal public punishment",
@@ -4310,7 +4310,7 @@
     },
     {
       "word": "patrimony",
-      "question": "**Patrimony** is best defined as:",
+      "question": "<em>Patrimony</em> is best defined as:",
       "choices": [
         "an inheritance from one's father or ancestors",
         "a loan from a financial institution",
@@ -4323,7 +4323,7 @@
     },
     {
       "word": "peccadillo",
-      "question": "A **peccadillo** is a:",
+      "question": "A <em>peccadillo</em> is a:",
       "choices": [
         "small, relatively minor offense or fault",
         "serious crime or major sin",
@@ -4336,7 +4336,7 @@
     },
     {
       "word": "pectoral",
-      "question": "A **pectoral** muscle is found in the:",
+      "question": "A <em>pectoral</em> muscle is found in the:",
       "choices": ["chest", "feet", "hands", "legs"],
       "answer": "chest",
       "explanation": "Pectoral relates to the chest. The major chest muscles, such as the pectoralis major, are often called 'pecs'.",
@@ -4344,7 +4344,7 @@
     },
     {
       "word": "pulchritude",
-      "question": "The word **pulchritude** is a synonym for:",
+      "question": "The word <em>pulchritude</em> is a synonym for:",
       "choices": ["beauty", "ugliness", "strength", "intelligence"],
       "answer": "beauty",
       "explanation": "Pulchritude is a formal or literary term for physical beauty. It comes from the Latin word *pulcher*, meaning 'beautiful'.",
@@ -4352,7 +4352,7 @@
     },
     {
       "word": "quench",
-      "question": "After running a marathon, the athlete needed to **quench** his thirst. This means he needed to:",
+      "question": "After running a marathon, the athlete needed to <em>quench</em> his thirst. This means he needed to:",
       "choices": [
         "satisfy his thirst",
         "increase his thirst",
@@ -4365,7 +4365,7 @@
     },
     {
       "word": "decant",
-      "question": "To **decant** wine is to:",
+      "question": "To <em>decant</em> wine is to:",
       "choices": [
         "pour it gently from one bottle to another",
         "drink it directly from the bottle",
@@ -4378,7 +4378,7 @@
     },
     {
       "word": "delta",
-      "question": "In geography, a **delta** is a landform created at the:",
+      "question": "In geography, a <em>delta</em> is a landform created at the:",
       "choices": [
         "mouth of a river where it meets a larger body of water",
         "summit of a tall mountain",
@@ -4391,7 +4391,7 @@
     },
     {
       "word": "desiccate",
-      "question": "To **desiccate** something is to:",
+      "question": "To <em>desiccate</em> something is to:",
       "choices": [
         "remove all moisture to make it completely dry",
         "add a large amount of water to it",
@@ -4404,7 +4404,7 @@
     },
     {
       "word": "dilate",
-      "question": "When a cat's eyes **dilate**, its pupils:",
+      "question": "When a cat's eyes <em>dilate</em>, its pupils:",
       "choices": [
         "get wider and more open",
         "become smaller and constrict",
@@ -4417,7 +4417,7 @@
     },
     {
       "word": "diurnal",
-      "question": "A **diurnal** animal is one that is active during the:",
+      "question": "A <em>diurnal</em> animal is one that is active during the:",
       "choices": ["day", "night", "winter", "summer"],
       "answer": "day",
       "explanation": "Diurnal describes something that occurs during the day. The opposite is nocturnal.",
@@ -4425,7 +4425,7 @@
     },
     {
       "word": "dolorous",
-      "question": "A **dolorous** expression is one that shows:",
+      "question": "A <em>dolorous</em> expression is one that shows:",
       "choices": [
         "great sorrow or grief",
         "extreme joy and happiness",
@@ -4438,7 +4438,7 @@
     },
     {
       "word": "ductile",
-      "question": "Copper is a **ductile** metal, which means it can be:",
+      "question": "Copper is a <em>ductile</em> metal, which means it can be:",
       "choices": [
         "easily stretched or molded into thin wires",
         "rigid and resistant to being shaped",
@@ -4451,7 +4451,7 @@
     },
     {
       "word": "abominate",
-      "question": "Fill in the blank: She grew to **___** the cruelty she once ignored.",
+      "question": "Fill in the blank: She grew to <em>___</em> the cruelty she once ignored.",
       "choices": ["abominate", "admire", "welcome", "respect"],
       "answer": "abominate",
       "explanation": "To abominate means to have an intense dislike or hatred for something. The word conveys a strong sense of loathing.",
@@ -4459,7 +4459,7 @@
     },
     {
       "word": "aborigine",
-      "question": "An **aborigine** is the:",
+      "question": "An <em>aborigine</em> is the:",
       "choices": [
         "original or native inhabitant of a country or region",
         "temporary visitor or tourist",
@@ -4472,7 +4472,7 @@
     },
     {
       "word": "absolve",
-      "question": "To **absolve** someone is to:",
+      "question": "To <em>absolve</em> someone is to:",
       "choices": [
         "formally pardon them of guilt or blame",
         "punish them for a crime",
@@ -4498,7 +4498,7 @@
     },
     {
       "word": "adulation",
-      "question": "What is the key characteristic of **adulation**?",
+      "question": "What is the key characteristic of <em>adulation</em>?",
       "choices": [
         "excessive praise or flattery",
         "constructive criticism or feedback",
@@ -4511,7 +4511,7 @@
     },
     {
       "word": "alimentary",
-      "question": "The **alimentary** canal is the part of the body related to:",
+      "question": "The <em>alimentary</em> canal is the part of the body related to:",
       "choices": [
         "digestion and nutrition",
         "political governance",
@@ -4524,7 +4524,7 @@
     },
     {
       "word": "allay",
-      "question": "A doctor might give a patient an anxiety-reducing medication to **allay** their fears. In this context, to **allay** means:",
+      "question": "A doctor might give a patient an anxiety-reducing medication to <em>allay</em> their fears. In this context, to <em>allay</em> means:",
       "choices": [
         "to calm or soothe",
         "to increase or worsen",
@@ -4537,7 +4537,7 @@
     },
     {
       "word": "annals",
-      "question": "What are **annals**?",
+      "question": "What are <em>annals</em>?",
       "choices": [
         "a chronological record of historical events",
         "a collection of fictional novels",
@@ -4550,7 +4550,7 @@
     },
     {
       "word": "archaic",
-      "question": "The legal document contained some **archaic** language, making it difficult to understand today. This means the language was:",
+      "question": "The legal document contained some <em>archaic</em> language, making it difficult to understand today. This means the language was:",
       "choices": [
         "old-fashioned and out of date",
         "modern and innovative",
@@ -4563,7 +4563,7 @@
     },
     {
       "word": "archives",
-      "question": "A person goes to a city's **archives** to look for historical documents. This is a place where:",
+      "question": "A person goes to a city's <em>archives</em> to look for historical documents. This is a place where:",
       "choices": [
         "official or historical records are stored",
         "food supplies are kept",
@@ -4576,7 +4576,7 @@
     },
     {
       "word": "arrears",
-      "question": "What does it mean to be in **arrears** on a payment?",
+      "question": "What does it mean to be in <em>arrears</em> on a payment?",
       "choices": [
         "to have an unpaid or overdue debt",
         "to have money in a savings account",
@@ -4589,7 +4589,7 @@
     },
     {
       "word": "ascendant",
-      "question": "With his recent success, the young politician is now considered to be in the **ascendant**. This means he is:",
+      "question": "With his recent success, the young politician is now considered to be in the <em>ascendant</em>. This means he is:",
       "choices": [
         "rising in power and influence",
         "losing his position and influence",
@@ -4602,7 +4602,7 @@
     },
     {
       "word": "assay",
-      "question": "A scientist might **assay** a mineral to determine its purity. This means the scientist will:",
+      "question": "A scientist might <em>assay</em> a mineral to determine its purity. This means the scientist will:",
       "choices": [
         "test or analyze the mineral",
         "disregard the mineral's composition",
@@ -4615,7 +4615,7 @@
     },
     {
       "word": "astral",
-      "question": "What does the word **astral** relate to?",
+      "question": "What does the word <em>astral</em> relate to?",
       "choices": [
         "stars or celestial bodies",
         "the planet Earth and its features",
@@ -4628,7 +4628,7 @@
     },
     {
       "word": "atoll",
-      "question": "An **atoll** is a ring-shaped island that encloses a:",
+      "question": "An <em>atoll</em> is a ring-shaped island that encloses a:",
       "choices": [
         "calm body of water called a lagoon",
         "steep, rocky mountain peak",
@@ -4641,7 +4641,7 @@
     },
     {
       "word": "augur",
-      "question": "The economist’s poor report seemed to **___** a coming recession. The best word to fill the blank is:",
+      "question": "The economist’s poor report seemed to <em>___</em> a coming recession. The best word to fill the blank is:",
       "choices": ["augur", "ignore", "clear", "hide"],
       "answer": "augur",
       "explanation": "To augur means to foretell or predict an event, often based on a sign or omen. The report was a sign of what was to come.",
@@ -4649,7 +4649,7 @@
     },
     {
       "word": "auspices",
-      "question": "The charity event was held under the **auspices** of a large corporation. This means the event was conducted with the corporation's:",
+      "question": "The charity event was held under the <em>auspices</em> of a large corporation. This means the event was conducted with the corporation's:",
       "choices": [
         "guidance and sponsorship",
         "aggressive attack",
@@ -4662,7 +4662,7 @@
     },
     {
       "word": "beatitude",
-      "question": "What does the word **beatitude** mean?",
+      "question": "What does the word <em>beatitude</em> mean?",
       "choices": [
         "a state of supreme blessedness and happiness",
         "a feeling of deep sorrow and sadness",
@@ -4675,7 +4675,7 @@
     },
     {
       "word": "benediction",
-      "question": "A priest's **benediction** at the end of a service is a:",
+      "question": "A priest's <em>benediction</em> at the end of a service is a:",
       "choices": ["blessing", "curse", "narrative story", "formal demand"],
       "answer": "blessing",
       "explanation": "A benediction is a short blessing. The word comes from the Latin *bene* (well) and *dicere* (to speak), literally 'to speak well of'.",
@@ -4683,7 +4683,7 @@
     },
     {
       "word": "biennial",
-      "question": "A **biennial** plant is one that completes its life cycle over:",
+      "question": "A <em>biennial</em> plant is one that completes its life cycle over:",
       "choices": [
         "two years",
         "a single year",
@@ -4696,7 +4696,7 @@
     },
     {
       "word": "bondage",
-      "question": "Fill in the blank: For centuries, people were held in **___** and forced to work without pay.",
+      "question": "Fill in the blank: For centuries, people were held in <em>___</em> and forced to work without pay.",
       "choices": ["bondage", "freedom", "wealth", "luxury"],
       "answer": "bondage",
       "explanation": "Bondage is the state of being a slave or being held in servitude. The word implies a lack of freedom and control over one's own life.",
@@ -4704,7 +4704,7 @@
     },
     {
       "word": "boorish",
-      "question": "The student was expelled for his **boorish** behavior. This means he was:",
+      "question": "The student was expelled for his <em>boorish</em> behavior. This means he was:",
       "choices": [
         "rude and ill-mannered",
         "respectful and considerate",
@@ -4717,7 +4717,7 @@
     },
     {
       "word": "bourgeois",
-      "question": "In sociology, the term **bourgeois** refers to the:",
+      "question": "In sociology, the term <em>bourgeois</em> refers to the:",
       "choices": [
         "middle class, often characterized by materialism",
         "royal or aristocratic elite",
@@ -4730,7 +4730,7 @@
     },
     {
       "word": "bovine",
-      "question": "The veterinary school focused on **bovine** medicine. This branch of study is concerned with:",
+      "question": "The veterinary school focused on <em>bovine</em> medicine. This branch of study is concerned with:",
       "choices": ["cows or cattle", "horses", "birds", "sheep"],
       "answer": "cows or cattle",
       "explanation": "Bovine is an adjective that relates to or resembles cows. The scientific name for cattle is *Bos taurus*.",
@@ -4738,7 +4738,7 @@
     },
     {
       "word": "carp",
-      "question": "Fill in the blank: He would always **___** about the smallest details, making it impossible to finish the project.",
+      "question": "Fill in the blank: He would always <em>___</em> about the smallest details, making it impossible to finish the project.",
       "choices": ["carp", "praise", "admire", "enjoy"],
       "answer": "carp",
       "explanation": "To carp means to complain or find fault in a persistent, nagging way. It suggests a trivial and bothersome criticism.",
@@ -4746,7 +4746,7 @@
     },
     {
       "word": "carrion",
-      "question": "Vultures are scavengers that feed on **carrion**. This is:",
+      "question": "Vultures are scavengers that feed on <em>carrion</em>. This is:",
       "choices": [
         "the decaying flesh of dead animals",
         "freshly killed meat",
@@ -4759,7 +4759,7 @@
     },
     {
       "word": "castigate",
-      "question": "The coach would **castigate** the players for their poor performance. To castigate them means to:",
+      "question": "The coach would <em>castigate</em> the players for their poor performance. To castigate them means to:",
       "choices": [
         "punish or severely criticize them",
         "offer them praise and encouragement",
@@ -4772,7 +4772,7 @@
     },
     {
       "word": "chaff",
-      "question": "When farmers separate wheat from **chaff**, they are removing the:",
+      "question": "When farmers separate wheat from <em>chaff</em>, they are removing the:",
       "choices": [
         "worthless husks or debris",
         "valuable grain kernels",
@@ -4785,7 +4785,7 @@
     },
     {
       "word": "coniferous",
-      "question": "Trees that are **coniferous** are characterized by:",
+      "question": "Trees that are <em>coniferous</em> are characterized by:",
       "choices": [
         "producing cones and needles",
         "bearing fruit in the summer",
@@ -4798,7 +4798,7 @@
     },
     {
       "word": "constrict",
-      "question": "To **constrict** a blood vessel is to cause it to:",
+      "question": "To <em>constrict</em> a blood vessel is to cause it to:",
       "choices": [
         "shrink or become narrower",
         "expand or become wider",
@@ -4811,7 +4811,7 @@
     },
     {
       "word": "convolution",
-      "question": "A **convolution** is a:",
+      "question": "A <em>convolution</em> is a:",
       "choices": [
         "complex, twisted, or coiled shape",
         "perfectly straight or linear path",
@@ -4832,7 +4832,7 @@
     },
     {
       "word": "extrinsic",
-      "question": "The value of the diamond was **extrinsic**, as it was based on external factors like market demand. This means its value was:",
+      "question": "The value of the diamond was <em>extrinsic</em>, as it was based on external factors like market demand. This means its value was:",
       "choices": [
         "external or not part of its essential nature",
         "an essential or core part of the stone",
@@ -4845,7 +4845,7 @@
     },
     {
       "word": "fatuous",
-      "question": "The student's **fatuous** comments showed a lack of serious thought. 'Fatuous' most nearly means:",
+      "question": "The student's <em>fatuous</em> comments showed a lack of serious thought. 'Fatuous' most nearly means:",
       "choices": [
         "foolish or silly",
         "wise or intelligent",
@@ -4858,7 +4858,7 @@
     },
     {
       "word": "fecund",
-      "question": "The **fecund** soil of the rainforest produced a rich abundance of plants. **Fecund** most nearly means:",
+      "question": "The <em>fecund</em> soil of the rainforest produced a rich abundance of plants. <em>Fecund</em> most nearly means:",
       "choices": [
         "fertile and productive",
         "barren and unproductive",
@@ -4871,7 +4871,7 @@
     },
     {
       "word": "flaccid",
-      "question": "The balloon became **flaccid** after the air was let out. 'Flaccid' most nearly means:",
+      "question": "The balloon became <em>flaccid</em> after the air was let out. 'Flaccid' most nearly means:",
       "choices": [
         "limp, soft, and lacking firmness",
         "firm and rigid",
@@ -4884,7 +4884,7 @@
     },
     {
       "word": "fledge",
-      "question": "A young bird that has **fledged** is ready to:",
+      "question": "A young bird that has <em>fledged</em> is ready to:",
       "choices": [
         "begin to fly and leave the nest",
         "die or expire",
@@ -4897,7 +4897,7 @@
     },
     {
       "word": "fray",
-      "question": "The rope began to **fray** at the edges from constant use. 'Fray' most nearly means to:",
+      "question": "The rope began to <em>fray</em> at the edges from constant use. 'Fray' most nearly means to:",
       "choices": [
         "wear down or unravel",
         "strengthen or reinforce",
@@ -4910,7 +4910,7 @@
     },
     {
       "word": "gradient",
-      "question": "The **gradient** of the hill was very steep. The word 'gradient' refers to its:",
+      "question": "The <em>gradient</em> of the hill was very steep. The word 'gradient' refers to its:",
       "choices": [
         "slope or incline",
         "overall height",
@@ -4923,7 +4923,7 @@
     },
     {
       "word": "guild",
-      "question": "A medieval **guild** was a type of:",
+      "question": "A medieval <em>guild</em> was a type of:",
       "choices": [
         "professional association of craftsmen",
         "noble family or clan",
@@ -4936,7 +4936,7 @@
     },
     {
       "word": "rotundity",
-      "question": "The **rotundity** of the globe was a key concept for early explorers. **Rotundity** most nearly means:",
+      "question": "The <em>rotundity</em> of the globe was a key concept for early explorers. <em>Rotundity</em> most nearly means:",
       "choices": [
         "roundness or plumpness",
         "thinness or slenderness",
@@ -4949,7 +4949,7 @@
     },
     {
       "word": "serrated",
-      "question": "A **serrated** knife is most easily identified by its:",
+      "question": "A <em>serrated</em> knife is most easily identified by its:",
       "choices": [
         "saw-like, notched edge",
         "smooth, razor-sharp edge",
@@ -4962,7 +4962,7 @@
     },
     {
       "word": "sweltered",
-      "question": "After the air conditioning broke, the office workers **sweltered**. This means they were:",
+      "question": "After the air conditioning broke, the office workers <em>sweltered</em>. This means they were:",
       "choices": [
         "suffering from the extreme heat",
         "freezing from the cold",
@@ -4975,7 +4975,7 @@
     },
     {
       "word": "travail",
-      "question": "The mountain climbers endured great **travail** to reach the summit. The word **travail** refers to:",
+      "question": "The mountain climbers endured great <em>travail</em> to reach the summit. The word <em>travail</em> refers to:",
       "choices": [
         "painful or laborious effort",
         "a relaxing vacation",
@@ -4988,7 +4988,7 @@
     },
     {
       "word": "turgid",
-      "question": "The river became **turgid** after the heavy rains. 'Turgid' most nearly means:",
+      "question": "The river became <em>turgid</em> after the heavy rains. 'Turgid' most nearly means:",
       "choices": [
         "swollen or bloated",
         "dry or empty",
@@ -5001,7 +5001,7 @@
     },
     {
       "word": "uncouth",
-      "question": "An **uncouth** person is someone who is considered:",
+      "question": "An <em>uncouth</em> person is someone who is considered:",
       "choices": [
         "rude and lacking good manners",
         "polite and well-spoken",
@@ -5014,7 +5014,7 @@
     },
     {
       "word": "parsimony",
-      "question": "A person known for their **parsimony** is someone who is:",
+      "question": "A person known for their <em>parsimony</em> is someone who is:",
       "choices": [
         "extremely unwilling to spend money",
         "generous and giving",
@@ -5027,7 +5027,7 @@
     },
     {
       "word": "epitaph",
-      "question": "An **epitaph** is a phrase or inscription found:",
+      "question": "An <em>epitaph</em> is a phrase or inscription found:",
       "choices": [
         "on a tombstone or monument",
         "in a religious hymn",
