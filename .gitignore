@@ -1,2 +1,4 @@
 # Dependencies
 node_modules/
+db/db-backup.json
+test.html
