@@ -300,7 +300,7 @@
     },
     {
       "word": "accolade",
-      "question": "Which word best fits: The scientist received an ___ for her discoveries.",
+      "question": "Which word best fits: The scientist received a/an ___ for her discoveries.",
       "choices": ["accolade", "insult", "rejection", "complaint"],
       "answer": "accolade",
       "explanation": "Accolade means an honor or award.",
@@ -515,7 +515,7 @@
     },
     {
       "word": "arduous",
-      "question": "Fill in the blank: Climbing the mountain was an ___ task.",
+      "question": "Fill in the blank: Climbing the mountain was a/an ___ task.",
       "choices": ["arduous", "easy", "quick", "pleasant"],
       "answer": "arduous",
       "explanation": "Arduous means difficult or requiring effort.",
